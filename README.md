@@ -2,14 +2,14 @@
 
 Révision des règlements européens (CRA, NIS 2, RGPD...), des référentiels nationaux (RGAA, RGS, RGI...) et des publications de la DINUM.
 
-13 modules, consultables depuis l'application de révision
+14 modules, consultables depuis l'application de révision
 https://guiraudjb.github.io/PSE25-27/ (ce dépôt en fournit les données via GitHub Pages).
 
 ## Séries
 
 - **01** : Règlements européens
 - **02** : Référentiels nationaux
-- **04** : IA et numérique de l'État
+- **04** : Numérique de l'État : IA, Suite Numérique, gouvernance
 
 ## Contenu par module
 
