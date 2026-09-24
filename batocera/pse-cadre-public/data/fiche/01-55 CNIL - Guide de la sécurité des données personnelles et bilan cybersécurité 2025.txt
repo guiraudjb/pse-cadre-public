@@ -1,0 +1,149 @@
+GUIDE PRATIQUE DE LA SÉCURITÉ DES DONNÉES PERSONNELLES DE LA CNIL, VERSION 2024 MISE À JOUR EN 2026, VINGT-CINQ FICHES, ET PLAQUETTE CYBERSÉCURITÉ ÉDITION 2026 SUR LES NOTIFICATIONS DE VIOLATIONS DE 2025.
+
+LEXIQUE COMPLET.
+
+      L'article 32 du RGPD impose au responsable de traitement et au sous-traitant des mesures techniques et organisationnelles appropriées garantissant un niveau de sécurité adapté au risque pour les droits et libertés des personnes.
+
+      Une violation de données personnelles est une violation de la sécurité entraînant, de manière accidentelle ou illicite, la destruction, la perte, l'altération, la divulgation non autorisée ou l'accès non autorisé à des données personnelles.
+
+      Le DPD ou DPO est le délégué à la protection des données, et le RSSI le responsable de la sécurité des systèmes d'information, qui doivent tous deux pouvoir rapporter au plus haut niveau de la direction.
+
+      L'AIPD, analyse d'impact relative à la protection des données, est obligatoire pour les traitements susceptibles d'engendrer un risque élevé, selon l'article 35 du RGPD.
+
+      L'entropie d'un mot de passe mesure son imprédictibilité et sa résistance à une attaque par force brute, exprimée en bits.
+
+      L'authentification multifacteur combine au moins deux facteurs de catégories distinctes : connaissance, possession et inhérence.
+
+      Le principe de moindre privilège limite chaque utilisateur aux seules données strictement nécessaires à ses missions.
+
+      Le sel est un aléa différent pour chaque mot de passe stocké, ajouté avant le hachage.
+
+      La DMZ, zone démilitarisée, est un réseau accessible depuis Internet séparé du réseau interne par des passerelles.
+
+      L'informatique fantôme, ou shadow IT, désigne les outils utilisés sans l'accord de l'organisme, souvent révélateurs de besoins non couverts.
+
+COURS DÉTAILLÉ.
+
+I. LE BILAN 2025 DES VIOLATIONS DE DONNÉES.
+
+      La CNIL a reçu six mille cent soixante-sept notifications de violations en 2025, soit près de seize par jour.
+
+      Quatre-vingt-quatorze pour cent concernent une perte de confidentialité, mais les pertes d'intégrité et de disponibilité progressent avec les rançongiciels, à l'origine de neuf pour cent des notifications.
+
+      Le piratage informatique représente la moitié des notifications, et dix pour cent sont consécutives à des incidents chez des sous-traitants.
+
+      Les secteurs les plus concernés sont l'administration publique à dix-neuf pour cent, la santé et l'action sociale à quinze pour cent et la finance et l'assurance à douze pour cent.
+
+      Le RGPD impose de documenter en interne toutes les violations, de notifier à la CNIL sous soixante-douze heures celles présentant un risque, et d'informer les personnes en cas de risque élevé, sous peine d'une amende jusqu'à vingt millions d'euros ou quatre pour cent du chiffre d'affaires.
+
+      Les manquements les plus fréquents relevés lors des plus de trois cents contrôles annuels sont les données accessibles par modification d'URL, les politiques de mots de passe insuffisantes, les mots de passe transmis en clair, les formulaires en HTTP, l'absence de verrouillage de session et l'absence de tests de sécurité avant mise en production.
+
+II. PILOTER ET ENCADRER LES UTILISATEURS.
+
+   A. Piloter la sécurité.
+
+      Il faut impliquer la direction, recenser dans le registre les traitements et leurs supports, formaliser les flux, définir un plan d'action avec responsables et échéances, contrôler l'effectivité des mesures et tenir une revue de direction au moins annuelle.
+
+      Deux approches se combinent : un socle de précautions élémentaires et une analyse des risques propres au traitement.
+
+      Il ne faut ni traiter la sécurité a posteriori, ni sauter les précautions élémentaires, ni déléguer toute la sécurité à un fournisseur, et les normes ISO 27001 et ISO 27701 structurent un système de management.
+
+   B. Cadre et formation des utilisateurs.
+
+      La charte informatique, rendue contraignante par exemple par annexion au règlement intérieur, précise les règles de sécurité, les moyens mis à disposition, l'administration et les sanctions.
+
+      Un engagement de confidentialité peut être signé par les personnes qui manipulent des données, et une charte spécifique prévue pour les administrateurs.
+
+      La sensibilisation doit être adaptée aux fonctions, complétée par des exercices de crise et une classification de l'information, et imposée à tout nouvel arrivant lorsque l'activité traite des données personnelles.
+
+   C. Authentification et habilitations.
+
+      Chaque utilisateur a un identifiant unique, les comptes partagés étant tracés et validés à titre exceptionnel.
+
+      Par défaut, un mot de passe doit avoir une entropie de quatre-vingts bits, par exemple douze caractères de quatre types ou quatorze caractères sans caractère spécial, cinquante bits avec des restrictions d'accès comme un blocage après dix échecs, et treize bits pour un code sur matériel bloqué après trois échecs.
+
+      On ne stocke que l'empreinte salée des mots de passe, jamais avec MD5 ou SHA-1, on n'impose pas de renouvellement périodique aux simples utilisateurs mais on l'impose aux administrateurs, et on encourage les gestionnaires de mots de passe.
+
+      L'authentification multifacteur est recommandée pour les données sensibles, l'administration, les accès distants et la messagerie professionnelle, en privilégiant connaissance et possession.
+
+      Les habilitations sont définies par profils, validées par un responsable, retirées dès le changement de poste ou le départ, et revues au moins une fois par an.
+
+III. SÉCURISER L'INFORMATIQUE.
+
+   A. Postes, mobiles et réseau.
+
+      Les postes de travail doivent avoir un verrouillage automatique, un pare-feu, un antivirus, des mises à jour rapides, des droits limités et l'exécution automatique désactivée pour les supports amovibles, et toute prise de main à distance doit recueillir l'accord de l'utilisateur.
+
+      L'informatique mobile exige chiffrement des disques et supports, VPN, espaces de stockage partagés, verrouillage des smartphones et une évaluation des risques avant d'autoriser le BYOD, sans porter atteinte à la vie privée sur l'équipement personnel.
+
+      Le réseau doit bloquer les services inutiles, utiliser un Wi-Fi WPA3 ou WPA2 bien configuré et séparer le réseau invités, imposer un VPN pour l'accès distant, n'exposer aucune interface d'administration sur Internet, préférer SSH à Telnet et cloisonner avec une DMZ.
+
+   B. Serveurs, sites et développements.
+
+      Les serveurs doivent avoir les services inutiles désactivés, une administration restreinte avec une politique de mots de passe spécifique, des mises à jour critiques sans délai vérifiées chaque semaine, des comptes nominatifs, des sauvegardes et le protocole TLS, de préférence en version un point trois.
+
+      Les bases de données ne doivent jamais être directement accessibles depuis Internet, et les serveurs ne servent pas à naviguer ni à consulter sa messagerie.
+
+      Les sites web imposent HTTPS, n'ouvrent que le port quatre cent quarante-trois, activent les options HttpOnly et Secure des cookies, recueillent le consentement pour les cookies non nécessaires et se protègent du Top 10 de l'OWASP, injections SQL, XSS et manipulations d'URL.
+
+      Les développements intègrent la protection des données dès la conception, utilisent des composants reconnus, des données fictives pour les tests, un environnement distinct de la production, et aucun secret dans les dépôts de code.
+
+   C. Locaux.
+
+      Les locaux doivent avoir portes verrouillées, alarmes testées, détection incendie, zones distinguées selon les risques, visiteurs accompagnés et prises réseau protégées.
+
+IV. MAÎTRISER LES DONNÉES ET SE PRÉPARER AUX INCIDENTS.
+
+   A. Échanges, sous-traitance et maintenance.
+
+      Les données transmises sont chiffrées, par SFTP ou HTTPS, et le secret de déchiffrement passe par un canal distinct, par exemple le fichier par courriel et le mot de passe par SMS.
+
+      Les sous-traitants doivent présenter des garanties suffisantes, être liés par un contrat conforme à l'article 28 du RGPD et être audités, et les données de santé imposent un hébergeur certifié HDS.
+
+      La maintenance est tracée dans une main courante, la télémaintenance ouverte seulement pour la durée de l'intervention, et les données effacées de façon sécurisée avant toute mise au rebut ou réparation.
+
+   B. Traçabilité, sauvegardes et continuité.
+
+      La journalisation enregistre les actions des utilisateurs, des administrateurs et les événements de sécurité, conservés de six mois à un an sur une période glissante, protégés et analysés, sans jamais servir à d'autres fins comme compter les heures travaillées.
+
+      Les sauvegardes sont fréquentes, dont au moins une sur un site distinct et une hors ligne, protégées et testées, selon l'état de l'art de la règle trois-deux-un.
+
+      Un plan de continuité et de reprise, même sommaire, est rédigé, testé, et ne doit pas dégrader la protection des données en mode dégradé.
+
+   C. Gestion des incidents.
+
+      Il faut des procédures d'alerte, des critères de qualification des violations, une évaluation du risque pour les personnes, un registre interne et une notification à la CNIL sous soixante-douze heures, éventuellement en deux temps, sans attendre d'avoir toutes les informations.
+
+V. LES FOCUS THÉMATIQUES.
+
+      L'analyse de risques recense les supports, identifie pour les trois événements redoutés, accès illégitime, modification non désirée et disparition, les impacts, sources et menaces, puis estime gravité et vraisemblance, par exemple avec la méthode EBIOS Risk Manager.
+
+      La cryptographie doit reposer sur des algorithmes reconnus : SHA-2 ou SHA-3 pour le hachage, bcrypt, scrypt, Argon2 ou PBKDF2 pour les mots de passe, AES pour le chiffrement symétrique, RSA d'au moins deux mille quarante-huit bits, et jamais DES, 3DES, MD5 ou SHA-1.
+
+      Dans le cloud, la sécurité est partagée : il faut cartographier les services, chiffrer au repos et en transit, configurer les outils du fournisseur, savoir que le chiffrement côté serveur ne protège pas du fournisseur et envisager un prestataire qualifié SecNumCloud pour les données sensibles.
+
+      Les applications mobiles minimisent les permissions, chiffrent leurs communications en TLS et protègent leurs secrets par les coffres matériels du téléphone.
+
+      Les systèmes d'intelligence artificielle exigent une équipe pluridisciplinaire, la vérification de la qualité et de l'intégrité des données contre l'empoisonnement et une documentation des limites.
+
+      Les API partagent le strict nécessaire, séparent administration et usage courant, journalisent les échanges et désactivent les anciennes versions non sûres.
+
+POINTS D'ATTENTION.
+
+      Le hachage n'est pas du chiffrement : une empreinte rapide peut être retrouvée par essais systématiques.
+
+      Une sauvegarde stockée sur le même système que les données peut être chiffrée par le même rançongiciel.
+
+      Il ne faut jamais faire transiter de données personnelles ou de secrets dans une URL.
+
+      La sécurité dans le cloud ne repose pas uniquement sur le fournisseur.
+
+EXEMPLES CITÉS.
+
+      La suppression accidentelle de données médicales non sauvegardées constitue une violation de données.
+
+      La perte d'une clé USB non chiffrée contenant la base clients d'une société est une violation à notifier si elle présente un risque.
+
+      L'introduction malveillante dans une base scolaire pour modifier les résultats des élèves est une perte d'intégrité.
+
+      Il suffit parfois de modifier un nombre dans la barre d'adresse pour accéder aux documents d'autres personnes.

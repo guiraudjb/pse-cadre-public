@@ -1,0 +1,41 @@
+Quel article du RGPD impose la sécurité des traitements ?;L'article 32;L'article 1;L'article 99;L'article 83;2;Mesures techniques et organisationnelles adaptées au risque.
+Combien de notifications de violations la CNIL a-t-elle reçues en 2025 ?;61 670;6 167;Aucune;616;3;Près de 16 par jour.
+Quelle part des violations notifiées concerne une perte de confidentialité ?;50 %;2 %;94 %;10 %;4;Intrusion d'un tiers qui peut voir ou copier les données.
+Quelle part des notifications résulte d'un piratage informatique ?;5 %;1 %;90 %;50 %;5;Les rançongiciels en représentent 9 %.
+Quel secteur a notifié le plus de violations en 2025 ?;La construction;Les arts et spectacles;L'agriculture;L'administration publique;5;19 % des notifications.
+Dans quel délai notifier une violation à risque à la CNIL ?;Un mois;72 heures;Une semaine;Un an;3;Une notification en deux temps est possible.
+Quand informer les personnes concernées d'une violation ?;Seulement si elles le demandent;Toujours;Jamais;En cas de risque élevé pour elles;5;Sauf exceptions prévues par le RGPD.
+Quelle amende maximale prévoit le RGPD ?;Aucune;20 millions d'euros ou 4 % du chiffre d'affaires;100 000 euros;1 000 euros;3;Le plus élevé des deux montants.
+Quel est un manquement fréquent relevé par la CNIL ?;Des écrans trop lumineux;Un site trop rapide;Des données accessibles en modifiant l'URL;Un logo trop grand;4;Défaut d'authentification ou URL prédictible.
+Quelles sont les deux approches de la sécurité selon le guide ?;Une assurance et un avocat;Un antivirus et un pare-feu;Un socle de précautions élémentaires et une analyse de risques;Aucune;4;Elles sont complémentaires.
+À quelle fréquence minimale tenir une revue de direction sur la sécurité ?;Une fois par an;Tous les dix ans;Jamais;Chaque jour;2;Pour décider des moyens et de l'amélioration continue.
+Comment donner une force contraignante à la charte informatique ?;En la traduisant;En la laminant;En la publiant sur Internet;En l'annexant au règlement intérieur;5;Elle doit rappeler les sanctions.
+Que révèle souvent l'informatique fantôme ?;Des besoins essentiels non couverts par l'organisme;Rien;Une bonne pratique;Un piratage certain;2;Il faut tenir compte des pratiques réelles.
+Quelle entropie minimale par défaut pour un mot de passe ?;80 bits;13 bits;8 bits;200 bits;2;Par exemple 12 caractères de 4 types.
+Quelle longueur sans caractère spécial obligatoire donne 80 bits ?;20 lettres minuscules;6 caractères;8 chiffres;14 caractères avec majuscules, minuscules et chiffres;5;Autre exemple que 12 caractères de 4 types.
+Faut-il imposer un renouvellement périodique des mots de passe aux simples utilisateurs ?;Non, mais oui pour les administrateurs;Oui chaque jour;Oui chaque semaine;Jamais pour personne;2;Selon la recommandation de la CNIL.
+Comment stocker les mots de passe ?;En clair;En MD5;Dans un fichier texte;Uniquement leur empreinte salée avec une fonction adaptée;5;Par exemple bcrypt, scrypt, Argon2 ou PBKDF2.
+Quelles sont les trois catégories de facteurs d'authentification ?;Aucune;Nom, prénom, âge;Connaissance, possession, inhérence;Heure, date, lieu;4;Le multifacteur en combine au moins deux distinctes.
+À quelle fréquence revoir les habilitations ?;Au moins une fois par an;Chaque heure;Tous les cinq ans;Jamais;2;En impliquant les métiers.
+Que doit recueillir un outil de prise de main à distance ?;Son adresse;Rien;Son mot de passe;L'accord de l'utilisateur;5;L'utilisateur doit voir quand la session commence et finit.
+Quel chiffrement Wi-Fi est recommandé ?;Un code à 4 chiffres;Aucun;WPA3 ou WPA2 bien configuré;WEP;4;Le réseau invités doit être séparé.
+Quel protocole préférer pour administrer les équipements réseau ?;HTTP;SSH correctement configuré;Telnet;FTP;3;Telnet transmet en clair.
+Qu'est-ce qu'une DMZ ?;Un antivirus;Un réseau accessible depuis Internet séparé du réseau interne;Une zone militaire;Une salle serveur;3;Le cloisonnement réduit l'impact d'une compromission.
+Quelle version de TLS privilégier ?;SSL 3.0;Aucune;TLS 1.3, à défaut 1.2;SSL 2.0;4;SSL est obsolète et à proscrire.
+Où ne faut-il jamais placer une base de données ?;Sur un serveur directement accessible depuis Internet;Dans une salle sécurisée;Derrière un pare-feu;Dans une DMZ interne protégée;2;Elle doit rester sur le réseau interne.
+Quelles options activer sur tous les cookies ?;Rapide et Joli;Aucune;Public et Ouvert;HttpOnly et Secure;5;Le consentement est requis pour les cookies non nécessaires.
+Quelles données utiliser pour les tests de développement ?;Des données fictives ou anonymisées;Aucune donnée;Des données clients complètes;Des données réelles de production;2;Dans un environnement distinct de la production.
+Comment transmettre le mot de passe d'un fichier chiffré envoyé par courriel ?;Par un canal distinct, comme le téléphone ou un SMS;Dans l'objet du message;Dans le même courriel;Sur les réseaux sociaux;2;Pour préserver la confidentialité.
+Quelle certification exiger d'un hébergeur de données de santé ?;La certification HDS;Aucune;Label Rouge;ISO 9001;2;L'Agence du numérique en santé publie la liste.
+Que faire avant la mise au rebut d'un matériel ?;Le donner;Effacer les données de façon sécurisée;Le jeter tel quel;Le revendre immédiatement;3;Idem avant réparation chez un tiers.
+Combien de temps conserver les journaux en principe ?;Sans limite;Dix ans;Entre six mois et un an sur période glissante;Un jour;4;Sauf obligation légale ou contentieux.
+Peut-on utiliser les journaux pour compter les heures travaillées ?;Oui avec l'accord du DRH;Oui pour les cadres;Non, c'est un détournement de finalité puni par la loi;Oui librement;4;Ils servent au bon usage du système informatique.
+Que prévoit la règle 3-2-1 ?;Aucune règle;Trois copies, deux supports, une hors ligne;Trois serveurs, deux pare-feu, un antivirus;Trois mots de passe;3;C'est l'état de l'art des sauvegardes.
+Quels sont les trois événements redoutés de l'analyse de risques ?;Accès illégitime, modification non désirée, disparition;Aucun;Vol, incendie, inondation;Panne, grève, retard;2;On estime ensuite gravité et vraisemblance.
+Quelle méthode d'analyse de risques de l'ANSSI est citée ?;Six Sigma;Scrum;ITIL;EBIOS Risk Manager;5;Compatible avec l'étude des risques sur la vie privée.
+Quelles fonctions de hachage sont obsolètes ?;Argon2 et bcrypt;MD5 et SHA-1;AES et RSA;SHA-2 et SHA-3;3;DES et 3DES sont aussi obsolètes.
+Quelle taille minimale de clé RSA est recommandée ?;512 bits;128 bits;64 bits;2 048 bits;5;Ou 3 072 bits.
+Le chiffrement côté serveur protège-t-il les données vis-à-vis du fournisseur cloud ?;Non;Oui en Europe;Oui s'il est gratuit;Oui toujours;2;Il détient les clés s'il gère le chiffrement.
+Quelle qualification de l'ANSSI envisager pour un cloud traitant des données sensibles ?;SecNumCloud;ISO 9001;HDS;Qualiopi;2;Imposée à certains acteurs par la doctrine cloud au centre.
+Qu'est-ce que l'empoisonnement des données pour une IA ?;La manipulation des données d'entraînement par un tiers;Une panne électrique;Un virus biologique;Une coupure réseau;2;D'où la vérification de la qualité et des sources.
+Le hachage garantit-il la confidentialité ?;Oui sans sel;Oui avec MD5;Non, une empreinte peut être retrouvée par essais systématiques;Oui toujours;4;Le chiffrement garantit la confidentialité.
