@@ -1,0 +1,34 @@
+Quelle est la date d'entrée en application de DORA ?;Le 1er janvier 2030;Le 14 juillet 2024;Le 17 janvier 2025;Le 25 mai 2018;4;Le règlement date du 14 décembre 2022.
+Quel est le numéro du règlement DORA ?;2022/2554;2019/1937;2016/679;2024/1689;2;Règlement européen du 14 décembre 2022.
+À combien de catégories d'entités financières DORA s'applique-t-il ?;2;5;20;200;4;Il limite la fragmentation réglementaire.
+Quelle relation entre DORA et NIS 2 ?;Ils sont sans lien;DORA abroge NIS 2;DORA est lex specialis de NIS 2;NIS 2 prime sur DORA;4;Pour la gestion du risque cyber et la notification des incidents.
+Qui est responsable du cadre de gestion du risque lié aux TIC ?;L'organe de direction;Le stagiaire;L'ACPR;Le prestataire;2;Article 5 : il le définit, l'approuve et le supervise.
+Quel règlement délégué précise les outils de gestion du risque TIC ?;Le règlement 2016/679;Le règlement 2024/1773;Le règlement délégué 2024/1774;La directive 95/46;4;Le 2024/1773 porte sur la politique relative aux tiers.
+Quel règlement délégué précise la politique relative aux prestataires tiers ?;Le règlement délégué 2024/1773;Le règlement 2025/301;Le règlement 2024/1772;Le règlement 2024/1774;2;Adopté le 13 mars 2024.
+Qu'est-ce qu'un petit ORPS ?;Un ORPS de moins de mille affiliés;Une petite banque;Une start-up;Un ORPS de moins de cent affiliés;5;Il relève du cadre simplifié.
+Quel principe adapte les mesures DORA à la taille des entités ?;La réciprocité;L'universalité;La gratuité;La proportionnalité;5;Article 4 du règlement.
+Qu'est-ce qu'une fonction critique ou importante ?;Tout service informatique;Une fonction dont la perturbation nuirait sérieusement à l'entité ou à son agrément;Une fonction de communication;La cantine;3;Définition du point 22 de l'article 3.
+À quelle fréquence tester les systèmes soutenant des fonctions critiques ?;Tous les dix ans;Au moins une fois par an;Jamais;Chaque jour;3;Programme de tests de résilience de l'article 24.
+Quels principes régissent les droits d'accès ?;Besoin d'en connaître, besoin d'en disposer et moindre privilège;Accès libre;Ancienneté;Hiérarchie seule;2;Y compris pour l'accès à distance et d'urgence.
+Que faut-il limiter selon la politique d'accès ?;Les journaux;La formation;Les comptes génériques ou partagés;Les mots de passe longs;4;Les utilisateurs doivent rester identifiables.
+Que doit prévoir la gestion des changements ?;Indépendance entre mise en œuvre et validation et procédures de repli;Des changements anonymes;Aucune validation;Le secret total;2;Et la réévaluation des changements d'urgence.
+Quelles durées la continuité des TIC doit-elle fixer ?;La durée des contrats;Les durées maximales d'interruption et de perte de données tolérées;La durée de vie des écrans;La durée des congés;3;Pour chaque scénario de perturbation.
+Qui revoit le plan de réponse et de rétablissement des TIC ?;Le client;L'audit interne de façon indépendante;Personne;Le prestataire;3;Article 11 paragraphe 3.
+À quelle fréquence réexaminer le cadre de gestion du risque TIC ?;Chaque semaine;Jamais;Au moins une fois par an et après un incident majeur;Tous les cinq ans;4;Rapport remis à l'ACPR sur demande.
+Qu'est-ce que le RoI ?;Un rapport d'incident;Le registre d'informations des contrats avec les prestataires TIC;Un logiciel;Le retour sur investissement;3;Remis sur la plateforme OneGate.
+Quelle part des entités a remis son RoI sur OneGate ?;100 %;39 %;10 %;84 %;5;Seulement 39 % ont pu être traités au niveau européen.
+Les règles DORA sur les prestataires remplacent-elles celles de l'externalisation ?;Oui pour les banques;Non, elles les complètent;Oui entièrement;Oui pour le cloud;3;Les lignes directrices de l'EBA restent applicables.
+Quelle clause contractuelle est exigée des prestataires ?;Le secret envers l'autorité;La gratuité;L'exclusivité à vie;Le droit d'audit;5;Avec la localisation, la réversibilité et la sortie.
+Comment traiter les fournisseurs intragroupe ?;Plus légèrement;Ils sont exclus de DORA;Sans contrôle;Avec la même rigueur que les autres;5;Rappel de l'AMF.
+Quelle phase de la relation avec les prestataires est la moins maîtrisée ?;Le contrôle;La sélection;La résiliation;La facturation;3;Piste d'audit partielle voire opaque.
+Quel délai maximal après la détection pour notifier un incident majeur ?;24 heures;72 heures;Une heure;Un mois;2;Et au plus 4 heures après la classification comme majeur.
+Quel délai maximal après la classification comme majeur ?;30 minutes;24 heures;7 jours;4 heures;5;Règlement délégué 2025/301.
+Une cyberattaque est-elle automatiquement un incident majeur ?;Seulement le week-end;Seulement si elle coûte un million;Non jamais;Oui, c'est l'un des trois cas;5;Les autres cas combinent critère primaire et deux critères secondaires.
+Les mesures compensatoires modifient-elles la classification d'un incident ?;Oui si elles sont rapides;Oui avec l'accord du prestataire;Oui toujours;Non, l'incident se classe indépendamment d'elles;5;Erreur fréquente relevée par l'ACPR.
+Quelle part des SGP est concernée par DORA ?;6 %;94 %;100 %;50 %;3;Données AMF au 22 septembre 2025.
+Combien d'incidents majeurs confirmés pour les SGP ?;32;3;0;320;2;Sur 44 déclarations initiales.
+Quel type d'incident domine chez les SGP ?;La grève;Le vol de voiture;L'indisponibilité de services TIC;L'incendie;4;17 incidents sur 32.
+Quelle mauvaise pratique cyber est relevée par l'AMF ?;Des mots de passe longs;Des utilisateurs standards administrateurs de leur poste;Une messagerie chiffrée;Un inventaire à jour;3;Aussi les ports USB non bloqués.
+Quelle bonne pratique recommande l'AMF ?;Supprimer l'inventaire;Désactiver les journaux;Partager les comptes;Étendre la surveillance au-delà des heures ouvrées;5;Et formaliser la gestion des incidents cyber.
+Que sont les TLPT ?;Des taxes;Des logiciels de paie;Des formations;Des tests d'intrusion avancés fondés sur la menace;5;Réservés aux entités les plus importantes.
+Quand débute la supervision renforcée ?;Elle n'est pas prévue;En 2019;En 2040;En 2026;5;Avec des contrôles sur place pour les entités à risque.

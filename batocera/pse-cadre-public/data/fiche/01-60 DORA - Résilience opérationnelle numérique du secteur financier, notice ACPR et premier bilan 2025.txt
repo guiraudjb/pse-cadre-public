@@ -1,0 +1,135 @@
+DORA, RÈGLEMENT EUROPÉEN DEUX MILLE VINGT-DEUX SLASH DEUX MILLE CINQ CENT CINQUANTE-QUATRE SUR LA RÉSILIENCE OPÉRATIONNELLE NUMÉRIQUE DU SECTEUR FINANCIER, NOTICE DE L'ACPR DU DIX-HUIT DÉCEMBRE DEUX MILLE VINGT-QUATRE ET ÉTAT DES LIEUX ACPR ET AMF DU FORUM FINTECH D'OCTOBRE DEUX MILLE VINGT-CINQ.
+
+LEXIQUE COMPLET.
+
+      DORA, pour Digital Operational Resilience Act, est le règlement européen du quatorze décembre deux mille vingt-deux, entré en application le dix-sept janvier deux mille vingt-cinq, qui fixe des exigences communes de résilience numérique à vingt catégories d'entités financières.
+
+      Le risque lié aux TIC est toute circonstance raisonnablement identifiable liée à l'utilisation des réseaux et des systèmes d'information qui, si elle se concrétise, peut compromettre leur sécurité ou la fourniture de services en produisant des effets préjudiciables dans l'environnement numérique ou physique.
+
+      Une fonction critique ou importante est une fonction dont la perturbation est susceptible de nuire sérieusement à la performance financière d'une entité, à la continuité de ses services ou au respect des conditions de son agrément.
+
+      L'ACPR, Autorité de contrôle prudentiel et de résolution, supervise les banques et les assurances, et l'AMF, Autorité des marchés financiers, supervise notamment les sociétés de gestion de portefeuille, les SGP.
+
+      Le registre d'informations, ou RoI pour Register of Information, recense tous les accords contractuels portant sur des services TIC fournis par des prestataires tiers.
+
+      Les TLPT, Threat-Led Penetration Tests, sont des tests d'intrusion avancés fondés sur la menace, réservés aux entités les plus importantes.
+
+      Le RSR, rapport régulier au contrôleur, est le rapport prudentiel des assureurs soumis à Solvabilité deux, qui doit intégrer des informations DORA.
+
+      Lex specialis signifie loi spéciale : DORA prime sur NIS deux pour la gestion du risque cyber et la notification des incidents des entités financières.
+
+      Un petit ORPS est un organisme de retraite professionnelle supplémentaire qui compte moins de cent affiliés et qui relève du cadre simplifié.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE RÉGLEMENTAIRE.
+
+   A. Un accélérateur de résilience.
+
+      DORA repose sur cinq piliers : la gestion du risque lié aux TIC, la gestion, la classification et la notification des incidents, les tests de résilience opérationnelle numérique, la gestion des risques liés aux prestataires tiers de services TIC, et un nouveau cadre de surveillance des prestataires TIC critiques.
+
+      DORA simplifie et harmonise en limitant la fragmentation réglementaire, et plusieurs orientations ont été supprimées, comme les lignes directrices de l'EIOPA et de l'ESMA sur le cloud.
+
+      Le corpus de niveau deux est complet, le dernier texte étant le règlement délégué deux mille vingt-cinq slash cinq cent trente-deux sur la sous-traitance, et une clause de revoyure est fixée au dix-sept janvier deux mille vingt-huit.
+
+      En France, le projet de loi Résilience, examiné au Sénat en mars deux mille vingt-cinq puis à l'Assemblée nationale en septembre, assure la transposition, avec un ajustement de l'arrêté du trois novembre deux mille quatorze sur le contrôle interne bancaire.
+
+   B. La notice de l'ACPR pour les assureurs.
+
+      La notice du dix-huit décembre deux mille vingt-quatre vise les entreprises d'assurance et de réassurance relevant de Solvabilité deux, les ORPS de plus de quinze affiliés, et les intermédiaires d'assurance qui ne sont ni des microentreprises ni des PME.
+
+      Elle s'appuie sur le règlement délégué deux mille vingt-quatre slash mille sept cent soixante-quatorze sur les outils et politiques de gestion du risque TIC, et sur le règlement délégué deux mille vingt-quatre slash mille sept cent soixante-treize sur la politique relative aux tiers.
+
+      Le principe de proportionnalité de l'article quatre adapte les mesures à la nature, à l'ampleur et à la complexité des risques.
+
+II. LA GESTION DU RISQUE LIÉ AUX TIC.
+
+   A. Gouvernance et stratégie.
+
+      L'organe de direction définit, approuve, supervise et est responsable de la mise en œuvre de toutes les dispositions du cadre de gestion du risque lié aux TIC, selon l'article cinq.
+
+      L'entreprise documente une stratégie de résilience opérationnelle numérique, pouvant inclure une stratégie multifournisseurs, et approuve un niveau de tolérance au risque lié aux TIC.
+
+      Les politiques couvrent l'évaluation des vulnérabilités et des menaces, le traitement des risques, les risques résiduels et le suivi, ainsi que la sensibilisation et la formation du personnel.
+
+   B. Sécurité et opérations.
+
+      Les politiques de sécurité garantissent la sécurité des réseaux, protègent contre les intrusions et préservent la disponibilité, l'authenticité, l'intégrité et la confidentialité des données, notamment par le chiffrement et la gestion des clés cryptographiques.
+
+      La gestion des actifs évalue leur criticité selon le risque des fonctions métiers qu'ils soutiennent et l'incidence d'une perte de confidentialité, d'intégrité ou de disponibilité.
+
+      Les droits d'accès suivent le besoin d'en connaître, le besoin d'en disposer et le moindre privilège, avec séparation des tâches, limitation des comptes génériques, authentification forte et contrôle de l'accès physique.
+
+      Le personnel et les prestataires doivent connaître les politiques de sécurité, les canaux de signalement et restituer les actifs à leur départ.
+
+      Les procédures couvrent les capacités, la gestion des vulnérabilités et des correctifs avec des délais et des procédures d'urgence, et tous les systèmes soutenant des fonctions critiques ou importantes sont testés au moins une fois par an.
+
+   C. Changements, continuité et crise.
+
+      Les projets touchant des fonctions critiques sont notifiés à l'organe de direction, le code source est examiné par des tests statiques et dynamiques, et les changements prévoient l'indépendance entre mise en œuvre et validation, des procédures de repli et la réévaluation des changements d'urgence.
+
+      La politique de continuité des activités de TIC définit les rôles, les fonctions critiques et leurs interdépendances, les scénarios de perturbation et les durées maximales d'interruption et de perte de données tolérées, et fait l'objet de revues indépendantes de l'audit interne.
+
+      La gestion de crise décrit les rôles, les éléments déclencheurs, les méthodes de rétablissement et les cas d'activation de l'exercice.
+
+   D. Le réexamen annuel.
+
+      Le cadre est réexaminé au moins une fois par an et après tout incident majeur, dans un rapport approuvé par l'organe de direction et remis à l'ACPR sur demande dans un format électronique interrogeable, qui décrit les faiblesses, les mesures correctives et leurs échéances.
+
+III. LES PRESTATAIRES TIERS DE SERVICES TIC.
+
+      Les règles sur les prestataires TIC complètent sans les remplacer les règles d'externalisation existantes, comme les lignes directrices de l'EBA de deux mille dix-neuf.
+
+      L'entreprise adopte une stratégie sur les risques liés aux prestataires, désigne une fonction de suivi des accords, classe les services soutenant des fonctions critiques, mène une diligence raisonnable avant tout contrat et tient un registre d'informations.
+
+      Les contrats doivent prévoir la sous-traitance autorisée, la localisation des serveurs, le droit d'audit, la protection des données, l'information en cas de dysfonctionnement, un plan d'urgence, l'accès de l'autorité, la réversibilité et une stratégie de sortie.
+
+      Le risque de concentration impose d'évaluer les solutions alternatives, et les fournisseurs intragroupe doivent être traités avec la même rigueur que les autres.
+
+IV. PREMIER BILAN NEUF MOIS APRÈS L'ENTRÉE EN APPLICATION.
+
+   A. État des lieux.
+
+      Quatre-vingt-quatorze pour cent des sociétés de gestion de portefeuille sont concernées par DORA, la plupart de taille entrepreneuriale.
+
+      Les avancées portent surtout sur la gouvernance et les procédures, la mise en œuvre opérationnelle reste en cours, et la principale difficulté concerne les prestataires, certains refusant d'être déclarés comme prestataires TIC.
+
+      Quatre-vingt-quatre pour cent des entités ont remis leur registre d'informations sur la plateforme OneGate, mais seulement trente-neuf pour cent ont pu être traités au niveau européen, en raison d'un calendrier serré, de règles de validation instables et d'un défaut d'anticipation.
+
+   B. Les incidents.
+
+      Un incident majeur doit être notifié au plus tard quatre heures après sa classification comme majeur et vingt-quatre heures après sa détection, délais encore rarement respectés.
+
+      Un incident est majeur s'il s'agit d'une cyberattaque, ou s'il touche des services soutenant des fonctions critiques ou des services financiers agréés et remplit au moins deux critères secondaires, indépendamment des mesures compensatoires.
+
+      Un tiers est impliqué dans plus de la moitié des cas, et près de soixante pour cent des incidents sont déjà clos lors de la notification initiale.
+
+      Pour les SGP, quarante-quatre déclarations ont donné trente-deux incidents majeurs confirmés, dont dix-sept indisponibilités de services TIC, dix exfiltrations de données, trois pannes et deux hameçonnages, vingt-deux concernant des prestataires.
+
+   C. Les constats des contrôles.
+
+      Les mauvaises pratiques relevées sont les ports USB non bloqués, les utilisateurs administrateurs de leur poste, les postes et messageries non chiffrés, les mots de passe non conformes à l'ANSSI, l'absence de double authentification sur la messagerie et la confusion entre incidents cyber et opérationnels.
+
+      Les bonnes pratiques sont un inventaire complet des équipements, une procédure formalisée de gestion des incidents cyber, une surveillance au-delà des heures ouvrées et la demande des rapports d'audit des prestataires clés.
+
+      Une supervision renforcée débute en deux mille vingt-six, avec des analyses transversales et des contrôles sur place pour les entités les plus à risque.
+
+POINTS D'ATTENTION.
+
+      DORA est un règlement directement applicable et non une directive à transposer, même si des ajustements nationaux sont nécessaires.
+
+      Un incident se classe sans tenir compte des mesures compensatoires mises en place après sa détection.
+
+      La phase la moins maîtrisée de la relation avec les prestataires est la sélection, la plus robuste est le contrôle.
+
+      Les attaquants comprennent de mieux en mieux le modèle d'affaires des sociétés de gestion.
+
+EXEMPLES CITÉS.
+
+      L'incident Harvest a touché plusieurs entités à la fois par l'intermédiaire d'un prestataire commun.
+
+      Un attaquant s'est introduit sur une plateforme d'épargne salariale via le compte d'une entreprise cliente pour tenter de vider les comptes de plusieurs salariés.
+
+      Un stagiaire a exfiltré massivement des données confidentielles sur une opération d'investissement vers un cloud externe.
+
+      Des risques nouveaux émergent avec les moteurs d'intelligence artificielle intégrés aux outils de gestion de la relation client ou de valorisation.
