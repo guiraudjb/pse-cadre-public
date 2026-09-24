@@ -1,0 +1,55 @@
+TITRE : Sécurité des données Riddim
+
+[Intro]
+CNIL, guide de la sécurité des données
+Vingt-cinq fiches pour bien les protéger
+
+[Couplet 1]
+Six mille cent soixante-sept notifications
+Seize par jour, violations en action
+Quatre-vingt-quatorze pour cent confidentialité
+Piratage la moitié, rançongiciel neuf à compter
+
+Article trente-deux, mesures adaptées
+Soixante-douze heures pour notifier
+Risque élevé, les personnes informées
+Vingt millions ou quatre pour cent, faut pas jouer
+
+[Refrain]
+Quatre-vingts bits d'entropie
+Douze caractères, quatre types, c'est permis
+Empreinte salée, jamais en clair
+La CNIL veille sur nos données, c'est clair
+
+[Couplet 2]
+Habilitations revues chaque année
+Moindre privilège pour chaque utilisateur posé
+WPA trois, SSH, pas de Telnet
+TLS un point trois, la base est nette
+
+Cookies HttpOnly et Secure
+Pas de données dans l'URL, c'est plus sûr
+Données fictives pour tester
+Pas de secrets dans Git à publier
+
+[Refrain]
+Quatre-vingts bits d'entropie
+Douze caractères, quatre types, c'est permis
+Empreinte salée, jamais en clair
+La CNIL veille sur nos données, c'est clair
+
+[Pont]
+Journaux six mois à un an gardés
+Sauvegardes trois-deux-un, une déconnectée
+Analyse de risques, EBIOS en main
+Accès illégitime, modification, disparition, on prévient
+
+[Refrain final]
+Quatre-vingts bits d'entropie
+MFA activée, c'est la garantie
+Empreinte salée, jamais en clair
+Données personnelles protégées, c'est clair
+
+[Outro]
+One love, une donnée, un droit respecté
+RGPD et sécurité, main dans la main pour protéger
