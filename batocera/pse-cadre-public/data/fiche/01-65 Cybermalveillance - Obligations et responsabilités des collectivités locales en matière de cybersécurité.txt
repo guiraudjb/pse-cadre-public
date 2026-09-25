@@ -1,0 +1,203 @@
+GUIDE DES OBLIGATIONS ET DES RESPONSABILITÉS DES COLLECTIVITÉS LOCALES EN MATIÈRE DE CYBERSÉCURITÉ.
+
+LEXIQUE COMPLET.
+
+      Le RGPD désigne le règlement deux mille seize/six cent soixante-dix-neuf du Parlement européen et du Conseil du vingt-sept avril deux mille seize relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.
+
+      La CNIL désigne la Commission Nationale de l'Informatique et des Libertés, l'organisme qui supervise les questions relatives à la protection des données personnelles et peut prononcer des sanctions administratives.
+
+      Le DPO désigne le délégué à la protection des données, une personne qui doit être désignée par toute collectivité locale ou établissement public pour exercer en toute indépendance.
+
+      Le RGS désigne le Référentiel Général de Sécurité, un ensemble de règles de sécurité édicté par le décret numéro deux mille dix-neuf cent douze du deux février deux mille dix qui s'applique aux téléservices.
+
+      L'ANSSI désigne l'Agence Nationale de Sécurité des Systèmes d'Information, l'organisme qui qualifie les produits de sécurité et les prestataires de confiance.
+
+      Les PSCO désignent les produits de sécurité et les prestataires de confiance qualifiés par l'ANSSI pour assurer la certification électronique, l'horodatage ou l'audit de sécurité.
+
+      L'eIDAS désigne le règlement européen sur l'identification électronique et les services de confiance pour les transactions électroniques au sein de l'Union européenne.
+
+      La donnée personnelle désigne une information se rapportant à une personne physique identifiée ou identifiable, directement ou indirectement.
+
+      Le téléservice désigne un guichet d'accueil numérique proposé par une collectivité permettant aux usagers de procéder par voie électronique à des démarches ou formalités administratives.
+
+      La donnée de santé désigne une donnée personnelle sensible recueillie à l'occasion d'activités de prévention, de diagnostic, de soins ou de suivi social et médico-social.
+
+      La responsabilité pour faute désigne le régime de responsabilité administrative par lequel une collectivité peut être engagée si elle a manqué à ses obligations et causé un préjudice.
+
+      La faute détachable du service désigne une faute civile qui permet d'engager la responsabilité personnelle d'un élu ou d'un agent sur son patrimoine propre.
+
+COURS DÉTAILLÉ.
+
+I. OBLIGATIONS LIÉES À LA PROTECTION DES DONNÉES PERSONNELLES.
+
+   A. Cadre juridique et rôle du délégué à la protection des données.
+
+      Le cadre juridique repose sur la loi numéro soixante-dix-huit dix-sept du six janvier mille neuf cent soixante-dix-huit dite loi Informatique et Libertés et sur le règlement deux mille seize six cent soixante-dix-neuf du Parlement européen et du Conseil du vingt-sept avril deux mille seize nommé RGPD.
+
+      Toute collectivité locale ou établissement public local doit désigner un délégué à la protection des données qui doit exercer ses fonctions en toute indépendance et sans conflit d'intérêts.
+
+      Ce délégué peut être un agent de la collectivité, un conseil externe sous contrat ou être mutualisé entre plusieurs collectivités locales.
+
+      Le responsable de traitement est en pratique le représentant légal de la collectivité comme le maire ou le président d'un établissement public de coopération intercommunal.
+
+   B. Mesures de sécurité avant, pendant et après le traitement.
+
+      Avant la collecte, le responsable doit définir des mesures techniques et organisationnelles et réaliser une analyse d'impact si le traitement présente un risque élevé pour les droits et libertés.
+
+      Pendant le traitement, les collectivités doivent mettre en œuvre des procédures internes et respecter le principe de minimisation en ne collectant que ce qui est strictement nécessaire.
+
+      Les mesures de sécurité incluent la sécurisation des postes de travail, la mise à jour des logiciels, la réalisation de sauvegardes testées et le chiffrement des flux et des supports.
+
+      En cas de violation de données présentant un risque pour les personnes, l'atteinte doit être signalée à la CNIL dans un délai de soixante-douze heures.
+
+      Si les risques sont élevés, les personnes concernées par la violation doivent également en être informées.
+
+   C. Gestion des violations de données et conservation des informations.
+
+      Le cycle de vie des données comprend l'utilisation courante en base active, l'archivage intermédiaire pour l'obligation légale et l'archivage définitif.
+
+      La durée de conservation doit être proportionnée aux finalités du traitement et inscrite dans le registre du délégué à la protection des données.
+
+      Certaines durées sont fixées par la loi, comme pour les bulletins de paie qui doivent être conservés pendant cinq ans.
+
+      En cas de manquements graves, la CNIL peut prononcer des sanctions pécuniaires pouvant atteindre vingt millions d'euros ou quatre pour cent du chiffre d'affaires.
+
+II. OBLIGATIONS RELATIVES AUX TÉLÉSERVICES ET À L'HÉBERGEMENT DE DONNÉES DE SANTÉ.
+
+   A. Mise en œuvre des téléservices et respect du référentiel général de sécurité.
+
+      Les téléservices sont des guichets d'accueil numérique permettant aux usagers d'effectuer des démarches par voie électronique comme une demande de permis de construire ou une inscription à la cantine scolaire.
+
+      L'ensemble des téléservices offerts par les collectivités locales doit satisfaire aux exigences du Référentiel Général de Sécurité, aussi appelé RGS, édicté par le décret numéro deux mille dix-cent-douze du deux février deux mille dix.
+
+      Le respect du RGS impose une démarche comprenant l'analyse des risques, la définition des objectifs de sécurité, la mise en œuvre de mesures de protection, l'homologation du système d'information et son suivi opérationnel.
+
+      Les produits et services utilisés doivent être choisis parmi les produits de sécurité et les prestataires de confiance qualifiés par l'ANSSI.
+
+      La collectivité doit attester de la conformité de son système d'information par une décision d'homologation publique appelée attestation formelle.
+
+   B. Spécificités de l'identification et de la signature électronique.
+
+      Les téléservices nécessitant une identification, une authentification ou une signature électronique des usagers sont soumis à des spécifications techniques imposées par l'eIDAS.
+
+      Ce règlement européen impose aux collectivités d'utiliser des solutions d'identification compatibles avec les standards des autres pays européens pour garantir l'accès aux ressortissants de l'Union européenne.
+
+      Le service en ligne d'identification et d'authentification France Connect peut constituer une solution pour répondre à cette obligation.
+
+      Lorsqu'un téléservice propose un système de signature électronique, celui-ci doit être compatible avec les systèmes des autres pays membres de l'Union européenne présentant un niveau de sécurité équivalent ou supérieur.
+
+   C. Exigences de certification pour l'hébergement des données de santé.
+
+      La réglementation sur l'hébergement s'applique aux données de santé recueillies lors d'activités de prévention, de diagnostic, de soins ou de suivi social et médico-social.
+
+      Les activités d'hébergement de ces données, lorsqu'elles sont externalisées auprès d'un tiers, sont soumises à des exigences de certification préalable délivrée par un organisme de certification agréé.
+
+      Les centres hospitaliers, les groupements de coopération sanitaires ou les EPCI doivent eux-mêmes obtenir cette certification s'ils réalisent des activités d'hébergement pour le compte d'autres établissements.
+
+      L'audit de certification doit vérifier le respect des normes de protection des données ainsi que des exigences spécifiques liées à l'hébergement de santé.
+
+III. RESPONSABILITÉ ADMINISTRATIVE DE LA COLLECTIVITÉ.
+
+   A. Sanctions pécuniaires de la CNIL.
+
+      La CNIL peut prononcer des sanctions administratives après un contrôle et une procédure contradictoire si les règles du RGPD ou de la loi Informatique et Libertés ne sont pas respectées.
+
+      Pour les collectivités ayant commis des manquements graves, le montant des sanctions pécuniaires peut atteindre vingt millions d'euros ou quatre pour cent du chiffre d'affaires du contrevenant.
+
+      Cette mesure s'applique aux collectivités locales, à leurs établissements, mais aussi à leurs satellites sous forme de sociétés commerciales comme les sociétés d'économie mixte.
+
+      Dans le cas d'une cyberattaque provoquant une fuite de données, la CNIL peut sanctionner la collectivité si elle juge que la fuite résulte de manquements graves aux mesures de sécurité.
+
+   B. Mise en cause pour faute de l'administration.
+
+      Les citoyens peuvent engager la responsabilité de l'administration pour faute si un manquement à ses obligations leur cause un préjudice.
+
+      La responsabilité d'une collectivité pourrait être engagée en cas de cyberattaque si les dommages subis sont imputables à des manquements dans l'application de la réglementation des systèmes d'information.
+
+      Un exemple est le cas d'un vol de données bancaires suite à une attaque sur un téléservice dont l'homologation était défaillante ou l'analyse de sécurité absente.
+
+      Une autre situation concerne un établissement d'hébergement pour personnes âgées dépendantes où une panne de système d'appel d'urgence suite à une maintenance défaillante cause le décès d'un pensionnaire.
+
+      Enfin, le dysfonctionnement du système de gestion d'un service d'inhumation peut amener les familles à demander la prise en charge de frais de chambre mortuaire supplémentaires.
+
+   C. Responsabilité pour dommage de travaux publics.
+
+      La responsabilité administrative pour dommage de travaux publics s'applique lorsque des usagers subissent des préjudices dus au défaut d'entretien d'un ouvrage public ou de ses accessoires.
+
+      Une cyberattaque de grande ampleur pourrait exceptionnellement engager ce régime si elle provoque le dysfonctionnement d'une installation publique entraînant des dommages aux usagers.
+
+      Le piratage des systèmes de communication d'un réseau d'épuration peut modifier les composants chimiques de l'eau et créer un danger pour la population.
+
+      Une cyberattaque entraînant une panne de la signalisation lumineuse à un carrefour peut également conduire à la mise en cause de la responsabilité de la collectivité en cas d'accident.
+
+IV. RESPONSABILITÉ CIVILE DES ÉLUS ET DES AGENTS PUBLICS.
+
+   A. Caractérisation de la faute détachable du service.
+
+      La responsabilité civile d'un maire, d'un élu ou d'un agent public peut être engagée sur son patrimoine personnel pour réparer des dommages causés à des tiers.
+
+      Cette responsabilité personnelle suppose l'existence d'une faute détachable du service.
+
+      Une faute est considérée comme détachable du service lorsque les faits reprochés révèlent des préoccupations d'ordre privé.
+
+      Le comportement peut également être jugé détachable s'il est incompatible avec les obligations de l'exercice des fonctions publiques ou s'il revêt une particulière gravité.
+
+      À titre d'exemple, un élu qui procède à l'homologation d'un téléservice sans les analyses de sécurité élémentaires, malgré les mises en garde de l'agent informatique, peut commettre une faute personnelle.
+
+   B. Cumul de responsabilités et actions récursoires.
+
+      Une même faute peut être qualifiée à la fois de faute de service et de faute personnelle si elle est commise avec l'autorité et dans l'exercice des fonctions.
+
+      Ce cumul de fautes permet de mettre en jeu la responsabilité pour faute de la collectivité locale.
+
+      Dans cette situation, la collectivité peut être tenue d'indemniser les victimes, comme des usagers victimes de vols de coordonnées bancaires suite à une cyberattaque.
+
+      La collectivité peut ensuite engager une action récursoire à l'encontre de l'élu ou de l'agent en cause pour se faire rembourser.
+
+      L'action récursoire est possible lorsque la gravité de la faute commise par l'élu dans l'exercice de ses fonctions conduit à lui imputer une faute personnelle détachable du service.
+
+V. RESPONSABILITÉ PÉNALE DES ÉLUS ET DES AGENTS.
+
+   A. Sanctions pour violation des règles de protection des données.
+
+      Le Code pénal réprime les atteintes les plus graves aux règles du RGPD.
+
+      L'article deux cent vingt-six-seize du Code pénal punit de cinq ans d'emprisonnement et de trois cent mille euros d'amende le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans mettre en œuvre les mesures destinées à garantir la sécurité des données.
+
+      Cette même disposition prévoit également des sanctions pour le fait de ne pas tenir de registre des traitements.
+
+      Un élu ou un agent pourrait faire l'objet d'une condamnation pénale à ce titre si les circonstances de la violation des règles du RGPD révèlent une faute personnelle.
+
+   B. Sanctions pour fautes d'imprudence et de négligence.
+
+      Les agents publics, les élus ou l'organe exécutif des collectivités locales et de leurs établissements publics peuvent faire l'objet de poursuites pénales en cas de faute d'imprudence ou de négligence conduisant à des atteintes à l'intégrité physique des personnes.
+
+      Selon l'article cent vingt et un-trois du Code pénal, cela s'applique lorsque la réalisation d'un dommage a été rendue possible par la violation manifeste d'une règle de prudence ou de sécurité.
+
+      Ce régime peut aussi s'appliquer en cas de faute caractérisée exposant autrui à un risque grave et immédiat.
+
+      Ce régime de responsabilité pénale pourrait trouver à s'appliquer au cas de cyberattaque conduisant à des atteintes aux personnes si des manquements graves à la sécurité des systèmes d'information ont contribué aux dommages.
+
+      Des exemples incluent le dysfonctionnement d'une barrière de parking blessant un usager, une panne de signalisation conduisant à un accident ou le sabotage d'un réseau d'épuration provoquant une contamination de l'eau potable.
+
+POINTS D'ATTENTION.
+
+      Le traitement de données personnelles ne nécessite pas obligatoirement un procédé automatisé car un registre manuel peut être concerné.
+
+      La désignation d'un délégué à la protection des données peut être mutualisée entre plusieurs collectivités ou confiée à un conseil externe.
+
+      Les fonctions de Directeur Général ou de Responsable du Service Informatique présentent un risque de conflit d'intérêts avec la fonction de délégué à la protection des données.
+
+      Une violation de données personnelles doit être signalée à la CNIL dans un délai de soixante-douze heures si elle présente un risque pour les droits et libertés.
+
+      La responsabilité civile d'un élu peut être engagée personnellement si une faute est jugée détachable du service.
+
+EXEMPLES CITÉS.
+
+      Une collectivité ayant des recettes annuelles de cinq mille euros ou plus a l'obligation de proposer des services de paiement en ligne.
+
+      La CNIL peut infliger des sanctions pécuniaires allant jusqu'à vingt millions d'euros ou quatre pour cent du chiffre d'affaires pour des manquements graves.
+
+      L'article deux cent vingt-six-seize du Code pénal prévoit une peine de cinq ans d'emprisonnement et trois cent mille euros d'amende pour un traitement de données sans mesures de sécurité.
+
+      En février deux mille vingt-et-un, une cyberattaque en Floride a illustré le risque de piratage des systèmes de gestion d'un réseau d'épuration.
