@@ -2,6 +2,7 @@
   "titre": "Cadre public du numérique — Révision",
   "description": "Révision des règlements européens (CRA, NIS 2, RGPD...), des référentiels nationaux (RGAA, RGS, RGI...) et des publications de la DINUM.",
   "series": {
+    "00": "À la une",
     "01": "Règlements européens",
     "02": "Référentiels nationaux",
     "04": "Numérique de l'État : IA, Suite Numérique, gouvernance"
