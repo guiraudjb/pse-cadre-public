@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — pse-cadre-public
 
-Généré le 30/09/2026 à 00:21 par `scripts/inventaire_medias.py` (18 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 30/09/2026 à 07:20 par `scripts/inventaire_medias.py` (18 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
