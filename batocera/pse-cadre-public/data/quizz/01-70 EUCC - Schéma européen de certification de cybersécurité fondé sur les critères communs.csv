@@ -1,0 +1,48 @@
+Que signifie EUCC ?;Certificat européen du cloud computing;Code européen de la cybercriminalité;Schéma européen de certification de cybersécurité fondé sur les critères communs;European Union Cyber Command;4;European Common Criteria-based scheme.
+Quel texte adopte l'EUCC ?;Le règlement (UE) 2024/2847;La directive (UE) 2022/2555;Le règlement d'exécution (UE) 2024/482;Le règlement (UE) 2019/881;4;Adopté le 31 janvier 2024.
+Sur quel règlement-cadre l'EUCC est-il fondé ?;Le Cybersecurity Act, règlement (UE) 2019/881;Le RGPD;Le DSA;Le Cyber Resilience Act;2;Cadre européen de certification.
+Quand l'EUCC a-t-il été adopté par la Commission ?;Le 27 février 2025;Le 17 avril 2019;Le 14 décembre 2022;Le 31 janvier 2024;5;Publié au JO le 7 février 2024.
+À partir de quand l'EUCC est-il applicable ?;Le 1er janvier 2027;Le 27 février 2025;Le 31 janvier 2024;Le 7 juin 2019;3;Douze mois après l'entrée en vigueur.
+Quel règlement a modifié l'EUCC le 18 décembre 2024 ?;La directive NIS 2;Le règlement d'exécution (UE) 2024/3144;Le règlement 2019/881;Le règlement 2024/1689;3;Normes internationales applicables.
+Quelle norme correspond aux critères communs ?;ISO/CEI 27001;ISO/CEI 15408;ISO 9001;ISO/CEI 17065;3;Critères d'évaluation de la sécurité.
+Quelle norme correspond à la méthode d'évaluation commune ?;ISO/CEI 17025;ISO/CEI 29147;ISO/CEI 18045;ISO/CEI 15408;4;CEM.
+Combien de niveaux EAL prévoient les critères communs ?;Sept;Dix;Trois;Cinq;2;Niveaux d'assurance de l'évaluation.
+Combien de composants AVA_VAN utilise l'EUCC ?;Trois;Sept;Deux;Cinq, de 1 à 5;5;Analyse de vulnérabilité.
+Quels niveaux d'assurance l'EUCC délivre-t-il ?;Élémentaire, substantiel et élevé;Élémentaire uniquement;Bas, moyen, haut et critique;Substantiel et élevé;5;Pas de niveau élémentaire.
+Quels niveaux AVA_VAN couvre le niveau substantiel ?;AVA_VAN 1 ou 2;AVA_VAN 1 à 3;AVA_VAN 3 à 5;AVA_VAN 4 ou 5 seulement;2;Article 4.
+Quels niveaux AVA_VAN couvre le niveau élevé ?;AVA_VAN 2 et 3;AVA_VAN 3, 4 ou 5;AVA_VAN 5 seulement;AVA_VAN 1 ou 2;3;Article 4.
+L'autoévaluation de la conformité est-elle permise dans l'EUCC ?;Oui, pour les PME;Oui, pour les logiciels libres;Non, elle est interdite;Oui, au niveau substantiel;4;Seule l'évaluation par un tiers est admise.
+Que signifie CESTI ?;Centre d'évaluation de la sécurité des technologies de l'information;Centre d'expertise des systèmes de transmission informatique;Commission d'examen des solutions de traitement de l'information;Comité européen de sécurité des télécommunications;2;ITSEF en anglais.
+Selon quelle norme un CESTI est-il accrédité ?;ISO/CEI 17065;ISO/CEI 27001;ISO/CEI 17025 complétée par ISO/CEI 23532-1;ISO 14001;4;Laboratoires d'essai.
+Selon quelle norme un organisme de certification est-il accrédité ?;ISO/CEI 17065;ISO/CEI 15408;ISO/CEI 17025;ISO/CEI 30111;2;Organismes certifiant des produits.
+Quelle est l'ANCC en France ?;L'ANSSI;L'ENISA;Le COFRAC;La CNIL;2;Autorité nationale de certification de cybersécurité.
+Quel est l'organisme national d'accréditation en France ?;La DGE;L'ANSSI;Le COFRAC;L'AFNOR;4;NAB en anglais.
+Que signifie ECCG ?;European Cloud Computing Group;Groupe européen de certification de cybersécurité;Comité européen des contrôles de gestion;Centre européen de commandement cyber;3;GECC, représentants des États membres.
+Quel groupe représente le secteur privé et les parties prenantes ?;L'ECCG;Le SOG-IS;Le CERT-EU;Le SCCG;5;Groupe des parties prenantes.
+Quelle agence rédige les schémas candidats et publie les certificats ?;L'ANSSI;L'ENISA;Europol;L'EUIPO;3;Agence de l'UE pour la cybersécurité.
+Sur quel accord de reconnaissance mutuelle l'EUCC s'appuie-t-il ?;Le CCRA uniquement;L'accord de Schengen;L'accord SOG-IS;L'accord de Wassenaar;4;Hauts fonctionnaires pour la sécurité des SI.
+Que désigne CAB dans le Cybersecurity Act ?;Un centre d'analyse des botnets;Un organisme d'évaluation de la conformité;Un comité d'approbation des changements;Une autorité de contrôle bancaire;3;Conformity Assessment Body.
+Qu'est-ce qu'un profil de protection ?;Une liste de vulnérabilités;Un rapport d'audit;Les exigences de sécurité d'une catégorie de produits TIC, indépendantes de leur mise en œuvre;La déclaration de sécurité d'un produit précis;4;Processus TIC.
+Qu'est-ce qu'une cible de sécurité ?;Un organisme d'évaluation;Un niveau d'assurance;Une catégorie générique de produits;Une déclaration d'exigences de sécurité propre à un produit TIC spécifique;5;Article 2.
+Qu'est-ce qu'un produit composite ?;Un logiciel open source;Un produit fait de plusieurs matériaux;Un service en nuage;Un produit évalué avec un produit sous-jacent déjà certifié EUCC dont il dépend;5;Partage d'informations entre CESTI.
+Quels sont les deux domaines techniques de l'EUCC ?;Cartes à puce et dispositifs similaires, dispositifs matériels avec boîtiers de sécurité;Logiciels et réseaux;Objets connectés et voitures;Cloud et 5G;2;Annexe I.
+Lequel relève des dispositifs matériels avec boîtiers de sécurité ?;Une carte SIM;Un terminal de paiement;Un circuit intégré nu;Un navigateur web;3;Boîtier résistant aux attaques directes.
+Quand les niveaux AVA_VAN 4 ou 5 sont-ils possibles ?;Toujours, sur simple demande;Uniquement pour les logiciels;Jamais;Dans un domaine technique, avec un profil de protection de référence ou par exception approuvée par l'ANCC;5;Article 7.
+Quelle est la durée maximale de validité d'un certificat EUCC de produit ?;Dix ans;Cinq ans, sauf approbation de l'ANCC;Deux ans;Illimitée;3;Article 12.
+Dans quel délai maximal le titulaire propose-t-il des mesures correctives ?;30 jours;42 jours;Un an;7 jours;2;Articles 28 et 29.
+Quelle est la durée maximale d'une suspension avant prolongation ?;42 jours;90 jours;30 jours;Six mois;2;Prolongeable jusqu'à un an au total.
+La suspension d'un certificat affecte-t-elle sa validité ?;Oui, il devient nul;Oui, il est réduit de moitié;Non;Oui, il est transféré;4;Mais limite sa promotion.
+Quel échantillon minimal de certificats l'ANCC contrôle-t-elle chaque année ?;25 %;1 %;10 %;4 %;5;Déterminé par une évaluation des risques.
+Que contient la marque EUCC en plus du niveau d'assurance ?;Le niveau AVA_VAN, l'identifiant du certificat et un code QR;Le prix du produit;Le nom du développeur principal;La liste des vulnérabilités;2;Article 11 et annexe IX.
+Quelle norme complète la gestion des vulnérabilités ?;ISO/CEI 17065;ISO 9001;ISO/CEI 15408;EN ISO/IEC 30111;5;La 29147 complète la divulgation.
+Quelle norme complète la divulgation des vulnérabilités ?;EN ISO/CEI 29147;ISO/CEI 19896;ISO/CEI 18045;EN ISO/IEC 30111;2;Divulgation coordonnée.
+Que se passe-t-il si une vulnérabilité non résiduelle ne peut pas être corrigée ?;Le produit change de niveau automatiquement;Le certificat est retiré;Le certificat est prolongé;Rien;3;Article 35.
+Où le titulaire divulgue-t-il les vulnérabilités corrigées après retrait ?;Dans la base européenne des vulnérabilités prévue par NIS 2;Nulle part;Sur les réseaux sociaux;Uniquement à la police;2;Article 39.
+Combien de temps les archives sont-elles conservées après retrait du certificat ?;Trois mois;Dix ans au minimum;Un an;Au moins cinq ans;5;Articles 40 et 41.
+À quelle fréquence minimale les organismes de niveau élevé sont-ils évalués par les pairs ?;Tous les cinq ans;Tous les dix ans;Chaque année;Jamais;2;Article 45.
+Que devient un schéma national couvert par l'EUCC ?;Il devient obligatoire;Il reste valable indéfiniment;Il cesse de produire ses effets 12 mois après l'entrée en vigueur;Il remplace l'EUCC;4;Article 49.
+Comment un pays tiers fait-il reconnaître ses certificats dans l'Union ?;C'est impossible;Par simple déclaration;Par un contrat avec l'ENISA;Par un accord de reconnaissance mutuelle avec l'Union;5;Article 44.
+Quel schéma européen porte sur les services en nuage ?;L'EUCC;L'EUCS;L'EU5G;L'EUDI Wallet;3;SecNumCloud base du niveau élevé.
+Quel niveau du Cybersecurity Act exige des tests de pénétration par un tiers ?;Le niveau élémentaire;Aucun;Le niveau élevé;Le niveau substantiel;4;Attaques aux ressources significatives.
+Qui adopte définitivement un schéma européen de certification ?;L'ECCG;La Commission par un acte d'exécution;Le Parlement européen;L'ENISA;3;Cinquième étape.
+Quelle certification nationale l'ANSSI délivre-t-elle déjà ?;La CSPN;L'EUCS;La norme ISO 27001;Le RGS niveau 5;2;Certification de sécurité de premier niveau.

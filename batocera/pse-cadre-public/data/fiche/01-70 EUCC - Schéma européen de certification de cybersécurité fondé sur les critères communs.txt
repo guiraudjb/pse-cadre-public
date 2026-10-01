@@ -1,0 +1,297 @@
+EUCC, SCHÉMA EUROPÉEN DE CERTIFICATION DE CYBERSÉCURITÉ FONDÉ SUR LES CRITÈRES COMMUNS (RÈGLEMENT D'EXÉCUTION (UE) 2024/482 DU 31 JANVIER 2024, MODIFIÉ PAR LE RÈGLEMENT 2024/3144), DANS LE CADRE DU CYBERSECURITY ACT.
+
+LEXIQUE COMPLET.
+
+      L'EUCC, European Common Criteria-based cybersecurity certification scheme, est le schéma européen de certification de cybersécurité des produits TIC fondé sur les critères communs.
+
+      Le Cybersecurity Act, règlement (UE) 2019/881 du 17 avril 2019, donne un mandat permanent à l'ENISA et crée le cadre européen de certification de cybersécurité.
+
+      L'ENISA est l'agence de l'Union européenne pour la cybersécurité, qui rédige les schémas candidats et publie les certificats.
+
+      Les critères communs sont les critères d'évaluation de la sécurité des technologies de l'information figurant dans la norme ISO/CEI 15408.
+
+      La méthode d'évaluation commune, CEM, est la méthodologie d'évaluation de la sécurité figurant dans la norme ISO/CEI 18045.
+
+      L'EAL, niveau d'assurance de l'évaluation, est l'échelle des critères communs qui compte sept niveaux.
+
+      Le niveau AVA_VAN est le niveau d'analyse de vulnérabilité, de 1 à 5, qui mesure la résistance de la cible d'évaluation à l'exploitation de ses failles.
+
+      La cible d'évaluation est le produit TIC, une partie de celui-ci ou un profil de protection soumis à l'évaluation.
+
+      La cible de sécurité est la déclaration d'exigences de sécurité propre à la mise en œuvre d'un produit TIC spécifique.
+
+      Le profil de protection est un processus TIC définissant les exigences de sécurité d'une catégorie de produits, indépendamment de leur mise en œuvre.
+
+      Le CESTI, centre d'évaluation de la sécurité des technologies de l'information, ITSEF en anglais, est l'organisme qui exécute les évaluations.
+
+      L'organisme de certification est l'organisme d'évaluation de la conformité qui délivre les certificats à partir des rapports du CESTI.
+
+      L'organisme d'évaluation de la conformité, OEC, CAB en anglais, désigne à la fois les CESTI et les organismes de certification.
+
+      L'autorité nationale de certification de cybersécurité, ANCC, NCCA en anglais, surveille les schémas dans chaque État membre, et c'est l'ANSSI en France.
+
+      Le groupe européen de certification de cybersécurité, GECC, ECCG en anglais, réunit les représentants des États membres et approuve les documents de référence.
+
+      Le SCCG est le groupe des parties prenantes pour la certification de cybersécurité, représentant le secteur privé, la normalisation et les consommateurs.
+
+      L'organisme national d'accréditation, NAB en anglais, accrédite les OEC, et c'est le COFRAC en France.
+
+      Le rapport technique d'évaluation est le document du CESTI présentant conclusions, verdicts et justifications.
+
+      Le produit composite est un produit TIC évalué avec un produit sous-jacent déjà certifié EUCC dont il dépend.
+
+      Le domaine technique est un cadre technique commun pour une technologie, avec des exigences de sécurité caractéristiques.
+
+      Le document de référence spécifie les méthodes, techniques et outils d'évaluation d'un domaine technique ou d'un profil de protection.
+
+      Le SOG-IS est le groupe des hauts fonctionnaires pour la sécurité des systèmes d'information, dont l'accord de reconnaissance mutuelle sert de base à l'EUCC.
+
+      La marque et l'étiquette EUCC signalent un produit certifié, avec un code QR menant aux informations du certificat.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE DU CYBERSECURITY ACT.
+
+   A. Le règlement (UE) 2019/881.
+
+      Adopté par le Parlement européen le 12 mars 2019 et par le Conseil le 17 avril 2019, il a été publié le 7 juin 2019.
+
+      Il poursuit un double objectif, un mandat permanent pour l'ENISA et un cadre européen de certification de cybersécurité.
+
+      Les certificats bénéficient d'une reconnaissance mutuelle dans toute l'Union.
+
+      Le règlement est d'application directe, mais les schémas de certification sont d'application volontaire.
+
+   B. Les publics concernés.
+
+      Il vise les fabricants et fournisseurs de produits, services et processus TIC.
+
+      Il vise les organismes d'évaluation de la conformité qui délivrent les certificats.
+
+      Il vise les utilisateurs finaux et donneurs d'ordre, pour choisir des produits adaptés à leur besoin de sécurité.
+
+   C. L'adoption d'un schéma en cinq étapes.
+
+      La Commission établit le programme de travail glissant de l'Union après consultation de l'ECCG et du SCCG.
+
+      La Commission adresse une requête à l'ENISA.
+
+      L'ENISA rédige le schéma candidat avec un groupe de travail ad hoc d'experts.
+
+      L'ECCG procède à la revue technique et peut rendre un avis.
+
+      La Commission valide et adopte le schéma par un acte d'exécution.
+
+   D. Les trois niveaux d'assurance du Cybersecurity Act.
+
+      Le niveau élémentaire cible les objets grand public et peut permettre l'auto-évaluation par le fabricant.
+
+      Le niveau substantiel cible le risque médian et repose sur une évaluation par un organisme d'évaluation de la conformité.
+
+      Le niveau élevé cible les attaques mobilisant des compétences ou ressources significatives, avec des tests de pénétration.
+
+   E. Les autres schémas.
+
+      L'EUCS porte sur les services d'informatique en nuage, avec SecNumCloud comme base du niveau élevé.
+
+      L'EU5G vise notamment à mettre à niveau le schéma NESAS de la GSMA.
+
+      L'EUDI Wallet permettra de certifier les portefeuilles d'identité numérique européens.
+
+II. LE SCHÉMA EUCC.
+
+   A. L'adoption et les dates.
+
+      Le règlement d'exécution (UE) 2024/482 a été adopté le 31 janvier 2024 et publié au Journal officiel le 7 février 2024.
+
+      Il entre en vigueur le vingtième jour après sa publication et s'applique à partir du 27 février 2025.
+
+      Le chapitre IV sur les organismes d'évaluation et l'annexe V sur le rapport de certification s'appliquent dès l'entrée en vigueur.
+
+      Le règlement d'exécution (UE) 2024/3144 du 18 décembre 2024 l'a modifié pour les normes internationales applicables.
+
+   B. Le champ et les normes.
+
+      L'EUCC s'applique aux produits TIC, y compris leur documentation, et aux profils de protection.
+
+      Il reprend l'accord de reconnaissance mutuelle SOG-IS et ses documents d'appui.
+
+      Les évaluations suivent les critères communs, ISO/CEI 15408, et la méthode d'évaluation commune, ISO/CEI 18045.
+
+   C. Les niveaux d'assurance.
+
+      L'EUCC délivre seulement les niveaux substantiel et élevé.
+
+      Le niveau substantiel couvre AVA_VAN 1 ou 2.
+
+      Le niveau élevé couvre AVA_VAN 3, 4 ou 5.
+
+      L'autoévaluation de la conformité est interdite, seule l'évaluation par un tiers est admise.
+
+   D. Les domaines techniques.
+
+      Les niveaux AVA_VAN 4 ou 5 ne sont possibles que dans un domaine technique de l'annexe I, avec un profil de protection de référence de l'annexe II, ou par exception approuvée par l'ANCC.
+
+      Le premier domaine technique concerne les cartes à puce et dispositifs similaires, comme les circuits intégrés ou les modules de plateforme de confiance.
+
+      Le second concerne les dispositifs matériels avec boîtiers de sécurité, comme les terminaux de paiement, les tachygraphes, les compteurs intelligents ou les modules de sécurité matériels.
+
+III. LA CERTIFICATION.
+
+   A. La délivrance.
+
+      La certification se fait par rapport à la cible de sécurité définie par le demandeur, ou en intégrant un profil de protection certifié.
+
+      Le demandeur fournit les preuves, y compris si nécessaire le code source, un lien vers ses informations de cybersécurité et ses procédures de gestion des vulnérabilités.
+
+      Le certificat est délivré quand le CESTI et l'organisme de certification ont conclu sans objection.
+
+      Le demandeur s'engage notamment à ne pas promouvoir le produit comme certifié avant la délivrance et à vendre des produits strictement identiques au produit certifié.
+
+      L'organisme de certification établit un rapport de certification et transmet chaque certificat à l'ANCC et à l'ENISA.
+
+   B. La marque et l'étiquette.
+
+      Elles indiquent le niveau d'assurance, le niveau AVA_VAN et l'identifiant unique du certificat.
+
+      L'identifiant comprend le nom du schéma, l'organisme de certification et son numéro d'accréditation, l'année et le mois de délivrance et un numéro d'identification.
+
+      Un code QR renvoie vers la validité du certificat et les informations publiques.
+
+   C. La validité et le cycle de vie.
+
+      La durée de validité d'un certificat de produit est d'au plus cinq ans, sauf approbation préalable de l'ANCC.
+
+      Le certificat d'un profil de protection peut durer autant que le profil.
+
+      Après réexamen, l'organisme de certification confirme, retire ou retire et remplace le certificat.
+
+      Un profil de protection n'est certifié que par une ANCC, un organisme public, ou un organisme approuvé au cas par cas par l'ANCC.
+
+IV. LES ORGANISMES D'ÉVALUATION.
+
+   A. L'accréditation.
+
+      L'organisme de certification est accrédité selon la norme ISO/CEI 17065.
+
+      Le CESTI est accrédité selon la norme ISO/CEI 17025, complétée par l'ISO/CEI 23532-1.
+
+      La gestion des compétences s'inspire des normes ISO/CEI 19896-1 et 19896-3.
+
+   B. L'autorisation pour le niveau élevé.
+
+      Pour le niveau élevé, l'organisme de certification et le CESTI doivent en plus être autorisés par l'ANCC.
+
+      L'évaluation de l'ANCC comprend au moins des entretiens structurés et une certification ou évaluation pilote.
+
+      L'autorisation ne dépasse pas la durée de l'accréditation et son renouvellement ne demande pas de pilote.
+
+      L'ANCC notifie les organismes à la Commission, et l'ENISA publie leur liste.
+
+V. CONTRÔLE ET NON-CONFORMITÉ.
+
+   A. Le contrôle.
+
+      L'ANCC prélève chaque année un échantillon d'au moins 4 pour cent des certificats EUCC, sur la base d'une évaluation des risques.
+
+      L'organisme de certification contrôle les titulaires et les produits qu'il a certifiés.
+
+      Le titulaire surveille les vulnérabilités de son produit, y compris ses dépendances.
+
+   B. Les sanctions.
+
+      En cas de non-conformité, le titulaire propose des mesures correctives dans un délai d'au plus 30 jours.
+
+      La suspension dure au plus 42 jours, prolongeable par l'ANCC jusqu'à un an au total, et n'affecte pas la validité du certificat.
+
+      Le titulaire informe les acheteurs de la suspension, et l'ENISA la publie.
+
+      Le non-respect continu ou récurrent entraîne le retrait du certificat.
+
+VI. LA GESTION DES VULNÉRABILITÉS.
+
+   A. Les procédures.
+
+      Le titulaire tient à jour des procédures de gestion des vulnérabilités, complétées le cas échéant par la norme EN ISO/IEC 30111.
+
+      Il publie un moyen de recevoir les signalements des utilisateurs, organismes et chercheurs.
+
+      Il analyse l'impact de toute vulnérabilité potentielle, avec si besoin un calcul du potentiel d'attaque.
+
+   B. Le rapport et la résolution.
+
+      Le rapport d'analyse d'impact est transmis sans retard injustifié à l'organisme de certification ou à l'ANCC.
+
+      Une vulnérabilité corrigeable donne lieu à une mesure corrective et à un réexamen.
+
+      Une vulnérabilité non résiduelle impossible à corriger entraîne le retrait du certificat.
+
+      L'information transmise à l'ANCC ne contient pas les moyens d'exploitation.
+
+   C. La divulgation.
+
+      Dès le retrait d'un certificat, le titulaire divulgue les vulnérabilités connues et corrigées dans la base européenne des vulnérabilités prévue par NIS 2.
+
+      La norme EN ISO/CEI 29147 complète la procédure de divulgation.
+
+VII. INFORMATION, RECONNAISSANCE ET TRANSITION.
+
+   A. L'archivage et la publication.
+
+      Les CESTI, organismes de certification et titulaires conservent les archives au moins cinq ans après le retrait du certificat.
+
+      Le titulaire conserve aussi un spécimen du produit certifié.
+
+      L'ENISA publie, au moins en anglais, les certificats, leur statut, les rapports, les organismes et les documents de référence.
+
+   B. Les pays tiers et l'évaluation par les pairs.
+
+      Un pays tiers doit conclure un accord de reconnaissance mutuelle avec l'Union pour faire reconnaître ses certificats.
+
+      Les organismes délivrant le niveau élevé sont évalués par les pairs au moins tous les cinq ans, en principe sur place.
+
+      L'ECCG rend un avis sur le rapport d'évaluation par les pairs.
+
+   C. La fin des schémas nationaux.
+
+      Les schémas nationaux couverts par l'EUCC cessent de produire leurs effets 12 mois après l'entrée en vigueur.
+
+      Une certification nationale engagée dans ces 12 mois devait être achevée au plus tard 24 mois après l'entrée en vigueur.
+
+   D. Le rôle de l'ANSSI.
+
+      L'ANSSI est l'ANCC française et surveille l'application des schémas européens en France.
+
+      Elle délivre les certificats de niveau élevé, comme elle délivre déjà la CSPN, certification de sécurité de premier niveau.
+
+      Elle représente la France à l'ECCG.
+
+POINTS D'ATTENTION.
+
+      Le Cybersecurity Act prévoit trois niveaux, mais l'EUCC n'utilise que substantiel et élevé.
+
+      Ne pas confondre les sept niveaux EAL des critères communs et les cinq niveaux AVA_VAN.
+
+      Substantiel égale AVA_VAN 1 ou 2, élevé égale AVA_VAN 3, 4 ou 5.
+
+      L'autoévaluation, permise au niveau élémentaire du Cybersecurity Act, est interdite dans l'EUCC.
+
+      Adoption le 31 janvier 2024, application le 27 février 2025.
+
+      Validité au plus cinq ans, mesures correctives en 30 jours, suspension de 42 jours, échantillon d'au moins 4 pour cent.
+
+      Le sigle CAB désigne ici un organisme d'évaluation de la conformité, et non un comité d'approbation des changements ITIL.
+
+      Ne pas confondre EUCC, pour les produits, et EUCS, pour les services en nuage.
+
+EXEMPLES CITES.
+
+      Cartes à puce, circuits intégrés et modules de plateforme de confiance.
+
+      Cartes et unités de tachygraphe numérique.
+
+      Terminaux de paiement, compteurs intelligents, terminaux de contrôle d'accès et modules de sécurité matériels.
+
+      Objets connectés grand public pour le niveau élémentaire du Cybersecurity Act.
+
+      SecNumCloud comme base du niveau élevé de l'EUCS.

@@ -1,0 +1,20 @@
+EUCC ?,Schéma européen de certification de cybersécurité des produits TIC fondé sur les critères communs.
+Texte ?,"Règlement d'exécution (UE) 2024/482 du 31 janvier 2024, modifié par le 2024/3144."
+Application ?,"Le 27 février 2025 (chapitre IV et annexe V dès l'entrée en vigueur)."
+Cybersecurity Act ?,"Règlement (UE) 2019/881 : mandat permanent ENISA et cadre européen de certification."
+Normes d'évaluation ?,"Critères communs ISO/CEI 15408, méthode d'évaluation commune ISO/CEI 18045."
+Niveaux EUCC ?,"Substantiel (AVA_VAN 1-2) et élevé (AVA_VAN 3-5) ; pas d'élémentaire."
+Autoévaluation ?,Interdite dans l'EUCC : évaluation par un tiers uniquement.
+CESTI ?,Centre d'évaluation de la sécurité des TI (ITSEF) ; accrédité ISO/CEI 17025 + 23532-1.
+Organisme de certification ?,Délivre les certificats ; accrédité ISO/CEI 17065.
+Niveau élevé ?,Accréditation + autorisation de l'ANCC (entretiens et pilote).
+ANCC en France ?,L'ANSSI ; le COFRAC est l'organisme d'accréditation.
+ECCG et SCCG ?,"ECCG : États membres, approuve les documents de référence ; SCCG : parties prenantes."
+Domaines techniques ?,"Cartes à puce et dispositifs similaires ; dispositifs matériels avec boîtiers de sécurité."
+Profil de protection ?,Exigences de sécurité d'une catégorie de produits ; certifié par une ANCC ou un organisme approuvé.
+Durées clés ?,"Validité 5 ans max, correctifs 30 jours, suspension 42 jours (1 an max), archives 5 ans."
+Contrôle ANCC ?,Échantillon d'au moins 4 % des certificats par an.
+Marque EUCC ?,"Niveau d'assurance, AVA_VAN, identifiant unique et code QR."
+Vulnérabilités ?,"Gestion EN ISO/IEC 30111, divulgation EN ISO/CEI 29147, base européenne NIS 2."
+Schémas nationaux ?,Cessent 12 mois après l'entrée en vigueur ; procédures engagées à finir sous 24 mois.
+Autres schémas ?,"EUCS (cloud), EU5G, EUDI Wallet."
