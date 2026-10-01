@@ -1,0 +1,187 @@
+LA CONDUITE DES GRANDS PROJETS NUMÉRIQUES DE L'ÉTAT, COMMUNICATION À LA COMMISSION DES FINANCES DU SÉNAT (COUR DES COMPTES, JUILLET 2020).
+
+LEXIQUE COMPLET.
+
+      Un grand projet numérique de l'État est un projet dont le coût complet, y compris deux années de fonctionnement, dépasse neuf millions d'euros et qui relève de l'avis conforme de la DINUM.
+
+      La DINUM, Direction interministérielle du numérique, créée en 2011 sous le nom de DISIC puis devenue DINSIC en 2015, porte ce nom depuis octobre 2019.
+
+      Le Panorama des grands projets numériques est l'outil de suivi de la DINUM, qui mesure les dérives de coût et de délai.
+
+      La dérive d'un projet est l'écart entre les coûts ou délais constatés et les prévisions initiales.
+
+      La doctrine pensons grand et avançons petit prône des projets limités, allotis et livrés par jalons courts apportant de la valeur en continu.
+
+      La dette technique désigne l'obsolescence technique des systèmes, qui doit être traitée dans les plans d'investissement.
+
+      Une DNUM est une direction du numérique ministérielle, appelée à dépasser le rôle d'une DSI traditionnelle.
+
+      La DSI, direction des systèmes d'information, exerce l'exploitation, la maintenance et les développements des infrastructures et applications.
+
+      La MOA, maîtrise d'ouvrage, et la MOE, maîtrise d'œuvre, sont respectivement le commanditaire et le réalisateur technique.
+
+      Le PMO, project management office, est la cellule de pilotage et de gestion de projet.
+
+      TECH.GOUV est la stratégie de transformation numérique de l'État énoncée en avril 2019.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE DE L'ENQUÊTE.
+
+   A. La demande.
+
+      La commission des finances du Sénat a demandé l'enquête le 11 décembre 2018, sur le fondement de l'article 58-2° de la loi organique relative aux lois de finances.
+
+      Le rapport, de juillet 2020, porte sur les projets de l'État de plus de cinq millions d'euros, hors opérateurs et hors systèmes d'armes.
+
+   B. La méthode.
+
+      La Cour a analysé tous les dossiers de la DINUM depuis 2011, interrogé les secrétaires généraux et les DSI de dix ministères, s'est appuyée sur un comité de huit experts et a mené un parangonnage international, notamment avec l'Estonie.
+
+II. LES ÉCHECS HISTORIQUES.
+
+   A. Louvois.
+
+      Engagé en 2001 pour la solde des militaires, déployé dix ans plus tard, Louvois a été abandonné fin 2013.
+
+      Ses erreurs de calcul ont atteint 465 millions d'euros pour la seule année 2012.
+
+      Les causes sont organisationnelles, avec trop de parties prenantes et de réorganisations, budgétaires, avec des réductions d'effectifs prématurées dans les services de la solde, et techniques, avec une sous-estimation de la complexité des règles de solde jamais spécifiées en détail.
+
+   B. L'ONP.
+
+      Lancé en 2007, le programme de l'opérateur national de paye devait établir la paye d'environ 2,7 millions d'agents et économiser 3 800 postes.
+
+      L'État gère environ 1 500 éléments de paie, contre une centaine dans les grandes entreprises, et le programme ne prévoyait aucune livraison intermédiaire.
+
+      Son échec tient à une ambition excessive, une gouvernance défaillante et un manque d'expérience, pour un coût d'environ 346 millions d'euros fin 2013.
+
+   C. Cassiopée.
+
+      Décidé en 2001 pour unifier la chaîne pénale, Cassiopée a coûté et duré environ deux fois plus que prévu sans répondre aux besoins des magistrats instructeurs.
+
+      Sept directeurs de projet se sont succédé de 2001 à 2014, sans autorité sur les développeurs, sans recette par les utilisateurs ni conduite du changement.
+
+   D. La réponse de l'État.
+
+      La DISIC est créée en février 2011, avec information au-delà de cinq millions d'euros et avis au-delà de neuf millions, puis avis conforme depuis le décret du 1er août 2014.
+
+      Au 31 décembre 2019, sur une soixantaine d'avis rendus, seuls huit étaient défavorables, par exemple Cyclades, Source, la garantie universelle des loyers, le RSU, le SI de la commission du contentieux du stationnement payant, Crocus et ArchipelNG.
+
+III. LES FACTEURS CLÉS DE SUCCÈS.
+
+   A. Les règles de l'art.
+
+      La taille du projet est corrélée à sa probabilité d'échec, d'où la limitation de la taille, l'allotissement et les mises en service successives par jalons courts.
+
+      Il faut des méthodes de pilotage qui facilitent les décisions rapides et un responsable unique ayant autorité sur toutes les équipes, de la conception au déploiement.
+
+      Les besoins et l'avis des utilisateurs doivent être pris en compte à tous les stades.
+
+   B. Les enseignements du Standish Group.
+
+      Le rapport CHAOS place en tête la rapidité de décision, puis la taille du projet, la qualité du parrainage, l'agilité de la méthode et les compétences des équipes.
+
+      Les très grands projets échouent dans 43 pour cent des cas et réussissent dans 4 pour cent, contre 8 pour cent d'échecs et 57 pour cent de succès pour les très petits.
+
+      48 pour cent des projets agiles réussissent contre 26 pour cent des projets traditionnels.
+
+      Les projets avec une bonne gestion des délais de décision réussissent à 58 pour cent, contre 18 pour cent sinon.
+
+   C. Les sept bonnes pratiques du Cigref.
+
+      Des objectifs métiers explicites et partagés, une gouvernance claire et légitime, une méthode évaluée en amont incluant la conduite du changement, la sécurité, la conformité et le contrôle interne intégrés dès la conception, des jalons réguliers de suivi des dérives, des recettes techniques et fonctionnelles avant production, et un bilan de fin de projet partagé.
+
+   D. Les causes d'échec en Estonie.
+
+      Changements de fonctionnalités en cours de projet, attentes des utilisateurs mal prises en compte, coopération insuffisante, rôles mal décrits, équipes trop instables, législation modifiée en cours de route et plans trop optimistes.
+
+IV. DES PROGRÈS LIMITÉS.
+
+   A. Les dérives.
+
+      Une cinquantaine de grands projets sont suivis par la DINUM.
+
+      Les dérives de coût et de délai ont plus que doublé depuis 2015 et dépassent 30 pour cent, avec en moyenne 36,1 pour cent de dérive calendaire et 35,6 pour cent de dérive budgétaire dans le Panorama de 2019.
+
+      L'objectif de TECH.GOUV de les ramener sous 20 pour cent en 2022 paraît difficilement atteignable.
+
+   B. Les limites de l'avis conforme.
+
+      L'intervention de la DINUM est trop tardive, son impact pédagogique faible, et la nécessité d'un responsable unique ne semble pas comprise.
+
+      L'évaluation des charges de développement n'est presque jamais analysée lors des avis.
+
+      La DINUM n'a qu'un accès partiel à Chorus.
+
+   C. Les enjeux financiers.
+
+      Les logiciels et applications mis en service représentaient un peu plus de six milliards d'euros au bilan fin 2018, et le flux annuel d'investissement environ 380 millions d'euros en 2019, soit environ 3 pour cent des investissements de l'État.
+
+V. LES ORGANISATIONS ET LES RESSOURCES HUMAINES.
+
+   A. Les organisations ministérielles.
+
+      Les secrétaires généraux sont responsables du développement des SI et ne doivent pas déléguer toute la supervision aux DSI.
+
+      Les DNUM doivent élargir leur rôle au-delà des DSI traditionnelles, et une relation fonctionnelle doit lier le directeur de la DINUM aux directeurs du numérique ministériels.
+
+   B. Les ressources humaines.
+
+      L'État manque de compétences internes, notamment de direction de projet, pour maîtriser les prestataires.
+
+      La DGAFP et la DINUM ont identifié quinze métiers en tension, dont six liés à la conduite de projets, chef de projet MOA et MOE, directeur de projet, scrum master, concepteur-développeur et intégrateur.
+
+      Les recrutements par concours sont trop lents face au secteur privé.
+
+VI. LES ONZE RECOMMANDATIONS.
+
+      Prévoir une intervention systématique de la DINUM dans les études préalables des projets de plus d'une cinquantaine de millions d'euros.
+
+      Ne prévoir aucun grand projet de plus de cinq ans, sauf avis dérogatoire de la DINUM.
+
+      Simplifier les procédures et la réglementation avant les projets d'ampleur, en accordant calendriers des projets et calendriers réglementaires.
+
+      Désigner pour chaque grand projet un responsable unique ayant autorité pour décider et faire appliquer.
+
+      Privilégier un pilotage par les délais, avec des jalons courts apportant de la valeur.
+
+      Respecter les ratios minimaux de ressources internes.
+
+      Intégrer les besoins des utilisateurs dès la conception et évaluer systématiquement leur satisfaction.
+
+      Améliorer les plans d'investissement numérique en distinguant coûts de construction et coûts récurrents.
+
+      Examiner d'abord la possibilité d'une solution mutualisée.
+
+      Recruter un vivier interministériel d'au moins 400 professionnels du numérique, suivi par le Premier ministre.
+
+      Développer les recrutements à affectation locale dès 2020.
+
+      La Cour recommande aussi de privilégier des projets de cinq à vingt millions d'euros réalisables en dix-huit mois à trois ans.
+
+POINTS D'ATTENTION.
+
+      Le rapport date de juillet 2020, à la demande de la commission des finances du Sénat du 11 décembre 2018.
+
+      Les trois échecs emblématiques sont Louvois, l'ONP et Cassiopée.
+
+      Le prélèvement à la source est cité comme une réussite.
+
+      Les dérives dépassent 30 pour cent, contre un objectif TECH.GOUV de moins de 20 pour cent en 2022.
+
+      Huit avis défavorables seulement sur une soixantaine au 31 décembre 2019.
+
+      Recommandations phares, responsable unique, projets de moins de cinq ans, intervention de la DINUM dès 50 millions d'euros, vivier de 400 professionnels.
+
+EXEMPLES CITES.
+
+      Louvois, 465 millions d'euros d'erreurs de solde en 2012.
+
+      ONP, environ 346 millions d'euros engagés et 1 500 éléments de paie.
+
+      Cassiopée, sept directeurs de projet en treize ans.
+
+      Cyclades, avis défavorable pour cinq ans de développement avant la première version.
+
+      Estonie, pays e-nation pris en exemple.

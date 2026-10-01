@@ -1,0 +1,22 @@
+CHAI ?,"Comité d'harmonisation de l'audit interne ; guide d'audit des SI v1.0, juin 2014."
+Gouvernance du SI ?,Dispositif pour contrôler et réguler le SI selon la stratégie de l'organisation.
+ITIL ?,Référentiel de bonnes pratiques de la production informatique.
+COBIT ?,Référentiel de gouvernance et de contrôle interne informatique.
+CMMI ?,"Maturité des développements, niveaux 1 à 5."
+ISO 27001 ?,Exigences de sécurité informatique (ex-BS7799).
+Cadre stratégique commun du SI de l'État ?,"Circulaire du 7 mars 2013 : valeur, efficience, pilotage."
+Schéma directeur informatique ?,"Plan stratégique pluriannuel (2 à 6 ans), approuvé au plus haut niveau."
+Plan d'occupation des sols ?,"Urbanisation : zones, quartiers, îlots, blocs fonctionnels."
+Séparation des tâches ?,"Développeurs hors production, exploitation hors développement, droits admin limités et tracés."
+PSSI ?,"Politique de sécurité des SI, issue d'une étude des risques, validée par la direction."
+MOA / MOE ?,"MOA : commanditaire métier ; MOE : garant technique (rôle de la DSI)."
+Défaut de l'AMOA ?,Remplacer la MOA dans les faits.
+SLA / OLA ?,"Contrat de service avec le client ; accord opérationnel entre équipes internes."
+PCA / PRA ?,"Continuer pendant le sinistre ; reprendre après."
+Instances de pilotage d'un projet ?,"Comité de pilotage, comité de projet, comité des utilisateurs."
+Recette ?,"Tests MOE puis MOA, procédure formalisée, procès-verbal."
+Forfait horaire ?,"Très déconseillé : risque économique pour le client, prêt illicite de main-d'œuvre."
+Réversibilité ?,"Reprendre le système ou le confier à un tiers en fin de contrat."
+CAB (hors guide) ?,"Change Advisory Board : évalue, priorise, planifie les changements ; ECAB pour l'urgence."
+Types de changements ITIL ?,"Standard (préautorisé), normal, urgent."
+RACI ?,"Réalise, Approuve, Consulté, Informé ; un seul A par ligne."

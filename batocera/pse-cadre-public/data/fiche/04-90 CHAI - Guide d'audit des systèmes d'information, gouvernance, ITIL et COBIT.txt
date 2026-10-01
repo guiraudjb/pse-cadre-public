@@ -1,0 +1,265 @@
+GUIDE D'AUDIT DES SYSTÈMES D'INFORMATION, GOUVERNANCE DU SI, RÉFÉRENTIELS ITIL ET COBIT, PILOTAGE, PRODUCTION ET PROJETS (COMITÉ D'HARMONISATION DE L'AUDIT INTERNE, VERSION 1.0 DE JUIN 2014).
+
+LEXIQUE COMPLET.
+
+      Le CHAI, Comité d'harmonisation de l'audit interne, harmonise la méthodologie des auditeurs internes de l'État, et ce guide a été produit par un groupe de travail interministériel animé par le Contrôle général des armées.
+
+      La gouvernance des systèmes d'information est le dispositif mis en place par une organisation pour contrôler et réguler son SI, en fixant au SI des objectifs découlant de la stratégie de l'organisation.
+
+      Le système informatique, ou système d'information, est l'ensemble des logiciels et matériels qui stockent, gèrent, traitent, transportent et diffusent l'information au sein de l'organisation.
+
+      La fonction informatique comprend le système informatique ainsi que les personnes, processus, ressources financières et informationnelles qui y contribuent.
+
+      La fonction d'information est l'ensemble organisé de personnes, de procédures et d'équipements qui fournit aux décideurs une information pertinente et valide, à ne pas confondre avec la fonction informatique.
+
+      Le schéma directeur informatique est le plan stratégique pluriannuel qui pilote le développement de l'informatique en cohérence avec la stratégie générale, approuvé au plus haut niveau, pour une durée de deux à six ans.
+
+      L'urbanisation du SI fixe des règles de développement applicatif sur le modèle de l'urbanisme, et le plan d'occupation des sols répartit le patrimoine applicatif en zones, quartiers, îlots et blocs fonctionnels.
+
+      ITIL, Information Technology Infrastructure Library, est le référentiel de bonnes pratiques plus spécifique à la gestion de la production informatique.
+
+      COBIT, Control Objectives for Information and related Technology, est le référentiel de gouvernance et de contrôle interne informatique.
+
+      CMMI, Capability Maturity Model Integration, est le référentiel de maturité des développements informatiques, avec des niveaux de 1 à 5.
+
+      La norme ISO 27001, auparavant BS7799, présente les exigences en matière de sécurité informatique.
+
+      La maîtrise d'ouvrage, MOA, est le commanditaire du projet, généralement une direction métier, et la maîtrise d'œuvre, MOE, est le garant technique de sa réalisation.
+
+      L'AMOA, assistance à maîtrise d'ouvrage, décharge la MOA des tâches de pilotage de nature technique.
+
+      Le propriétaire d'application ou de données, ou business owner, est le responsable opérationnel de l'adaptation d'une application aux besoins métier ou de la qualité d'un ensemble de données.
+
+      La base de données maîtresse est la référence incontestable d'une donnée partagée entre plusieurs acteurs.
+
+      Le contrat ou convention de service, SLA pour service level agreement, formalise un niveau de service négocié entre un prestataire et ses clients, et l'OLA est l'accord de niveau opérationnel entre équipes internes.
+
+      Le PCA, plan de continuité d'activité, permet de poursuivre l'activité pendant un sinistre, et le PRA, plan de reprise d'activité, permet de la reprendre après.
+
+      L'infogérance consiste à confier à un prestataire tout ou partie de la gestion du SI dans un contrat pluriannuel, forfaitaire, avec un niveau de service et une durée définis, et la TMA est la tierce maintenance applicative.
+
+      La réversibilité est l'obligation pour un prestataire de permettre au client de reprendre son système ou de le confier à un tiers en fin de contrat.
+
+COURS DÉTAILLÉ.
+
+I. OBJET ET ORGANISATION DU GUIDE.
+
+   A. Le public.
+
+      Le guide s'adresse à des auditeurs internes au moins avertis, et l'essentiel des travaux d'audit SI demande surtout une bonne maîtrise des pratiques d'audit plutôt que des connaissances informatiques approfondies.
+
+      Il est orienté vers l'audit de structures de taille conséquente, et l'auditeur doit adapter son approche à la taille de l'organisation.
+
+   B. Les trois parties.
+
+      La première partie présente les facteurs clés de performance de la fonction informatique et les principaux risques.
+
+      La deuxième partie décrit la dimension informatique des audits généralistes et les audits propres au domaine SI.
+
+      La troisième partie propose, par thème, des tableaux de points de contrôle, complétés par un dictionnaire des expressions et des acronymes.
+
+   C. Les limites.
+
+      Les points de contrôle sont illustratifs, non exhaustifs, et conçus pour des cycles de développement classiques en V.
+
+      Ils peuvent être moins adaptés aux méthodes agiles et au décloisonnement de la MOA et de la MOE, et s'appliquent en subsidiarité des référentiels officiels d'audit.
+
+II. LES ENJEUX DU SYSTÈME D'INFORMATION.
+
+   A. L'alignement stratégique.
+
+      Le SI n'est pas une fin en soi, il ne se justifie qu'en soutenant des processus métier, et doit donc être aligné avec les objectifs stratégiques de l'organisation.
+
+      Un SI adapté est un facteur déterminant de performance, d'efficacité, d'efficience et de maîtrise des risques, alors qu'un SI mal maîtrisé est une source inépuisable de difficultés.
+
+   B. Le cadre stratégique commun du SI de l'État.
+
+      Validé par circulaire du Premier ministre du 7 mars 2013, il fixe trois axes, un SI qui crée une valeur croissante pour ses utilisateurs, un SI construit de façon efficiente et une fonction SI pilotée.
+
+      Le corpus applicable comprend le cadre stratégique, la politique de sécurité, le cadre commun d'urbanisation et le cadre commun d'interopérabilité.
+
+      Il comprend aussi les référentiels de l'ordonnance du 8 décembre 2005, référentiel général d'interopérabilité, référentiel général de sécurité et référentiel d'accessibilité.
+
+      Au niveau ministériel s'ajoutent un schéma directeur, un cadre de cohérence technique et une méthode de conduite de projet structurant les relations MOA et MOE.
+
+III. LES FACTEURS CLÉS D'UN SI PERFORMANT.
+
+   A. Les qualités d'un SI idéal.
+
+      Un SI idéal est aligné sur la stratégie, conforme aux obligations légales, sécurisé, facile à utiliser, fiable, adaptatif, pérenne, disponible, efficient, conforme au plan d'urbanisme et aux bonnes pratiques de la commande publique.
+
+   B. L'implication de la direction.
+
+      La direction supervise le SI grâce à un schéma directeur, des documents de gouvernance à jour et des comités de pilotage informatiques réguliers, suivi des incidents, des projets et des budgets, où elle est représentée à bon niveau.
+
+      Elle s'appuie aussi sur des tableaux de bord, un portefeuille de projets avec des analyses de la valeur, et une cartographie à jour des applications et systèmes.
+
+   C. La sécurité et la conformité.
+
+      La politique de sécurité des systèmes d'information, la PSSI, est le principal document de référence en sécurité, issu d'une étude des risques, validé et soutenu par la direction, diffusé à tous les acteurs et régulièrement mis à jour.
+
+      Une charte d'utilisation du SI, idéalement signée par tous les agents, fixe les règles de sécurité et de bon usage, la traçabilité et les sanctions.
+
+      Des comités de sécurité réguliers doivent réunir la direction à bon niveau.
+
+   D. La séparation des tâches et les droits d'accès.
+
+      Les développeurs ne doivent pas accéder à l'environnement de production, et le personnel d'exploitation ne doit pas accéder à l'environnement de développement.
+
+      Les droits d'administrateur doivent être limités, tracés et revus, les demandes de droits formalisées et validées par les chefs de service, et les droits supprimés en cas de départ.
+
+   E. La gestion de projet et la démarche qualité.
+
+      Un projet réussi suppose une vision claire, l'implication de la direction générale, une définition claire des responsabilités, l'implication des utilisateurs, une équipe dédiée et expérimentée, des choix techniques pérennes, une gestion rigoureuse, un déploiement échelonné, un suivi des risques et un accompagnement du changement.
+
+      Une démarche qualité s'appuie sur des référentiels, CMMI pour le développement, ITIL pour la production, COBIT pour la gouvernance, ISO 27001 pour la sécurité, le guide des achats de services informatiques du service des achats de l'État, les guides de l'ANSSI et de la DISIC et la méthode MAREVA d'analyse de la valeur.
+
+   F. Le SI intégré.
+
+      Un SI est intégré quand les applications communiquent automatiquement par des interfaces, avec une saisie unique et des contrôles d'intégrité, ce qui limite l'action humaine source d'erreurs ou de fraude.
+
+IV. LES AUDITS SPÉCIFIQUES AU DOMAINE SI.
+
+   A. L'audit de sécurité.
+
+      La sécurité informatique dépasse l'informatique, elle protège des actifs et doit être justifiée et équilibrée.
+
+      L'auditeur examine l'inventaire des actifs, l'évaluation des risques, le processus de décision et la pertinence du dispositif.
+
+   B. L'audit de la qualité des données.
+
+      Chaque donnée devrait avoir un propriétaire unique, chargé des règles de création, de mise à jour, de suppression, de protection et de disponibilité.
+
+      La duplication des données dans des fichiers locaux est un risque aussi important que leur qualité, car une copie périmée échappe aux règles de gestion.
+
+   C. L'audit de régularité.
+
+      L'auditeur mesure les écarts aux normes internes et publiques, recommande de corriger les pratiques à court terme et, si une norme est inadaptée, de la faire évoluer à long terme plutôt que de la contourner.
+
+V. L'AUDIT DU PILOTAGE DES SI.
+
+   A. L'objectif.
+
+      L'audit du pilotage évalue la maturité informatique de l'organisation et l'adéquation du rôle, du positionnement et des objectifs de la DSI avec les enjeux.
+
+   B. Les points de contrôle.
+
+      L'auditeur vérifie si la DSI est rattachée à la direction générale et présente au comité de direction, et si une charte définit son rôle de MOE.
+
+      Il vérifie l'existence de comités informatiques stratégiques et de pilotage réunissant les directions pour recenser les besoins, gérer les priorités et suivre les projets.
+
+      Il vérifie que les métiers assument leur rôle de MOA, pilotage du SI et des budgets, définition des besoins et de la sécurité, gestion du changement et des évolutions, validation et recette.
+
+      Il analyse le schéma directeur, le plan informatique, les documents d'urbanisme et leur mise à jour au moins annuelle.
+
+VI. L'AUDIT DE LA PRODUCTION INFORMATIQUE.
+
+   A. L'objectif.
+
+      Il analyse la capacité à exploiter les systèmes en répondant aux besoins des utilisateurs en disponibilité, intégrité, confidentialité et qualité de service.
+
+   B. Les engagements de service.
+
+      Les niveaux de service doivent être formalisés dans des conventions de service par application, avec des indicateurs mesurables, des objectifs quantifiés et un suivi continu par des tableaux de bord.
+
+      Tout engagement quantitatif doit être mesurable, effectivement mesuré et faire l'objet d'un dialogue de gestion.
+
+   C. L'organisation.
+
+      La frontière entre études et production doit être claire et documentée, la production indépendante des études, et les compétences maîtrisées pour chaque technologie.
+
+      La capacité, la scalabilité, l'obsolescence et la redondance des architectures doivent être suivies au regard des engagements.
+
+   D. Les livraisons en production.
+
+      Toute livraison doit être contrôlée, avec un procès-verbal de recette fonctionnelle, des tests d'intégration et des tests des procédures et des packages de livraison.
+
+VII. L'AUDIT DES PROJETS.
+
+   A. Les instances de pilotage.
+
+      Le comité de pilotage, parfois appelé comité directeur, est l'instance de décision stratégique, lancement, arbitrages, allocation des ressources.
+
+      Le comité de projet est l'instance de pilotage opérationnel, avec la maîtrise d'œuvre et les prestataires, et le comité des utilisateurs exprime les besoins, valide les conceptions, participe aux tests et à la réception.
+
+      La structure de pilotage doit être formalisée, connue de tous, avec des niveaux de délégation clairs.
+
+   B. Les rôles et responsabilités.
+
+      Les rôles de la MOA et de la MOE et les prérogatives du chef de projet doivent être clairement définis, de l'étude d'opportunité au retrait de service.
+
+      Le chef de projet doit avoir l'autorité suffisante pour résoudre les conflits, et les principaux intervenants doivent être dédiés au projet.
+
+   C. La recette.
+
+      Toute application est testée par la MOE puis par la MOA, une procédure formalisée encadre l'acceptation ou le rejet d'une livraison, et un procès-verbal clôt la recette.
+
+   D. La gestion des évolutions.
+
+      Les évolutions après mise en service doivent être formalisées, soumises à une procédure, à une mesure d'impact et à une gestion des versions, avec des décisions rapides fondées sur une information pertinente.
+
+   E. La mise en production.
+
+      La bascule de responsabilité entre la direction des projets et celle de la production suit des procédures strictes, respecte la séparation des tâches et est tracée.
+
+VIII. LES MARCHÉS INFORMATIQUES.
+
+      Le forfait protège le prix mais expose au risque de dérive du calendrier et de périmètre trop restreint.
+
+      Le forfait horaire est très déconseillé, car il fait porter le risque économique au client et expose au prêt illicite de main-d'œuvre et au marchandage.
+
+      L'infogérance et la TMA exigent des engagements de performance, des pénalités et une réversibilité organisée, et la TMA ne doit pas camoufler du développement.
+
+IX. REPÈRES COMPLÉMENTAIRES HORS DOCUMENT, ITIL, CAB ET RACI.
+
+   A. ITIL et la gestion des changements.
+
+      Cette partie complète le guide, qui cite ITIL sans le détailler.
+
+      ITIL, aujourd'hui dans sa version 4, est un référentiel privé de gestion des services informatiques, détenu par PeopleCert après AXELOS, et non une norme publique.
+
+      La gestion des changements, appelée habilitation des changements dans ITIL 4, vise à autoriser les changements en maîtrisant leurs risques pour le service.
+
+      ITIL distingue les changements standards, préautorisés et à faible risque, les changements normaux, évalués et autorisés avant mise en œuvre, et les changements urgents, traités en procédure accélérée.
+
+   B. Le CAB.
+
+      Le CAB, Change Advisory Board ou comité consultatif des changements, évalue, priorise et planifie les demandes de changement et conseille l'autorité qui les autorise.
+
+      Il réunit des représentants des métiers, de la production, des études, de la sécurité et des fournisseurs concernés, et un comité restreint dit ECAB traite les changements urgents.
+
+   C. La matrice RACI.
+
+      La matrice RACI répartit les responsabilités activité par activité entre Réalise, ou Responsible, Approuve, ou Accountable, Consulté et Informé.
+
+      Chaque ligne ne doit compter qu'un seul A, responsable du résultat, ce qui rejoint l'exigence du guide de rôles clairement définis et d'un chef de projet doté d'autorité.
+
+POINTS D'ATTENTION.
+
+      ITIL concerne la production informatique, COBIT la gouvernance et le contrôle interne, CMMI la maturité des développements et ISO 27001 la sécurité.
+
+      Le cadre stratégique commun du SI de l'État date de la circulaire du Premier ministre du 7 mars 2013 et compte trois axes, valeur, efficience et pilotage.
+
+      Le schéma directeur dure généralement de deux à six ans et doit être approuvé au plus haut niveau.
+
+      Les développeurs ne doivent pas accéder à la production, ni l'exploitation au développement.
+
+      La DSI joue le rôle de MOE et les directions métiers celui de MOA, et l'AMOA ne doit jamais remplacer la MOA.
+
+      Ne pas confondre le PCA, qui poursuit l'activité pendant un sinistre, et le PRA, qui la reprend après.
+
+      Le forfait horaire est très déconseillé dans les marchés informatiques.
+
+      La partie IX sur ITIL, le CAB et RACI ne vient pas du guide du CHAI.
+
+EXEMPLES CITES.
+
+      Comités de pilotage informatiques pour le suivi des incidents, des projets et des budgets.
+
+      Convention de service par application avec indicateurs mesurables.
+
+      Comité de pilotage, comité de projet et comité des utilisateurs d'un projet.
+
+      Procès-verbal de recette avant mise en production.
+
+      Base de données maîtresse comme référence d'une donnée partagée.

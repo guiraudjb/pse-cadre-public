@@ -1,0 +1,175 @@
+COMMENT LA DINUM ACCOMPAGNE ET MAÎTRISE LES RISQUES DES GRANDS PROJETS NUMÉRIQUES DE L'ÉTAT, AVIS ARTICLE 3, PANORAMA DES GRANDS PROJETS ET MISSIONS ARTICLE 4 (DIRECTION INTERMINISTÉRIELLE DU NUMÉRIQUE).
+
+LEXIQUE COMPLET.
+
+      La DINUM, Direction interministérielle du numérique, est le capitaine d'équipe du numérique de l'État, chargée du conseil au gouvernement, du contrôle des grands projets, de la stratégie RH numérique et du pilotage d'un fonds d'investissement interne.
+
+      Le décret n° 2019-1088 du 25 octobre 2019 est relatif au système d'information et de communication de l'État et à la DINUM.
+
+      L'article 3 de ce décret soumet les grands projets numériques ministériels et interministériels à l'avis conforme du directeur interministériel du numérique.
+
+      L'arrêté du 5 juin 2020 fixe le seuil de l'article 3 à neuf millions d'euros toutes taxes comprises de montant prévisionnel global.
+
+      Un avis conforme est un avis qui lie l'administration, qui ne peut pas engager le projet en cas d'avis défavorable, alors qu'un avis simple ne la lie pas.
+
+      L'article 4 du même décret permet à la DINUM de réaliser des missions d'expertise, d'audit, de contrôle ou d'évaluation à la demande du Premier ministre ou d'un ministre.
+
+      Le Panorama des grands projets numériques de l'État recense et suit, chaque semestre, les projets les plus stratégiques ou sensibles, dont tous ceux dépassant neuf millions d'euros.
+
+      MAREVA, méthode d'analyse et de remontée de la valeur, est la méthode interministérielle d'analyse de la valeur des projets numériques depuis 2007, fondée sur une analyse stratégique et une analyse de rentabilité.
+
+      Le MCO, maintien en conditions opérationnelles, désigne l'exploitation et la maintenance du système après sa construction.
+
+      Le COSINUM est le comité d'orientation stratégique interministériel du numérique, auquel sont présentés les indicateurs du Panorama.
+
+      Une DIC est une demande d'information complémentaire, qui prolonge l'instruction d'un dossier article 3.
+
+      Le T2 désigne les dépenses de personnel et le HT2 les autres dépenses, à distinguer dans les budgets des projets.
+
+      Le FTAP est le fonds pour la transformation de l'action publique, qui peut financer des projets.
+
+COURS DÉTAILLÉ.
+
+I. LA DINUM.
+
+   A. Les missions.
+
+      La DINUM pilote la transformation numérique de l'État au bénéfice du citoyen et de l'agent.
+
+      Elle conseille le gouvernement, contrôle les grands projets, porte la stratégie RH du numérique et pilote un fonds d'investissement interne.
+
+      Elle met à disposition de l'interministériel des services comme le réseau interministériel de l'État, Démarches Simplifiées, la stratégie cloud ou une brigade d'intervention numérique.
+
+      Elle compte environ 200 agents, un budget d'environ 40 millions d'euros, et a un effet de levier sur environ 500 millions d'euros.
+
+   B. L'équipe conseil et maîtrise des risques.
+
+      Une équipe aux profils expérimentés intervient au cadrage, à la réalisation et au déploiement des projets.
+
+      Elle exerce trois activités, l'avis avant lancement de l'article 3, obligation réglementaire, les missions de l'article 4 à la demande d'un ministre, et le Panorama des grands projets, avec des revues semestrielles.
+
+II. L'ÉVALUATION POUR AVIS AVANT LANCEMENT, ARTICLE 3.
+
+   A. Une obligation réglementaire.
+
+      Les projets dont le montant prévisionnel global est égal ou supérieur à neuf millions d'euros toutes taxes comprises relèvent de l'article 3.
+
+      L'avis est conforme pour les projets d'une autorité ministérielle ou interministérielle, et simple pour ceux des organismes sous tutelle de l'État.
+
+   B. Une analyse de viabilité.
+
+      L'évaluation intervient à l'issue du cadrage, avant l'engagement des travaux de réalisation et la passation des marchés.
+
+      Elle vérifie que les conditions d'un bon déroulement sont réunies et que le projet est aligné sur la stratégie numérique de l'État.
+
+      Cinq dimensions sont analysées, l'impact stratégique, l'impact financier, la gouvernance, la réalisation et le calendrier.
+
+      La gouvernance couvre la comitologie, les rôles et responsabilités et la gestion de projet.
+
+      La réalisation couvre l'architecture, le socle technologique, la méthodologie, la gestion contractuelle et les risques.
+
+      Le dossier est partagé avec la direction du budget, la direction des achats de l'État et l'ANSSI, qui analyse le volet sécurité.
+
+      L'avis est rendu sous 30 jours calendaires.
+
+   C. Les causes racines des échecs.
+
+      La DINUM a analysé finement douze projets ayant connu des dérives majeures.
+
+      Elle a identifié des causes racines liées aux estimations, au fonctionnel, aux causes externes, à la technique, au pilotage du projet et aux ressources humaines.
+
+   D. Le déroulement.
+
+      Avant la saisine ont lieu une réunion de présentation et des échanges sur le contenu du dossier.
+
+      L'instruction comprend le partage du dossier, une réunion de présentation, une analyse documentaire et des questions-réponses, sur environ un mois, prolongé en cas de DIC.
+
+      Un avis favorable entraîne la mise en place des recommandations, la remontée des indicateurs dans le Panorama et, le cas échéant, une clause de revoyure.
+
+      Un avis défavorable entraîne l'arrêt du projet ou sa révision, de périmètre ou de trajectoire.
+
+      Le dossier comprend une fiche de présentation, identité, description, périmètre, organisation, valeur et ressources, les fichiers MAREVA de stratégie, de rentabilité et de valeur, et une annexe sur la stratégie d'achat.
+
+      La saisine se fait par lettre signée et dossier déposés sur Démarches Simplifiées.
+
+   E. Des recommandations types.
+
+      Sur la sécurité et le RGPD, la DINUM exige que la publication des textes juridiques et les analyses d'impact sur la protection des données soient synchronisées avec l'ouverture des services, et que le plan d'action de la commission d'homologation soit suivi.
+
+      Sur les coûts, elle relève l'oubli de la montée en charge du support, de la maintenance corrective ou de la bascule vers le cloud au titre de la doctrine Cloud au centre, et demande d'ajuster les provisions pour risques.
+
+      Sur l'externalisation, elle demande un directeur de projet interne à temps plein et refuse qu'un même prestataire assure l'AMOA et la MOE, avec une recette par des équipes indépendantes et une réception interne.
+
+      Sur la fin du mode projet, elle demande un plan de transition vers l'exploitation qui pérennise la coordination et l'architecture.
+
+      Les avis sont publiés sur le site de la DINUM, sauf projets classifiés ou en cours d'appel d'offres, dans l'esprit de la loi pour une République numérique.
+
+III. LE PANORAMA DES GRANDS PROJETS NUMÉRIQUES.
+
+   A. Un suivi sur tout le cycle de vie.
+
+      La DINUM met à jour chaque semestre le Panorama, historisé depuis son lancement en 2015.
+
+      Chaque projet ayant reçu un avis article 3 fait l'objet d'une fiche Panorama d'une centaine d'indicateurs, coût, durée, avancement calendaire, budgétaire et opérationnel, risques et jalons.
+
+   B. Les publications.
+
+      Le Panorama est composé d'une note au cabinet du Premier ministre, transmise aux secrétaires généraux et aux directeurs du numérique ministériels, et de deux annexes d'analyses et de fiches projets.
+
+      Ses principaux indicateurs sont présentés au COSINUM.
+
+   C. Un processus collectif.
+
+      Les fiches sont mises à jour lors de revues semestrielles avec les directions ministérielles.
+
+IV. LES MISSIONS DE L'ARTICLE 4.
+
+      À la demande du Premier ministre ou d'un ministre, la DINUM peut réaliser ou faire réaliser des missions d'expertise, d'audit, de contrôle ou d'évaluation sur tout projet ou SI des ministères et organismes sous tutelle.
+
+      Les conclusions sont adressées au Premier ministre et aux ministres concernés.
+
+      Exemples, l'analyse des difficultés de l'enseignement à distance, saisine du Premier ministre de juillet 2021, et l'accompagnement du programme Portalis de refonte des applications de la justice civile, saisine du ministre de la Justice de décembre 2020.
+
+V. LA MÉTHODE MAREVA.
+
+      MAREVA analyse la valeur depuis 2007 par une analyse stratégique, qualitative et quantitative, et une analyse de rentabilité des gains et des coûts.
+
+      Elle couvre les coûts de construction, directs et indirects, les coûts récurrents, les gains ou surcoûts, la durée, le coût global, la rentabilité et la trajectoire pluriannuelle.
+
+      Les coûts indirects de personnel sont chargés par la DINUM à partir des coûts moyens.
+
+      Un projet ne doit pas nécessairement être rentable, il peut se justifier par la résorption de la dette technique ou des dépenses futures évitées.
+
+      Les points de vigilance sont la fiabilité des coûts récurrents, la provision pour risques, les gains factices, la part de l'externalisation et l'internalisation des compétences avant la fin du projet.
+
+VI. LE PROGRAMME TECH.GOUV.
+
+      La feuille de route 2019-2022 TECH.GOUV comprenait les chantiers LABEL, PILOT, IDNUM, TALENTS, DATA, BETA, INFRA et TRANSFO.
+
+POINTS D'ATTENTION.
+
+      Le seuil de l'article 3 est de neuf millions d'euros toutes taxes comprises, fixé par l'arrêté du 5 juin 2020.
+
+      L'avis est conforme pour l'État et simple pour les organismes sous tutelle.
+
+      L'avis intervient après le cadrage et avant la passation des marchés.
+
+      Les cinq dimensions analysées sont la stratégie, les finances, la gouvernance, la réalisation et le calendrier.
+
+      L'ANSSI analyse le volet sécurité des dossiers article 3.
+
+      L'avis est rendu sous 30 jours calendaires.
+
+      Ne pas confondre l'article 3, avis avant lancement, et l'article 4, missions d'audit à la demande d'un ministre.
+
+      Le Panorama est semestriel et existe depuis 2015.
+
+EXEMPLES CITES.
+
+      Programme Portalis de la justice civile.
+
+      Mission sur l'enseignement à distance de juillet 2021.
+
+      Provision pour risques de deux millions d'euros à réviser.
+
+      Directeur de projet interne à temps plein demandé au passage à l'échelle.
