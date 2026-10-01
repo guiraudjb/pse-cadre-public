@@ -1,0 +1,65 @@
+Comment se dit gouvernance des SI en anglais ?;IT steering;IT governance;IT management;IT compliance;3;Le management, IT management, exécute dans le cadre fixé par la gouvernance.
+Quel triptyque résume la gouvernance selon ISO/IEC 38500 ?;Planifier, faire, vérifier;Identifier, protéger, détecter;Évaluer, diriger, surveiller;Concevoir, construire, exploiter;4;Evaluate, direct, monitor, repris dans le domaine EDM de COBIT.
+Quelle organisation publie COBIT ?;L'ANSSI;Le PMI;L'ISACA;PeopleCert;4;COBIT 2019 est la version actuelle.
+Que signifie COBIT ?;Control Objectives for Information and related Technology;Corporate Business IT;Control Of Business IT;Common Objectives for IT Buyers;2;Référentiel de gouvernance et de management des SI.
+Quel est le domaine de gouvernance de COBIT 2019 ?;APO;BAI;EDM;DSS;4;Les domaines de management sont APO, BAI, DSS et MEA.
+Que signifie le domaine BAI de COBIT ?;Build, Acquire and Implement, bâtir, acquérir et implémenter;Backup And Incident;Budget, Audit, Investment;Business And IT;2;Un des quatre domaines de management.
+Qui détient aujourd'hui le référentiel ITIL ?;Le CIGREF;PeopleCert;L'ISACA;L'ISO;3;Après AXELOS.
+Combien de pratiques compte ITIL 4 ?;34;4;26;7;2;Pratiques de management général, de gestion des services et de gestion technique.
+Combien de principes directeurs compte ITIL 4 ?;Sept;Trente-quatre;Quatre;Six;2;Dont se concentrer sur la valeur et commencer là où l'on est.
+Quelles sont les quatre dimensions d'ITIL 4 ?;Organisations et personnes, information et technologie, partenaires et fournisseurs, flux de valeur et processus;Plan, Do, Check, Act;Coût, délai, qualité, risque;Stratégie, conception, transition, exploitation;2;Elles s'appliquent à toute la gestion des services.
+Comment s'appelle le modèle central d'ITIL 4 ?;La CMDB;Le système de valeur des services, service value system;Le cycle de vie des services;Le catalogue de services;3;Il contient la chaîne de valeur des services.
+Qu'est-ce qu'un SLA ?;Un accord de niveau de service entre fournisseur et client;Un contrat de sous-traitance;Un indicateur de risque;Un accord entre équipes internes;2;Service Level Agreement.
+Qu'est-ce qu'un OLA ?;Un accord avec le client;Un plan de reprise;Un accord de niveau opérationnel entre équipes internes;Un contrat avec un sous-traitant;4;Operational Level Agreement, il soutient le SLA.
+Qu'est-ce qu'un UC dans ITIL ?;Un contrat de sous-traitance qui soutient un SLA;Une unité de configuration;Un utilisateur clé;Un comité urgent;2;Underpinning Contract.
+Quelle est la différence entre un SLO et un SLI ?;Ils sont identiques;Le SLO est la cible, le SLI la mesure;Le SLO est un contrat;Le SLI est la cible, le SLO la mesure;3;Vocabulaire de l'approche SRE.
+Qu'est-ce qu'un incident selon ITIL ?;Une interruption non planifiée ou une dégradation d'un service;Un changement urgent;Une demande d'accès;La cause d'une panne;2;La gestion des incidents vise le rétablissement rapide.
+Qu'est-ce qu'un problème selon ITIL ?;Un risque projet;La cause réelle ou potentielle d'un ou plusieurs incidents;Une demande de service;Une panne isolée;3;Traité par la gestion des problèmes.
+Qu'est-ce qu'une erreur connue ?;Une erreur de saisie;Un problème analysé mais pas encore résolu;Un incident clos;Un bug corrigé;3;Known error, enregistrée dans la KEDB avec son contournement.
+Comment se dit contournement en anglais ?;Workaround;Rollback;Hotfix;Backlog;2;Moyen de réduire l'impact sans résoudre la cause.
+Que signifie RCA ?;Release Control Audit;Root Cause Analysis, analyse des causes racines;Request for Change Approval;Risk Control Assessment;3;Recherche de la cause première.
+Qu'est-ce qu'une demande de service ?;Une modification d'infrastructure;Une demande normale d'un utilisateur, comme un accès;Un risque;Une panne;3;Service request.
+Comment s'appelle la gestion des changements dans ITIL 4 ?;Habilitation des changements, change enablement;Gestion des déploiements;Gestion des versions;Conduite du changement;2;ITIL v3 parlait de change management.
+Que signifie RFC dans la gestion des changements ?;Request For Change, demande de changement;Release For Customer;Request For Comments;Risk Factor Control;2;Elle décrit le changement proposé et sa justification.
+Quel type de changement est préautorisé et ne passe pas par le CAB ?;Le changement standard;Le changement urgent;Le changement majeur;Le changement normal;2;Faible risque, bien compris et documenté.
+Quel type de changement suit une procédure accélérée ?;Le changement normal;Le changement urgent;Le changement standard;Le changement mineur;3;Emergency change, souvent traité par l'ECAB.
+Que signifie CAB ?;Configuration And Backup;Change Approval Budget;Change Advisory Board, comité consultatif des changements;Central Audit Board;4;Appelé en pratique comité d'approbation des changements.
+Dans ITIL 4, le CAB autorise-t-il lui-même les changements ?;Seulement en urgence;Non, il conseille, l'autorité de changement autorise;Seulement les changements standards;Oui, toujours;3;ITIL 4 décentralise l'autorisation.
+Qu'est-ce que l'autorité de changement ?;Le prestataire;Le centre de services;La personne, le groupe ou le mécanisme qui autorise un type de changement;Le directeur général;4;Change authority, choisie selon le risque.
+Qu'est-ce que l'ECAB ?;La formation restreinte du CAB pour les changements urgents;Un outil de supervision;Un comité de budget;Une base de données;2;Emergency Change Advisory Board.
+Que désigne le FSC ?;Un registre des risques;Un plan de continuité;Le calendrier prévisionnel des changements;Une revue post-implémentation;4;Forward Schedule of Changes.
+Qu'est-ce qu'une PIR ?;Un plan de retour arrière;Une demande de changement;Un indicateur de risque;Une revue post-implémentation;5;Post-Implementation Review.
+Comment se dit gel des changements en anglais ?;Change hold;Change lock;Change freeze;Change stop;4;Période sans changement non urgent.
+Comment se dit plan de retour arrière en anglais ?;Backlog;Workaround;Fallback budget;Backout plan ou rollback;5;Procédure pour annuler un changement raté.
+Que stocke la CMDB ?;Les contrats RH;Les mots de passe;Les incidents uniquement;Les éléments de configuration et leurs relations;5;Configuration Management Database.
+Qu'est-ce qu'un CI ?;Un incident critique;Un élément de configuration;Un comité interne;Un indicateur de coût;3;Configuration Item : serveur, logiciel, contrat, document.
+Que mesure le MTBF ?;La perte de données;Le délai de reprise;Le temps moyen de rétablissement;Le temps moyen entre pannes;5;Mean Time Between Failures, mesure de fiabilité.
+Que mesure le MTTR ?;La perte de données;Le temps moyen de rétablissement;Le temps moyen entre pannes;Le délai de décision;3;Mean Time To Restore.
+Comment se traduit maîtrise d'ouvrage en anglais ?;Project owner ou business owner, sans équivalent exact;Delivery team;Steering committee;Prime contractor;2;La MOE se rapproche de prime contractor ou delivery team.
+Comment se dit comité de pilotage en anglais ?;Change board;Project committee;Audit committee;Steering committee;5;Le COPIL est l'instance stratégique du projet.
+Que signifie PMO ?;Performance Management Objective;Project Management Office;Program Main Owner;Project Monitoring Operation;3;Bureau de gestion de projet.
+Dans la matrice RACI, que signifie A ?;Assistant;Analyst;Accountable, celui qui rend compte et approuve;Auditor;4;Il doit être unique par activité.
+Dans la matrice RACI, que signifie R ?;Risk owner;Reviewer;Reporter;Responsible, celui qui réalise;5;Il peut y en avoir plusieurs.
+Combien de A faut-il par activité dans une matrice RACI ?;Un seul;Aucun;Deux;Autant que de R;2;Règle fondamentale du RACI.
+Que rajoute la variante RASCI ?;S pour sécurité;S pour stratégie;S pour sponsor;S pour support;5;Rôle de soutien.
+Comment se dit recette en anglais ?;Release;Receipt;Recovery;Acceptance testing;5;Conclue par un procès-verbal de la MOA.
+Que signifie VABF ?;Validation administrative des besoins fonctionnels;Vérification d'aptitude au bon fonctionnement;Vérification annuelle du budget;Version applicative de base;3;Phase de recette fonctionnelle.
+Que signifie UAT ?;Update And Test;User Access Token;Unified Audit Trail;User Acceptance Testing;5;Tests par les utilisateurs finaux.
+Comment se dit dérive de périmètre en anglais ?;Scope creep;Scope drift;Feature freeze;Budget overrun;2;Élargissement non maîtrisé du périmètre.
+Quelle différence entre gestion des changements ITIL et conduite du changement ?;La première porte sur les changements techniques, la seconde accompagne les personnes;La conduite du changement est réservée au CAB;La gestion des changements concerne les RH;Aucune;2;Organizational change management en anglais.
+Que signifie MVP ?;Most Valuable Player;Managed Virtual Platform;Minimum Viable Product, produit minimum viable;Main Version Plan;4;Première version réduite pour apprendre des usagers.
+Qui priorise le backlog dans Scrum ?;Le CAB;Le DSI;Le scrum master;Le product owner;5;Le scrum master facilite.
+Comment se dit appétence au risque en anglais ?;Risk appetite;Risk register;Risk tolerance level;Risk treatment;2;Niveau de risque accepté.
+Comment se dit séparation des tâches en anglais ?;Task splitting;Duty rotation;Segregation of duties;Role mapping;4;SoD, par exemple ne pas développer et mettre en production.
+Comment se dit RSSI en anglais ?;CIO;CISO, Chief Information Security Officer;CDO;CTO;3;Responsable de la sécurité des SI.
+Comment se dit déclaration d'applicabilité en anglais ?;Statement of Applicability, SoA;Scope of Audit;Service Level Agreement;Security Assessment;2;Document du SMSI selon ISO 27001.
+À quoi correspondent les critères DIC en anglais ?;DRP;BCP;CIA, Confidentiality, Integrity, Availability;SOC;4;Mêmes critères dans un ordre différent.
+Comment se dit PCA en anglais ?;BIA;BCP, Business Continuity Plan;DRP;RTO;3;Le PRA se dit DRP, Disaster Recovery Plan.
+Quelle est la différence entre RTO et RPO ?;Le RTO est le délai de rétablissement, le RPO la perte de données admissible;Le RTO est la perte, le RPO le délai;Le RPO est un budget;Ils sont identiques;2;Recovery Time Objective et Recovery Point Objective.
+Que signifie BIA ?;Backup Integrity Audit;Business Impact Analysis, analyse d'impact sur l'activité;Basic Incident Alert;Budget Investment Analysis;3;Elle fixe les besoins de continuité.
+Comment se dit DSI en anglais ?;CISO;CTO;COO;CIO, Chief Information Officer;5;Terme officiel français : directeur des systèmes d'information.
+Pourquoi le sigle CDO peut-il prêter à confusion ?;Il n'existe pas;Il est français;Il désigne le CAB;Il désigne le chief digital officer ou le chief data officer;5;Directeur du numérique ou administrateur des données.
+Comment se dit coût total de possession en anglais ?;TCO, Total Cost of Ownership;Capex;ROI;Opex;2;Coût sur toute la durée de vie.
+Que sont les Capex ?;Les recettes;Les pénalités;Les dépenses d'investissement;Les dépenses de fonctionnement;4;Capital expenditure, par opposition aux Opex.
+Comment se dit urbanisation du SI en anglais ?;System design;IS planning;Enterprise architecture;Urban IT;4;Organisation du SI en zones, quartiers et îlots.
+Comment se dit informatique fantôme en anglais ?;Shadow IT;Hidden IT;Ghost IT;Dark IT;2;Outils utilisés sans validation de la DSI.

@@ -1,0 +1,637 @@
+LEXIQUE DE LA GOUVERNANCE DES SYSTÈMES D'INFORMATION, TERMES, SIGLES ET CORRESPONDANCES FRANÇAIS ANGLAIS (GOUVERNANCE, ITIL 4, COBIT, PROJETS, RISQUES ET SÉCURITÉ, ACTEURS PUBLICS).
+
+LEXIQUE COMPLET.
+
+      Gouvernance des SI, IT governance, gouvernance informatique : dispositif par lequel la direction fixe au système d'information des objectifs tirés de la stratégie, évalue, oriente et contrôle son utilisation.
+
+      Management des SI, IT management, gestion informatique : planification, construction, exécution et suivi des activités informatiques dans le cadre fixé par la gouvernance.
+
+      Alignement stratégique, business IT alignment : cohérence entre les objectifs du système d'information et ceux des métiers de l'organisation.
+
+      Partie prenante, stakeholder : personne ou entité qui a un intérêt dans une décision, un service ou un projet, ou qui en subit les effets.
+
+      Création de valeur, value creation, cocréation de valeur, value co-creation : production de bénéfices pour l'organisation et ses usagers, que ITIL 4 décrit comme une construction commune entre fournisseur et consommateur.
+
+      ISO/IEC 38500, norme de gouvernance des technologies de l'information : norme internationale qui fixe les principes de bonne gouvernance des SI pour les dirigeants, autour du triptyque évaluer, diriger, surveiller.
+
+      EDM, Evaluate Direct Monitor, évaluer diriger surveiller : triptyque des responsabilités de gouvernance de la norme ISO/IEC 38500 et du domaine EDM de COBIT.
+
+      COBIT, Control Objectives for Information and related Technology : référentiel de gouvernance et de management des SI publié par l'ISACA, dont la version actuelle est COBIT 2019.
+
+      ISACA, Information Systems Audit and Control Association : association internationale qui publie COBIT et délivre les certifications CISA, CISM et CGEIT.
+
+      CGEIT, Certified in the Governance of Enterprise IT : certification de l'ISACA en gouvernance des SI d'entreprise.
+
+      CISA, Certified Information Systems Auditor : certification de l'ISACA pour les auditeurs des systèmes d'information.
+
+      CISM, Certified Information Security Manager : certification de l'ISACA pour les responsables de la sécurité de l'information.
+
+      AFAI, Association française de l'audit et du conseil informatiques : chapitre français de l'ISACA.
+
+      CIGREF, Club informatique des grandes entreprises françaises : association de grandes entreprises et administrations qui publie notamment la nomenclature des métiers du SI.
+
+      itSMF, IT Service Management Forum : association internationale des professionnels de la gestion des services informatiques, présente en France.
+
+      Schéma directeur informatique, IT master plan, plan stratégique du SI, IT strategic plan : plan pluriannuel, de deux à six ans, qui définit la stratégie informatique en cohérence avec celle de l'organisation.
+
+      Feuille de route, roadmap : planification des grandes étapes d'une stratégie ou d'un produit dans le temps.
+
+      Urbanisation du SI, enterprise architecture, architecture d'entreprise : démarche qui organise le système d'information en zones, quartiers et îlots fonctionnels pour en maîtriser l'évolution.
+
+      POS, plan d'occupation des sols, IS land use map : cartographie fonctionnelle cible du SI issue de l'urbanisation.
+
+      Cartographie du SI, IS mapping : représentation du système d'information selon des vues métier, applicative et infrastructure.
+
+      Portefeuille de projets, project portfolio : ensemble des projets d'une organisation, arbitrés et pilotés globalement selon leur valeur et leurs risques.
+
+      PPM, Project Portfolio Management, gestion de portefeuille de projets : pratique de sélection, de priorisation et de suivi de l'ensemble des projets.
+
+      Analyse de la valeur, value analysis, business case, dossier d'investissement : justification d'un projet par ses bénéfices, ses coûts et ses risques.
+
+      ROI, Return On Investment, retour sur investissement : rapport entre les gains obtenus et les sommes investies.
+
+      TCO, Total Cost of Ownership, coût total de possession : ensemble des coûts d'un actif informatique sur toute sa durée de vie, acquisition, exploitation, maintenance et retrait.
+
+      Capex, capital expenditure, dépenses d'investissement : dépenses qui créent un actif durable, par opposition aux dépenses de fonctionnement.
+
+      Opex, operating expenditure, dépenses de fonctionnement : dépenses courantes d'exploitation, comme les abonnements, la maintenance ou les prestations récurrentes.
+
+      Dette technique, technical debt : coût futur induit par des choix techniques rapides ou par l'obsolescence, qui doit être remboursé par des travaux de remise à niveau.
+
+      Shadow IT, informatique fantôme : usage d'outils ou de services informatiques par les métiers sans validation de la DSI.
+
+      KPI, Key Performance Indicator, indicateur clé de performance : mesure qui indique l'atteinte d'un objectif.
+
+      KRI, Key Risk Indicator, indicateur clé de risque : mesure qui signale l'évolution d'un risque.
+
+      KGI, Key Goal Indicator, indicateur clé d'objectif : indicateur de résultat qui vérifie qu'un objectif a été atteint, utilisé dans les anciennes versions de COBIT.
+
+      OKR, Objectives and Key Results, objectifs et résultats clés : méthode de pilotage qui associe un objectif qualitatif à quelques résultats mesurables.
+
+      Tableau de bord, dashboard : présentation synthétique des indicateurs utiles au pilotage.
+
+      Balanced scorecard, tableau de bord prospectif : outil de pilotage qui équilibre les perspectives financière, clients, processus internes et apprentissage.
+
+      Modèle de maturité, maturity model : échelle qui évalue le niveau de maîtrise d'un processus, de l'initial à l'optimisé.
+
+      CMMI, Capability Maturity Model Integration : modèle de maturité des processus de développement et de service, avec cinq niveaux.
+
+      ITSM, IT Service Management, gestion des services informatiques : ensemble des pratiques qui conçoivent, fournissent, gèrent et améliorent les services informatiques.
+
+      ITIL, Information Technology Infrastructure Library : référentiel de bonnes pratiques de gestion des services informatiques, aujourd'hui ITIL 4, détenu par PeopleCert.
+
+      SVS, Service Value System, système de valeur des services : modèle central d'ITIL 4 qui montre comment tous les composants de l'organisation créent de la valeur.
+
+      Chaîne de valeur des services, service value chain : modèle d'ITIL 4 composé de six activités, planifier, améliorer, impliquer, concevoir et effectuer la transition, obtenir et construire, fournir et soutenir.
+
+      Pratique, practice : dans ITIL 4, ensemble de ressources organisationnelles conçues pour réaliser un travail ou atteindre un objectif, ITIL 4 en compte trente-quatre.
+
+      Principes directeurs, guiding principles : les sept principes d'ITIL 4, se concentrer sur la valeur, commencer là où l'on est, progresser par itérations, collaborer, penser et travailler de manière holistique, rester simple et pratique, optimiser et automatiser.
+
+      Quatre dimensions, four dimensions : dans ITIL 4, organisations et personnes, information et technologie, partenaires et fournisseurs, flux de valeur et processus.
+
+      Service, service : moyen de cocréer de la valeur en facilitant les résultats souhaités par le client sans qu'il gère des coûts et des risques spécifiques.
+
+      Catalogue de services, service catalogue : liste structurée des services disponibles pour les utilisateurs.
+
+      Portefeuille de services, service portfolio : ensemble des services d'un fournisseur, en projet, en production ou retirés.
+
+      Niveau de service, service level : résultat attendu d'un service, mesuré par des indicateurs.
+
+      SLA, Service Level Agreement, accord ou convention de niveau de service : engagement documenté entre un fournisseur et un client sur les services et les niveaux attendus.
+
+      OLA, Operational Level Agreement, accord de niveau opérationnel : engagement entre équipes internes qui contribue au respect d'un SLA.
+
+      UC, Underpinning Contract, contrat de sous-traitance : contrat avec un fournisseur externe qui soutient l'atteinte d'un SLA.
+
+      SLM, Service Level Management, gestion des niveaux de service : pratique qui fixe, négocie et suit les niveaux de service.
+
+      XLA, Experience Level Agreement, accord de niveau d'expérience : engagement fondé sur l'expérience vécue par les utilisateurs plutôt que sur des seuls indicateurs techniques.
+
+      Centre de services, service desk : point de contact unique entre le fournisseur de services et les utilisateurs.
+
+      SPOC, Single Point Of Contact, point de contact unique : principe d'un interlocuteur unique pour les utilisateurs, incarné par le centre de services.
+
+      Incident, incident : interruption non planifiée d'un service ou baisse de sa qualité.
+
+      Gestion des incidents, incident management : pratique qui rétablit le fonctionnement normal du service le plus vite possible.
+
+      Incident majeur, major incident : incident à fort impact qui exige une procédure et une communication spécifiques.
+
+      Problème, problem : cause, réelle ou potentielle, d'un ou de plusieurs incidents.
+
+      Gestion des problèmes, problem management : pratique qui identifie les causes des incidents et les traite pour en réduire la fréquence et l'impact.
+
+      Erreur connue, known error : problème dont la cause a été analysée mais qui n'est pas encore résolu.
+
+      KEDB, Known Error Database, base des erreurs connues : base qui recense les erreurs connues et leurs contournements.
+
+      Contournement, workaround, solution de contournement : moyen de réduire l'impact d'un incident ou d'un problème sans résoudre sa cause.
+
+      RCA, Root Cause Analysis, analyse des causes racines : recherche de la cause première d'un incident ou d'un problème.
+
+      Demande de service, service request : demande d'un utilisateur pour une action normale de prestation, comme un accès ou une information.
+
+      Gestion des demandes de service, service request management : pratique qui traite les demandes de service de façon efficace et conviviale.
+
+      Escalade, escalation : transfert d'un incident à un niveau de support plus compétent, escalade fonctionnelle, ou à un niveau hiérarchique supérieur, escalade hiérarchique.
+
+      Niveaux de support, support tiers N1 N2 N3 : organisation du support en premier niveau au centre de services, deuxième niveau spécialisé et troisième niveau d'experts ou d'éditeurs.
+
+      Changement, change : ajout, modification ou suppression de tout élément qui peut avoir un effet direct ou indirect sur les services.
+
+      Habilitation des changements, change enablement, gestion des changements, change management : pratique d'ITIL 4 qui maximise le nombre de changements réussis en évaluant les risques, en autorisant les changements et en gérant leur calendrier.
+
+      RFC, Request For Change, demande de changement : formulaire ou enregistrement qui décrit un changement proposé et sa justification.
+
+      Changement standard, standard change : changement préautorisé, à faible risque, bien compris et documenté, qui ne passe pas par le CAB.
+
+      Changement normal, normal change : changement qui doit être évalué et autorisé selon un processus défini.
+
+      Changement urgent, emergency change : changement à mettre en œuvre au plus vite, par exemple pour corriger un incident majeur ou une faille, avec une procédure accélérée.
+
+      Autorité de changement, change authority : personne, groupe ou mécanisme automatisé chargé d'autoriser un type de changement selon son risque.
+
+      CAB, Change Advisory Board, comité consultatif des changements : comité qui évalue, priorise et planifie les changements importants et conseille l'autorité de changement, appelé en pratique comité d'approbation des changements.
+
+      ECAB, Emergency Change Advisory Board, comité consultatif des changements urgents : formation restreinte du CAB réunie rapidement pour les changements urgents.
+
+      FSC, Forward Schedule of Changes, calendrier prévisionnel des changements : planning des changements autorisés et de leurs dates de mise en œuvre.
+
+      PIR, Post-Implementation Review, revue post-implémentation : bilan d'un changement ou d'un projet après sa mise en œuvre.
+
+      Gel des changements, change freeze : période pendant laquelle aucun changement non urgent n'est autorisé, par exemple pendant une campagne fiscale.
+
+      Plan de retour arrière, backout plan, rollback : procédure prévue pour annuler un changement en cas d'échec.
+
+      Gestion des mises en production, release management : pratique qui rend disponibles des services ou fonctionnalités nouveaux ou modifiés.
+
+      Release, mise en production, version livrée : ensemble cohérent de modifications livrées ensemble.
+
+      Gestion des déploiements, deployment management : pratique qui installe le matériel, les logiciels ou la documentation dans les environnements cibles.
+
+      Gestion des configurations, service configuration management : pratique qui tient à jour les informations sur les éléments de configuration et leurs relations.
+
+      CI, Configuration Item, élément de configuration : tout composant à gérer pour fournir un service, serveur, logiciel, contrat ou document.
+
+      CMDB, Configuration Management Database, base de données de gestion des configurations : base qui stocke les éléments de configuration et leurs relations.
+
+      CMS, Configuration Management System, système de gestion des configurations : ensemble d'outils et de bases qui gèrent les données de configuration.
+
+      Gestion des actifs informatiques, IT asset management, ITAM : pratique qui suit le cycle de vie et la valeur des actifs informatiques.
+
+      SAM, Software Asset Management, gestion des actifs logiciels : gestion des licences et de la conformité des logiciels.
+
+      Gestion de la capacité et des performances, capacity and performance management : pratique qui garantit que les services disposent des ressources suffisantes au bon coût.
+
+      Gestion de la disponibilité, availability management : pratique qui garantit le niveau de disponibilité convenu des services.
+
+      Disponibilité, availability : capacité d'un service à remplir sa fonction quand on en a besoin, souvent exprimée en pourcentage.
+
+      MTBF, Mean Time Between Failures, temps moyen entre pannes : durée moyenne de fonctionnement entre deux défaillances, mesure de la fiabilité.
+
+      MTTR, Mean Time To Restore, temps moyen de rétablissement : durée moyenne nécessaire pour rétablir un service après une panne.
+
+      Gestion de la continuité des services, service continuity management : pratique qui maintient la disponibilité et les performances des services à un niveau suffisant en cas de sinistre.
+
+      Supervision et gestion des événements, monitoring and event management : pratique qui observe les services et enregistre les changements d'état significatifs appelés événements.
+
+      Amélioration continue, continual improvement : pratique qui aligne en permanence les services sur les besoins, par exemple selon le cycle PDCA.
+
+      PDCA, Plan Do Check Act, roue de Deming : cycle d'amélioration continue planifier, réaliser, vérifier, agir.
+
+      CSI, Continual Service Improvement, amélioration continue des services : phase du cycle de vie d'ITIL v3 consacrée à l'amélioration, reprise dans ITIL 4 comme pratique.
+
+      Gestion des connaissances, knowledge management : pratique qui rend l'information et les savoirs disponibles au bon moment.
+
+      Gestion des relations, relationship management, BRM, Business Relationship Management : pratique qui établit et entretient les liens avec les parties prenantes métiers.
+
+      Gestion des fournisseurs, supplier management : pratique qui pilote les fournisseurs et leurs performances.
+
+      Infogérance, outsourcing, externalisation : délégation de tout ou partie de la gestion du SI à un prestataire, dans un contrat pluriannuel à niveau de service défini.
+
+      TMA, tierce maintenance applicative, application maintenance outsourcing : externalisation de la maintenance corrective et évolutive des applications.
+
+      Réversibilité, reversibility, exit plan : capacité contractuelle de reprendre un service externalisé ou de le confier à un autre prestataire.
+
+      MCO, maintien en condition opérationnelle, operational maintenance : ensemble des actions qui assurent le bon fonctionnement d'un système, maintenance préventive, corrective et gestion de l'obsolescence.
+
+      MCS, maintien en condition de sécurité, security maintenance : ensemble des actions qui corrigent les vulnérabilités d'un système avant leur exploitation.
+
+      Maintenance corrective, corrective maintenance : correction des anomalies constatées.
+
+      Maintenance évolutive, evolutive maintenance, enhancement : ajout ou modification de fonctionnalités.
+
+      Maintenance préventive, preventive maintenance : contrôles et interventions réalisés avant qu'une panne ne survienne.
+
+      Obsolescence, end of life, EOL : fin de vie d'un composant, à partir de laquelle l'éditeur ne fournit plus de support ni de correctifs.
+
+      DevOps, development and operations : culture et pratiques qui rapprochent les équipes de développement et d'exploitation pour livrer plus vite et plus sûrement.
+
+      CI/CD, Continuous Integration Continuous Delivery, intégration et livraison continues : chaîne automatisée qui construit, teste et livre le logiciel à chaque modification.
+
+      SRE, Site Reliability Engineering, ingénierie de la fiabilité des sites : approche qui applique les méthodes du logiciel à l'exploitation, avec des objectifs de fiabilité chiffrés.
+
+      SLO, Service Level Objective, objectif de niveau de service : valeur cible d'un indicateur de service, par exemple un taux de disponibilité.
+
+      SLI, Service Level Indicator, indicateur de niveau de service : mesure effective d'un aspect du service, comparée au SLO.
+
+      MOA, maîtrise d'ouvrage, project owner, business owner : commanditaire d'un projet, généralement une direction métier, qui exprime le besoin, finance et réceptionne.
+
+      MOE, maîtrise d'œuvre, prime contractor, delivery team : entité chargée de concevoir et de réaliser la solution technique pour le compte de la MOA.
+
+      AMOA, assistance à maîtrise d'ouvrage, project owner support : prestataire ou équipe qui aide la MOA dans ses tâches techniques de pilotage.
+
+      AMOE, assistance à maîtrise d'œuvre : appui apporté à la maîtrise d'œuvre.
+
+      Sponsor, project sponsor, commanditaire : dirigeant qui porte le projet, en assure le soutien et arbitre au plus haut niveau.
+
+      Chef de projet, project manager : personne responsable de la conduite opérationnelle du projet dans le respect du périmètre, des coûts et des délais.
+
+      Directeur de projet, programme director : responsable d'un grand projet ou d'un programme, avec autorité sur l'ensemble des équipes.
+
+      Programme, programme : ensemble de projets coordonnés pour atteindre un objectif commun.
+
+      PMO, Project Management Office, bureau de gestion de projet : cellule qui appuie le pilotage des projets, standards, reporting et suivi du portefeuille.
+
+      COPIL, comité de pilotage, steering committee : instance stratégique de décision et d'arbitrage d'un projet.
+
+      COPROJ, comité de projet, project committee : instance de pilotage opérationnel du projet.
+
+      COSTRAT, comité stratégique, strategy committee : instance qui fixe les orientations et arbitre le portefeuille au niveau de la direction.
+
+      Comitologie, governance bodies : ensemble des comités d'un projet ou d'une organisation, avec leur rôle, leur composition et leur fréquence.
+
+      RACI, Responsible Accountable Consulted Informed : matrice qui attribue pour chaque activité qui réalise, qui approuve et rend compte, qui est consulté et qui est informé, avec un seul A par activité.
+
+      Responsible, réalisateur, R : dans la matrice RACI, personne qui réalise l'activité.
+
+      Accountable, approbateur, A : dans la matrice RACI, personne qui rend compte du résultat et approuve, unique pour chaque activité.
+
+      RASCI, Responsible Accountable Support Consulted Informed : variante du RACI qui ajoute le rôle de soutien.
+
+      Cahier des charges, specifications, requirements document : document qui décrit les besoins et les exigences à satisfaire.
+
+      Expression de besoins, requirements gathering : recueil et formalisation des attentes des utilisateurs.
+
+      Étude d'opportunité, feasibility study : étude préalable qui vérifie l'intérêt et la faisabilité d'un projet.
+
+      Cadrage, scoping, project initiation : phase qui fixe les objectifs, le périmètre, l'organisation, le budget et le planning d'un projet.
+
+      Jalon, milestone : étape clé d'un projet, souvent associée à une décision.
+
+      Livrable, deliverable : produit ou document à fournir à une étape du projet.
+
+      Lotissement, allotissement, work packages : découpage d'un projet en lots livrés successivement.
+
+      Périmètre, scope : contenu fonctionnel et technique couvert par un projet.
+
+      Dérive de périmètre, scope creep : élargissement progressif et non maîtrisé du périmètre d'un projet.
+
+      Recette, acceptance testing : vérification par la MOA que la solution livrée est conforme au besoin, conclue par un procès-verbal.
+
+      VABF, vérification d'aptitude au bon fonctionnement, functional acceptance : phase de recette qui contrôle que la solution fonctionne conformément au cahier des charges.
+
+      VSR, vérification de service régulier, service acceptance : phase qui vérifie le bon fonctionnement en conditions réelles pendant une durée donnée.
+
+      UAT, User Acceptance Testing, tests d'acceptation utilisateurs : tests réalisés par les utilisateurs finaux avant la mise en service.
+
+      Conduite du changement, organizational change management, change management : accompagnement humain des utilisateurs dans une transformation, à ne pas confondre avec la gestion des changements techniques d'ITIL.
+
+      Cycle en V, V-model : méthode séquentielle où chaque phase de conception correspond à une phase de test.
+
+      Méthode agile, agile methodology : approche itérative et incrémentale qui livre de la valeur par petits incréments en associant les utilisateurs.
+
+      Scrum, Scrum : cadre agile organisé en sprints, avec un product owner, un scrum master et une équipe de développement.
+
+      PO, Product Owner, responsable de produit : dans Scrum, personne qui porte la vision du produit et priorise le carnet de produit.
+
+      Scrum master, facilitateur Scrum : personne qui veille au respect du cadre Scrum et lève les obstacles de l'équipe.
+
+      Backlog, carnet de produit, product backlog : liste priorisée des fonctionnalités à réaliser.
+
+      Sprint, itération : période courte et fixe, de une à quatre semaines, au terme de laquelle l'équipe livre un incrément.
+
+      MVP, Minimum Viable Product, produit minimum viable : première version réduite d'un produit qui permet d'apprendre des usagers.
+
+      SAFe, Scaled Agile Framework : cadre de mise à l'échelle de l'agilité sur plusieurs équipes et programmes.
+
+      PRINCE2, PRojects IN Controlled Environments : méthode de gestion de projet structurée d'origine britannique.
+
+      PMBOK, Project Management Body of Knowledge : référentiel de gestion de projet du Project Management Institute.
+
+      PMI, Project Management Institute : association américaine de gestion de projet qui délivre la certification PMP.
+
+      WBS, Work Breakdown Structure, organigramme des tâches : découpage hiérarchique du travail d'un projet.
+
+      Diagramme de Gantt, Gantt chart : représentation des tâches d'un projet sur une échelle de temps.
+
+      Chemin critique, critical path : suite de tâches qui détermine la durée minimale d'un projet.
+
+      Gestion des risques, risk management : identification, évaluation, traitement et suivi des risques.
+
+      Risque, risk : combinaison d'un événement redouté et d'une menace, appréciée par sa gravité et sa vraisemblance.
+
+      Appétence au risque, risk appetite : niveau de risque qu'une organisation accepte pour atteindre ses objectifs.
+
+      Traitement du risque, risk treatment : choix d'accepter, de réduire, de transférer ou d'éviter un risque.
+
+      Risque résiduel, residual risk : risque qui subsiste après l'application des mesures de traitement.
+
+      Registre des risques, risk register : liste des risques identifiés avec leur évaluation, leur propriétaire et leurs actions.
+
+      GRC, Governance Risk and Compliance, gouvernance risques et conformité : approche intégrée de la gouvernance, de la gestion des risques et de la conformité.
+
+      Contrôle interne, internal control : dispositif qui donne une assurance raisonnable sur la maîtrise des activités, la fiabilité des informations et la conformité.
+
+      Trois lignes de maîtrise, three lines model, three lines of defense : modèle qui distingue les opérationnels, les fonctions de support et de contrôle des risques, et l'audit ou le contrôle indépendant.
+
+      Audit interne, internal audit : activité indépendante qui évalue la maîtrise des risques et le contrôle interne.
+
+      Séparation des tâches, segregation of duties, SoD : principe qui interdit à une même personne de cumuler des fonctions incompatibles, comme développer et mettre en production.
+
+      Piste d'audit, audit trail : trace qui permet de reconstituer une opération de bout en bout.
+
+      Conformité, compliance : respect des lois, règlements, normes et politiques applicables.
+
+      SMSI, système de management de la sécurité de l'information, ISMS, Information Security Management System : dispositif de gestion de la sécurité selon la norme ISO/IEC 27001.
+
+      ISO/IEC 27001, norme du système de management de la sécurité de l'information : norme internationale certifiable qui fixe les exigences d'un SMSI.
+
+      ISO/IEC 27002, code de bonnes pratiques de sécurité : norme qui détaille les mesures de sécurité de l'information.
+
+      ISO/IEC 20000, norme de management des services informatiques : norme internationale certifiable de gestion des services informatiques, proche d'ITIL.
+
+      ISO 22301, norme du management de la continuité d'activité : norme qui fixe les exigences d'un système de management de la continuité.
+
+      DdA, déclaration d'applicabilité, SoA, Statement of Applicability : document du SMSI qui liste les mesures retenues ou exclues et leur justification.
+
+      PSSI, politique de sécurité des systèmes d'information, information security policy : document de référence qui fixe les règles de sécurité d'une organisation.
+
+      PSSIE, politique de sécurité des systèmes d'information de l'État : politique fixée par la circulaire du Premier ministre n° 5725/SG de juillet 2014, applicable aux administrations de l'État.
+
+      RSSI, responsable de la sécurité des systèmes d'information, CISO, Chief Information Security Officer : responsable du pilotage de la sécurité des SI.
+
+      AQSSI, autorité qualifiée pour la sécurité des systèmes d'information : autorité juridiquement responsable de la sécurité des SI de son périmètre dans l'administration.
+
+      HFDS, haut fonctionnaire de défense et de sécurité : responsable, dans chaque ministère, de la défense, de la sécurité et de la politique ministérielle de sécurité numérique.
+
+      FSSI, fonctionnaire de sécurité des systèmes d'information : agent qui anime la sécurité des SI au niveau ministériel.
+
+      CSN, conseiller à la sécurité numérique : correspondant sécurité numérique d'une direction ou d'un établissement public.
+
+      DPO, Data Protection Officer, DPD, délégué à la protection des données : personne chargée de veiller au respect du RGPD dans un organisme.
+
+      AH, autorité d'homologation, accreditation authority : autorité qui prononce l'homologation de sécurité d'un système d'information.
+
+      Homologation de sécurité, security accreditation, authorisation to operate : décision formelle d'accepter les risques résiduels d'un SI et d'autoriser son emploi.
+
+      ATO, Authority To Operate, autorisation d'exploitation : équivalent anglo-saxon de l'homologation de sécurité.
+
+      CIA, Confidentiality Integrity Availability, DIC, disponibilité intégrité confidentialité : critères fondamentaux de la sécurité de l'information, auxquels s'ajoute souvent la traçabilité, DICT.
+
+      Analyse d'impact sur l'activité, BIA, Business Impact Analysis : évaluation des conséquences d'une interruption des activités pour fixer les besoins de continuité.
+
+      PCA, plan de continuité d'activité, BCP, Business Continuity Plan : ensemble des mesures qui permettent de poursuivre l'activité pendant un sinistre.
+
+      PRA, plan de reprise d'activité, DRP, Disaster Recovery Plan : ensemble des mesures qui permettent de reprendre l'activité après un sinistre.
+
+      RTO, Recovery Time Objective, durée maximale d'interruption admissible : délai cible de rétablissement d'un service après un incident.
+
+      RPO, Recovery Point Objective, perte de données maximale admissible : quantité maximale de données, exprimée en temps, que l'on accepte de perdre.
+
+      MTPD, Maximum Tolerable Period of Disruption, durée maximale d'interruption tolérable : durée au-delà de laquelle les effets d'une interruption deviennent irréversibles.
+
+      SOC, Security Operations Center, centre des opérations de sécurité : équipe qui surveille en continu la sécurité du SI et détecte les attaques.
+
+      CSIRT, Computer Security Incident Response Team, CERT : équipe de réponse aux incidents de sécurité informatique.
+
+      SIEM, Security Information and Event Management : outil qui collecte et corrèle les journaux de sécurité pour détecter les incidents.
+
+      IAM, Identity and Access Management, gestion des identités et des accès : processus et outils qui gèrent les identités et leurs droits.
+
+      Moindre privilège, least privilege : principe qui n'accorde à chacun que les droits strictement nécessaires.
+
+      Besoin d'en connaître, need to know : principe qui limite l'accès à une information aux seules personnes qui en ont besoin.
+
+      DSI, direction des systèmes d'information, CIO, Chief Information Officer : direction ou responsable chargé du système d'information d'une organisation.
+
+      DNUM, direction du numérique, CDO, Chief Digital Officer : direction ministérielle du numérique, au rôle plus large qu'une DSI traditionnelle.
+
+      CTO, Chief Technology Officer, directeur technique : responsable des choix technologiques, appelé en terminologie officielle directeur des techniques informatiques.
+
+      CDO, Chief Data Officer, administrateur des données : responsable de la stratégie et de la gouvernance des données.
+
+      Gouvernance des données, data governance : organisation des rôles, règles et processus qui garantissent la qualité, la sécurité et la valorisation des données.
+
+      Propriétaire de données, data owner : responsable métier de la qualité, de l'accès et de l'usage d'un ensemble de données.
+
+      Data steward, intendant des données : personne qui veille au quotidien à la qualité et à la documentation des données.
+
+      MDM, Master Data Management, gestion des données de référence : pratique qui garantit une source unique et fiable des données partagées.
+
+      Business owner, propriétaire d'application : responsable métier de l'adéquation d'une application aux besoins.
+
+      DINUM, direction interministérielle du numérique : direction du Premier ministre qui pilote la transformation numérique de l'État et rend des avis sur les grands projets.
+
+      COSINUM, comité d'orientation stratégique interministériel du numérique : comité qui réunit les responsables du numérique des ministères autour de la DINUM.
+
+      Avis conforme article 3, binding opinion : avis obligatoire de la DINUM sur les projets numériques de l'État de neuf millions d'euros ou plus, prévu par l'article 3 du décret du 25 octobre 2019.
+
+      MAREVA, méthode d'analyse et de remontée de la valeur : méthode interministérielle d'évaluation de la valeur et de la rentabilité des projets numériques.
+
+      Panorama des grands projets numériques de l'État, major digital projects dashboard : suivi semestriel par la DINUM des grands projets numériques.
+
+      RGS, référentiel général de sécurité : référentiel français qui fixe les règles de sécurité des échanges électroniques entre usagers et administrations.
+
+      RGI, référentiel général d'interopérabilité : référentiel qui fixe les normes et standards favorisant l'interopérabilité des SI publics.
+
+      RGAA, référentiel général d'amélioration de l'accessibilité : référentiel des règles d'accessibilité numérique des services publics.
+
+      SecNumCloud, qualification de l'ANSSI pour l'informatique en nuage : référentiel de sécurité qualifiant les offres cloud de confiance.
+
+      Cloud au centre, doctrine cloud de l'État : doctrine qui fait de l'informatique en nuage la solution par défaut des nouveaux projets numériques de l'État.
+
+      SaaS, Software as a Service, logiciel en tant que service : service cloud où le fournisseur gère l'application et l'infrastructure.
+
+      PaaS, Platform as a Service, plateforme en tant que service : service cloud qui fournit une plateforme de développement et d'exécution.
+
+      IaaS, Infrastructure as a Service, infrastructure en tant que service : service cloud qui fournit des ressources de calcul, de stockage et de réseau.
+
+      SI, système d'information, IS, Information System : ensemble des ressources, matériels, logiciels, données, procédures et personnes qui collectent, traitent, stockent et diffusent l'information.
+
+      SIRH, système d'information des ressources humaines, HRIS, Human Resources Information System : système d'information de gestion du personnel.
+
+      PGI, progiciel de gestion intégré, ERP, Enterprise Resource Planning : logiciel qui intègre les grandes fonctions de gestion d'une organisation autour d'une base unique.
+
+      GRC client, gestion de la relation client, CRM, Customer Relationship Management : outil de gestion des relations avec les clients ou les usagers.
+
+      API, Application Programming Interface, interface de programmation : interface qui permet à des applications d'échanger des données ou des services.
+
+COURS DÉTAILLÉ.
+
+I. GOUVERNER ET GÉRER, LES NOTIONS DE BASE.
+
+   A. Gouvernance ou management.
+
+      La gouvernance, en anglais governance, fixe les objectifs, évalue, oriente et surveille, alors que le management, en anglais management, planifie, construit, exécute et suit.
+
+      La norme ISO/IEC 38500 résume la gouvernance par le triptyque évaluer, diriger, surveiller, en anglais evaluate, direct, monitor, que COBIT reprend dans son domaine EDM.
+
+      COBIT 2019 distingue un domaine de gouvernance, EDM, et quatre domaines de management, APO pour aligner, planifier et organiser, BAI pour bâtir, acquérir et implémenter, DSS pour délivrer, servir et soutenir, et MEA pour surveiller, évaluer et apprécier.
+
+   B. Les grands référentiels.
+
+      ITIL, en anglais Information Technology Infrastructure Library, couvre la gestion des services informatiques, l'ITSM.
+
+      COBIT, publié par l'ISACA, couvre la gouvernance et le contrôle de l'informatique.
+
+      ISO/IEC 20000 est la norme certifiable de gestion des services, ISO/IEC 27001 celle de la sécurité de l'information, ISO 22301 celle de la continuité d'activité.
+
+      CMMI mesure la maturité des processus, PRINCE2 et le PMBOK encadrent la gestion de projet, Scrum et SAFe l'agilité.
+
+   C. La stratégie et la valeur.
+
+      Le schéma directeur, en anglais IT master plan ou IT strategic plan, traduit la stratégie en programme pluriannuel.
+
+      L'urbanisation, en anglais enterprise architecture, organise le SI et sa cartographie.
+
+      Le business case justifie un investissement par sa valeur, son ROI, return on investment, et son TCO, total cost of ownership.
+
+II. LA GESTION DES SERVICES SELON ITIL 4.
+
+   A. Le modèle.
+
+      ITIL 4 repose sur le système de valeur des services, service value system, qui contient la chaîne de valeur des services, service value chain, sept principes directeurs, guiding principles, et quatre dimensions.
+
+      Il remplace les processus d'ITIL v3 par trente-quatre pratiques, practices, réparties en pratiques de management général, de gestion des services et de gestion technique.
+
+   B. Les engagements de service.
+
+      Le SLA, service level agreement, engage le fournisseur envers le client, l'OLA, operational level agreement, lie les équipes internes, et l'UC, underpinning contract, lie le fournisseur à ses sous-traitants.
+
+      Dans l'approche SRE, le SLO, service level objective, fixe la cible et le SLI, service level indicator, la mesure.
+
+   C. Incidents, problèmes et demandes.
+
+      L'incident, incident, est une interruption ou une dégradation, la gestion des incidents vise le rétablissement rapide.
+
+      Le problème, problem, est la cause d'incidents, la gestion des problèmes vise à l'éliminer ou à en réduire l'impact, grâce à l'analyse des causes racines, root cause analysis.
+
+      L'erreur connue, known error, est un problème analysé mais non résolu, documenté avec son contournement, workaround, dans la KEDB, known error database.
+
+      La demande de service, service request, est une demande normale, comme un accès, et non une panne.
+
+   D. Les changements et le CAB.
+
+      Le changement, change, est tout ajout, modification ou suppression pouvant affecter un service.
+
+      ITIL 4 parle d'habilitation des changements, change enablement, là où ITIL v3 parlait de gestion des changements, change management.
+
+      La RFC, request for change, est la demande de changement.
+
+      Le changement standard, standard change, est préautorisé, le changement normal, normal change, est évalué et autorisé, le changement urgent, emergency change, suit une procédure accélérée.
+
+      L'autorité de changement, change authority, autorise, et le CAB, change advisory board, comité consultatif des changements, évalue et conseille.
+
+      Dans ITIL v3, le CAB était souvent l'instance d'approbation, d'où l'appellation française courante de comité d'approbation des changements, alors qu'ITIL 4 le rend consultatif et décentralise l'autorisation.
+
+      L'ECAB, emergency change advisory board, traite les changements urgents en formation restreinte.
+
+      Le FSC, forward schedule of changes, planifie les changements, le gel des changements, change freeze, les suspend pendant une période sensible, et la PIR, post-implementation review, en tire le bilan.
+
+   E. Configurations, mises en production et continuité.
+
+      La CMDB, configuration management database, stocke les CI, configuration items, et leurs relations.
+
+      La gestion des mises en production, release management, rend disponibles les nouvelles versions, et la gestion des déploiements, deployment management, les installe.
+
+      La disponibilité se mesure par le MTBF, mean time between failures, et le MTTR, mean time to restore.
+
+III. LES PROJETS.
+
+   A. Les rôles.
+
+      La MOA, maîtrise d'ouvrage, se traduit approximativement par project owner ou business owner, et la MOE, maîtrise d'œuvre, par prime contractor ou delivery team, ces notions françaises n'ayant pas d'équivalent exact en anglais.
+
+      L'AMOA aide la MOA, le sponsor porte le projet, le chef de projet, project manager, le conduit et le PMO, project management office, appuie le pilotage.
+
+   B. Les instances et la matrice RACI.
+
+      Le COPIL, comité de pilotage, se dit steering committee, et le COPROJ, comité de projet, project committee.
+
+      La matrice RACI attribue à chaque activité un ou plusieurs R, responsible, qui réalisent, un seul A, accountable, qui rend compte et approuve, des C, consulted, consultés avant, et des I, informed, informés après.
+
+      En français, on lit souvent Réalise, Approuve, Consulté, Informé, et la variante RASCI ajoute S pour support.
+
+   C. Le cycle de vie.
+
+      Le projet passe par l'étude d'opportunité, feasibility study, le cadrage, scoping, la conception, la réalisation, la recette, acceptance testing, et la mise en service.
+
+      La recette se décompose en VABF, vérification d'aptitude au bon fonctionnement, et VSR, vérification de service régulier, et l'UAT, user acceptance testing, désigne les tests par les utilisateurs.
+
+      En agilité, le product owner priorise le backlog, le scrum master facilite et l'équipe livre par sprints, en commençant souvent par un MVP, minimum viable product.
+
+IV. LES RISQUES, LA SÉCURITÉ ET LA CONTINUITÉ.
+
+   A. Les risques et le contrôle.
+
+      Le risque, risk, se traite en l'acceptant, en le réduisant, en le transférant ou en l'évitant, et le risque résiduel, residual risk, est celui qui reste.
+
+      L'appétence au risque, risk appetite, fixe ce que l'organisation accepte, et le registre des risques, risk register, les recense.
+
+      Le modèle des trois lignes, three lines model, et la séparation des tâches, segregation of duties, structurent le contrôle interne, internal control.
+
+   B. La sécurité.
+
+      Le RSSI se dit CISO, chief information security officer, le DPO data protection officer, et le SMSI ISMS, information security management system.
+
+      La déclaration d'applicabilité, DdA, se dit statement of applicability, SoA.
+
+      Les critères DIC, disponibilité, intégrité, confidentialité, se disent CIA, confidentiality, integrity, availability, dans l'ordre inverse.
+
+      L'homologation de sécurité correspond à l'accreditation ou à l'authority to operate, ATO, des pays anglo-saxons.
+
+   C. La continuité.
+
+      Le PCA se dit BCP, business continuity plan, et le PRA DRP, disaster recovery plan.
+
+      Le RTO, recovery time objective, fixe le délai de rétablissement, le RPO, recovery point objective, la perte de données admissible, et le BIA, business impact analysis, mesure les impacts d'une interruption.
+
+V. LES ACTEURS ET DIRECTIONS.
+
+      Le DSI se dit CIO, chief information officer, le directeur du numérique se rapproche du CDO, chief digital officer, et le directeur technique du CTO, chief technology officer.
+
+      Le CDO peut aussi désigner le chief data officer, responsable des données, d'où un risque de confusion.
+
+      Dans l'administration française, la DINUM rend des avis conformes sur les projets de neuf millions d'euros ou plus, le COSINUM réunit les responsables du numérique et MAREVA évalue la valeur des projets.
+
+POINTS D'ATTENTION.
+
+      Ne pas confondre la gestion des changements d'ITIL, change enablement, avec la conduite du changement, organizational change management, qui accompagne les personnes.
+
+      Ne pas confondre responsible, celui qui réalise, et accountable, celui qui rend compte, qui doit être unique.
+
+      Ne pas confondre incident, qui est une interruption, et problème, qui est la cause.
+
+      Ne pas confondre SLA, avec le client, OLA, entre équipes internes, et UC, avec un sous-traitant.
+
+      Ne pas confondre RTO, délai de rétablissement, et RPO, perte de données admissible.
+
+      Dans ITIL 4, le CAB est consultatif, l'autorisation revient à l'autorité de changement, même si l'usage parle de comité d'approbation.
+
+      Le sigle CDO peut désigner le chief digital officer ou le chief data officer.
+
+      MOA et MOE n'ont pas d'équivalent exact en anglais.
+
+      DIC en français et CIA en anglais désignent les mêmes critères dans un ordre différent.
+
+EXEMPLES CITES.
+
+      Changement standard, réinitialisation d'un mot de passe ou ajout d'un poste selon une procédure préautorisée.
+
+      Changement urgent, application d'un correctif de sécurité critique après la publication d'une faille exploitée.
+
+      Gel des changements pendant une campagne de déclaration des revenus.
+
+      Matrice RACI d'une mise en production, la MOE réalise, le chef de projet approuve, la sécurité est consultée et le centre de services est informé.

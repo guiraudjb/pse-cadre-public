@@ -1,0 +1,152 @@
+IT governance ?,"Gouvernance des SI : évaluer, diriger, surveiller."
+IT management ?,"Management des SI : planifier, construire, exécuter, suivre."
+ISO/IEC 38500 ?,"Norme de gouvernance des TI : evaluate, direct, monitor (EDM)."
+COBIT ?,"Control Objectives for Information and related Technology (ISACA)."
+Domaines COBIT 2019 ?,"EDM (gouvernance) ; APO, BAI, DSS, MEA (management)."
+ISACA ?,"Information Systems Audit and Control Association ; CISA, CISM, CGEIT."
+ITIL ?,"Information Technology Infrastructure Library ; ITIL 4, PeopleCert."
+ITSM ?,IT Service Management : gestion des services informatiques.
+SVS ?,Service Value System : système de valeur des services (ITIL 4).
+Service value chain ?,"Chaîne de valeur : planifier, améliorer, impliquer, concevoir et transition, obtenir et construire, fournir et soutenir."
+Practices ITIL 4 ?,34 pratiques.
+Guiding principles ?,7 principes directeurs.
+Four dimensions ?,"Organisations et personnes, information et technologie, partenaires et fournisseurs, flux de valeur et processus."
+SLA ?,"Service Level Agreement : accord de niveau de service (client)."
+OLA ?,"Operational Level Agreement : accord entre équipes internes."
+UC ?,Underpinning Contract : contrat de sous-traitance.
+XLA ?,Experience Level Agreement : accord de niveau d'expérience.
+SLO / SLI ?,"Objectif / indicateur de niveau de service."
+Service desk ?,Centre de services ; SPOC.
+SPOC ?,Single Point Of Contact : point de contact unique.
+Incident ?,Interruption ou dégradation non planifiée d'un service.
+Problem ?,Problème : cause d'un ou plusieurs incidents.
+Known error ?,Erreur connue : problème analysé non résolu.
+KEDB ?,Known Error Database : base des erreurs connues.
+Workaround ?,Contournement.
+RCA ?,Root Cause Analysis : analyse des causes racines.
+Service request ?,Demande de service.
+Escalation ?,"Escalade fonctionnelle ou hiérarchique."
+Change enablement ?,"Habilitation des changements (ITIL 4), ex-change management."
+Change ?,"Changement : ajout, modification ou suppression affectant un service."
+RFC ?,Request For Change : demande de changement.
+Standard change ?,"Changement standard : préautorisé, faible risque."
+Normal change ?,"Changement normal : évalué puis autorisé."
+Emergency change ?,"Changement urgent : procédure accélérée."
+Change authority ?,Autorité de changement : autorise selon le risque.
+CAB ?,"Change Advisory Board : comité consultatif (d'approbation) des changements."
+CAB dans ITIL 4 ?,"Consultatif : conseille, l'autorité de changement décide."
+ECAB ?,Emergency CAB : CAB restreint pour les urgences.
+FSC ?,Forward Schedule of Changes : calendrier des changements.
+PIR ?,Post-Implementation Review : revue post-implémentation.
+Change freeze ?,Gel des changements.
+Backout plan / rollback ?,Plan de retour arrière.
+Release management ?,Gestion des mises en production.
+Deployment management ?,Gestion des déploiements.
+CI ?,Configuration Item : élément de configuration.
+CMDB ?,Configuration Management Database.
+CMS ?,Configuration Management System.
+ITAM / SAM ?,"Gestion des actifs IT / des actifs logiciels (licences)."
+MTBF ?,Mean Time Between Failures : temps moyen entre pannes.
+MTTR ?,Mean Time To Restore : temps moyen de rétablissement.
+PDCA ?,"Plan, Do, Check, Act : roue de Deming."
+CSI ?,Continual Service Improvement : amélioration continue des services.
+BRM ?,Business Relationship Management : gestion des relations métiers.
+Outsourcing ?,Infogérance / externalisation.
+TMA ?,Tierce maintenance applicative : application maintenance outsourcing.
+Reversibility ?,Réversibilité / exit plan.
+MCO ?,"Maintien en condition opérationnelle (operational maintenance)."
+MCS ?,"Maintien en condition de sécurité (security maintenance)."
+EOL ?,End Of Life : fin de vie / obsolescence.
+DevOps ?,Rapprochement développement et exploitation.
+CI/CD ?,"Continuous Integration / Continuous Delivery : intégration et livraison continues."
+SRE ?,Site Reliability Engineering.
+MOA ?,"Maîtrise d'ouvrage : project owner / business owner."
+MOE ?,"Maîtrise d'œuvre : prime contractor / delivery team."
+AMOA ?,Assistance à maîtrise d'ouvrage.
+Sponsor ?,Commanditaire qui porte le projet au plus haut niveau.
+Project manager ?,Chef de projet.
+PMO ?,Project Management Office : bureau de gestion de projet.
+COPIL ?,Comité de pilotage : steering committee.
+COPROJ ?,Comité de projet : project committee.
+RACI ?,"Responsible, Accountable, Consulted, Informed (Réalise, Approuve, Consulté, Informé)."
+Responsible ?,R : celui qui réalise.
+Accountable ?,"A : celui qui rend compte et approuve, unique."
+RASCI ?,RACI + S (Support).
+Requirements ?,Cahier des charges / expression de besoins.
+Feasibility study ?,Étude d'opportunité.
+Scoping ?,Cadrage.
+Milestone ?,Jalon.
+Deliverable ?,Livrable.
+Scope creep ?,Dérive de périmètre.
+Acceptance testing ?,Recette.
+VABF ?,Vérification d'aptitude au bon fonctionnement.
+VSR ?,Vérification de service régulier.
+UAT ?,User Acceptance Testing : tests utilisateurs.
+Organizational change management ?,Conduite du changement (accompagnement humain).
+V-model ?,Cycle en V.
+Product Owner ?,Responsable de produit : priorise le backlog.
+Scrum master ?,Facilitateur Scrum.
+Backlog ?,Carnet de produit.
+Sprint ?,"Itération de 1 à 4 semaines."
+MVP ?,Minimum Viable Product : produit minimum viable.
+SAFe ?,Scaled Agile Framework.
+PRINCE2 ?,PRojects IN Controlled Environments.
+PMBOK ?,Project Management Body of Knowledge (PMI).
+WBS ?,Work Breakdown Structure : organigramme des tâches.
+Critical path ?,Chemin critique.
+Risk appetite ?,Appétence au risque.
+Residual risk ?,Risque résiduel.
+Risk register ?,Registre des risques.
+Risk treatment ?,"Accepter, réduire, transférer, éviter."
+GRC ?,"Governance, Risk and Compliance."
+Internal control ?,Contrôle interne.
+Three lines model ?,Trois lignes de maîtrise.
+Segregation of duties ?,Séparation des tâches (SoD).
+Audit trail ?,Piste d'audit.
+Compliance ?,Conformité.
+SMSI / ISMS ?,Système de management de la sécurité de l'information.
+ISO/IEC 27001 ?,Norme certifiable du SMSI.
+ISO/IEC 20000 ?,Norme certifiable de gestion des services IT.
+ISO 22301 ?,Norme de management de la continuité d'activité.
+DdA / SoA ?,Déclaration d'applicabilité / Statement of Applicability.
+PSSI ?,Politique de sécurité des SI : information security policy.
+RSSI ?,CISO : Chief Information Security Officer.
+AQSSI ?,Autorité qualifiée pour la sécurité des SI.
+HFDS ?,Haut fonctionnaire de défense et de sécurité.
+DPO / DPD ?,Délégué à la protection des données.
+AH ?,Autorité d'homologation.
+ATO ?,Authority To Operate : équivalent de l'homologation.
+DIC / CIA ?,"Disponibilité, intégrité, confidentialité / Confidentiality, Integrity, Availability."
+BIA ?,Business Impact Analysis : analyse d'impact sur l'activité.
+PCA / BCP ?,Plan de continuité d'activité / Business Continuity Plan.
+PRA / DRP ?,Plan de reprise d'activité / Disaster Recovery Plan.
+RTO ?,Recovery Time Objective : délai de rétablissement.
+RPO ?,Recovery Point Objective : perte de données admissible.
+MTPD ?,Maximum Tolerable Period of Disruption.
+SOC ?,Security Operations Center.
+CSIRT ?,Computer Security Incident Response Team.
+SIEM ?,Security Information and Event Management.
+IAM ?,Identity and Access Management.
+Least privilege ?,Moindre privilège.
+Need to know ?,Besoin d'en connaître.
+DSI ?,CIO : Chief Information Officer.
+CTO ?,Chief Technology Officer : directeur technique.
+CDO ?,Chief Digital Officer ou Chief Data Officer.
+Data owner / steward ?,Propriétaire / intendant des données.
+MDM ?,Master Data Management : données de référence.
+TCO ?,Total Cost of Ownership : coût total de possession.
+ROI ?,Return On Investment : retour sur investissement.
+Capex / Opex ?,Dépenses d'investissement / de fonctionnement.
+Technical debt ?,Dette technique.
+Shadow IT ?,Informatique fantôme.
+KPI / KRI ?,Indicateur clé de performance / de risque.
+OKR ?,Objectives and Key Results.
+Enterprise architecture ?,Urbanisation du SI.
+IT master plan ?,Schéma directeur informatique.
+Roadmap ?,Feuille de route.
+DINUM ?,Direction interministérielle du numérique.
+COSINUM ?,Comité d'orientation stratégique interministériel du numérique.
+Avis conforme article 3 ?,"Avis DINUM sur les projets de l'État de 9 M€ ou plus."
+MAREVA ?,Méthode d'analyse et de remontée de la valeur.
+SaaS / PaaS / IaaS ?,"Logiciel / plateforme / infrastructure en tant que service."
+ERP / PGI ?,"Enterprise Resource Planning / progiciel de gestion intégré."
