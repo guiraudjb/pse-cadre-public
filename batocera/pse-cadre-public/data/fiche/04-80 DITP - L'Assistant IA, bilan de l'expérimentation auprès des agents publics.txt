@@ -1,0 +1,177 @@
+EXPÉRIMENTATION DE L'ASSISTANT IA DANS LA FONCTION PUBLIQUE, ÉVALUATION PILOTE DES USAGES, PERCEPTIONS ET IMPACTS (DITP, PÔLE INNOVATION ET SCIENCES COMPORTEMENTALES, JUIN 2026).
+
+LEXIQUE COMPLET.
+
+      L'Assistant IA est l'outil d'IA générative de l'État mis à disposition des agents publics par la DINUM.
+
+      La DITP est la Direction interministérielle de la transformation publique, dont le pôle sciences comportementales a conduit l'évaluation.
+
+      La DINUM est la Direction interministérielle du numérique, qui a déployé l'expérimentation.
+
+      Les MEF sont les ministères économiques et financiers, partenaires de l'évaluation avec le ministère de la Justice.
+
+      Une IA non souveraine est une solution d'IA générative étrangère, comme ChatGPT ou Perplexity.
+
+      Un focus group est un entretien de groupe qui, ici, combine une séquence expérimentale et une séquence d'échanges.
+
+      Un entretien semi-dirigé est un entretien qualitatif mené à partir d'une grille de thèmes, qui laisse la parole libre à la personne interrogée.
+
+      Une dette, au sens de l'évaluation, est un coût différé, cumulé ou invisible de l'adoption de l'IA, qui apparaît après le gain initial de productivité.
+
+COURS DÉTAILLÉ.
+
+I. LE CADRE DE L'ÉVALUATION.
+
+   A. L'expérimentation.
+
+      La DINUM a déployé une expérimentation de l'Assistant IA sur 10 000 licences entre décembre 2025 et juin 2026, afin d'aboutir à un outil robuste et adapté à la fonction publique.
+
+      Le pôle sciences comportementales de la DITP a mesuré la perception, l'usage et l'impact de l'outil.
+
+   B. Les partenaires.
+
+      La DITP a travaillé avec la DINUM, avec deux partenaires institutionnels, les ministères économiques et financiers et le ministère de la Justice, et avec un consortium de chercheurs en sciences sociales.
+
+      Ce consortium réunit LaborIA de l'Inria, le Laboratoire Fabrique de Pensée Critique de l'INSA Rennes et le Laboratoire interdisciplinaire sciences innovations sociétés du CNRS.
+
+   C. Les méthodes.
+
+      Quatre questionnaires ont été envoyés aux MEF, en décembre 2025 avec 1 359 réponses, en mars 2026 avec 874 réponses, en mai 2026 aux non-testeurs avec 221 réponses, et en juin 2026 avec 465 réponses.
+
+      Le ministère de la Justice a reçu deux questionnaires, dont un questionnaire de retours de janvier 2026 avec 700 réponses.
+
+      L'étude comprend une vingtaine d'entretiens qualitatifs semi-dirigés et trois focus groups en présentiel avec 33 participants.
+
+   D. Le profil des testeurs.
+
+      Les agents de catégorie A et A plus représentent 86 pour cent de l'échantillon, et 35 pour cent des répondants exercent une fonction d'encadrement, ce qui ne reflète pas l'ensemble des agents publics.
+
+      Seuls 20 pour cent des testeurs étaient débutants, la majorité ayant déjà un usage personnel et professionnel de l'IA.
+
+      60,5 pour cent des testeurs estiment être montés en compétence pendant l'évaluation.
+
+      80 pour cent ont testé au moins deux cas d'usage, mais 43 pour cent des débutants se déclarent mono-usage, ce qui limite leur capacité à comparer et contrôler les résultats.
+
+II. LA PERCEPTION DE L'OUTIL.
+
+   A. Une satisfaction majoritaire.
+
+      65 pour cent des testeurs des MEF et de la Justice recommanderaient l'Assistant IA à un collègue.
+
+      75 pour cent estiment que l'Assistant IA est utile pour leur métier.
+
+   B. Un recul des IA non souveraines.
+
+      56 pour cent utilisent moins souvent des solutions non souveraines comme ChatGPT ou Perplexity dans leur travail grâce à l'Assistant IA.
+
+      Pourtant, 57 pour cent considèrent que d'autres IA génératives répondent mieux à leurs besoins, les réponses de l'Assistant IA étant jugées parfois courtes et peu détaillées.
+
+III. L'UTILISATION DE L'OUTIL.
+
+   A. Des usages orientés vers la production.
+
+      Les usages sont classés selon l'intention de l'utilisateur, d'après le modèle faire, demander, exprimer d'une étude Harvard-Duke et OpenAI sur ChatGPT.
+
+      70,9 pour cent des usages consistent à produire, c'est-à-dire rédiger, reformuler, synthétiser, corriger, traduire, faire un tableau, du code, un plan ou un support.
+
+      28,4 pour cent consistent à demander une information, une explication ou un conseil.
+
+      0,6 pour cent consistent à exprimer une opinion ou un ressenti.
+
+   B. Une bonne appropriation.
+
+      Depuis le début de l'expérimentation, 50 pour cent des répondants des MEF utilisent l'Assistant IA au moins une fois par semaine et 41 pour cent au moins une fois par mois.
+
+   C. Un gain de temps réel mais variable.
+
+      66 pour cent des répondants déclarent un gain de temps.
+
+      Parmi eux, 51 pour cent estiment gagner moins d'une heure par semaine, 45 pour cent plusieurs heures par semaine et 4 pour cent plusieurs heures par jour.
+
+      Certains managers estiment ne pas gagner de temps parce qu'ils doivent tout valider.
+
+IV. LES RÉSULTATS DES FOCUS GROUPS.
+
+   A. Le protocole.
+
+      Les participants ont rédigé une réponse à une chaîne de courriels et une note synthétique à partir d'un document de six pages, une tâche sans IA puis l'autre avec IA, dans un ordre croisé entre deux groupes.
+
+   B. Le temps.
+
+      La réponse au courriel passe de 21 à 19 minutes avec l'IA, soit un gain moyen de 2,5 minutes.
+
+      La synthèse d'article passe de 33 à 28 minutes, soit un gain moyen de 5,4 minutes.
+
+      L'IA réduit donc davantage le temps des tâches de synthèse que celui des tâches de rédaction.
+
+   C. La qualité.
+
+      Deux correcteurs indépendants ont noté les productions sur 20.
+
+      Les courriels passent de 14,14 à 15,09, soit plus 0,95 point, et les synthèses de 14,15 à 15,43, soit plus 1,28 point.
+
+   D. La perception par tâche.
+
+      89 pour cent des participants à la synthèse pensent que l'IA leur aurait fait gagner du temps, contre 73 pour cent pour le courriel.
+
+      61 pour cent pensent que la synthèse aurait été de meilleure qualité avec l'IA, contre 40 pour cent pour le courriel.
+
+      78 pour cent jugent la synthèse plus agréable avec l'IA, contre 33 pour cent pour le courriel.
+
+      Ces résultats viennent d'environ 30 volontaires en situation expérimentale et ne peuvent pas être généralisés à tous les agents.
+
+V. LES FREINS ET LES RISQUES.
+
+   A. Les freins à l'usage.
+
+      Les principaux freins sont le manque de confiance dans la fiabilité des réponses, la méconnaissance des fonctionnalités adaptées aux métiers, le besoin de formation et le manque d'habitude.
+
+      Viennent ensuite les craintes sur la protection des données sensibles, l'impossibilité d'y saisir des données sensibles, les difficultés techniques, la difficulté à formuler des requêtes et l'impact environnemental.
+
+      155 répondants sur 1 139 ne déclarent aucun frein particulier.
+
+   B. Les risques cités.
+
+      Les cinq risques les plus cités par les agents des MEF en juin 2026 sont les erreurs potentielles pour 76 pour cent, la fuite de données sensibles pour 60 pour cent, l'impact écologique pour 53 pour cent, la perte de connaissances ou de compétences pour 46 pour cent et la réduction du nombre de postes pour 25 pour cent.
+
+   C. L'approche par les dettes.
+
+      Les chercheurs ont identifié 13 dettes regroupées en 5 grandes familles, technologie, travail réel, travail bien fait, cadre et compétences.
+
+      La dette de supervision est le travail supplémentaire de contrôle, de vérification, de correction et de validation des productions de l'IA.
+
+      La dette d'intensification transforme les gains de temps en hausse des attentes, densification des tâches et extension du travail.
+
+      La dette de gouvernance affaiblit la capacité à définir, discuter, contrôler et garantir le bon travail.
+
+      La dette cognitive affaiblit progressivement la compréhension, le jugement et la maîtrise quand le raisonnement est délégué à l'IA.
+
+      Les autres dettes citées sont techniques, de dépendance stratégique, d'organisation, éthique, de qualité, sociale, d'identité, d'apprentissage et de connaissance.
+
+POINTS D'ATTENTION.
+
+      L'expérimentation porte sur 10 000 licences entre décembre 2025 et juin 2026, déployées par la DINUM et évaluées par la DITP.
+
+      Retenir 75 pour cent d'agents jugeant l'outil utile, 65 pour cent qui le recommanderaient et 56 pour cent qui utilisent moins les IA non souveraines.
+
+      Ne pas confondre 56 pour cent qui utilisent moins les IA non souveraines et 57 pour cent qui jugent d'autres IA plus performantes.
+
+      Près de 71 pour cent des usages relèvent de la production.
+
+      L'échantillon est biaisé, avec 86 pour cent de catégories A et A plus et 35 pour cent de managers.
+
+      Les gains mesurés en focus group sont modestes, 2,5 minutes pour un courriel et 5,4 minutes pour une synthèse.
+
+      Le premier risque cité est l'erreur potentielle, à 76 pour cent.
+
+      L'approche par les dettes rappelle que les gains initiaux peuvent créer des coûts différés.
+
+EXEMPLES CITES.
+
+      Rédaction d'une note synthétique à partir d'un document de six pages.
+
+      Réponse à une chaîne de courriels de sollicitation.
+
+      ChatGPT et Perplexity, exemples d'IA non souveraines.
+
+      Manager estimant ne pas gagner de temps car il doit tout valider.

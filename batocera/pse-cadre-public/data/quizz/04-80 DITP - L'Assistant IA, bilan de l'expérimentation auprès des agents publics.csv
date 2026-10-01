@@ -1,0 +1,38 @@
+Combien de licences de l'Assistant IA ont été déployées pour l'expérimentation ?;1 000;10 000;500;100 000;3;Entre décembre 2025 et juin 2026.
+Quelle direction a déployé l'expérimentation de l'Assistant IA ?;La DINUM;L'ANSSI;La DITP;La DGAFP;2;La DITP a conduit l'évaluation.
+Quel service a conduit l'évaluation de l'Assistant IA ?;Le pôle sciences comportementales de la DITP;La CNIL;La Cour des comptes;L'Inspection générale des finances;2;Avec la DINUM et des chercheurs.
+Quelle est la période de l'expérimentation ?;Toute l'année 2024;De décembre 2025 à juin 2026;De janvier à mars 2025;De septembre 2026 à décembre 2026;3;L'évaluation est publiée en juin 2026.
+Quels ministères sont partenaires de l'évaluation ?;Les ministères économiques et financiers et la Justice;L'Intérieur et les Armées;L'Agriculture et la Culture;L'Éducation nationale et la Santé;2;Deux partenaires institutionnels embarqués.
+Quel laboratoire de l'Inria participe au consortium ?;LISIS;IRISA;LFPC;LaborIA;5;Avec le LFPC de l'INSA Rennes et le LISIS du CNRS.
+Combien de focus groups ont été organisés ?;Vingt;Trois;Dix;Un;3;Avec 33 participants.
+Quelle part de l'échantillon relève des catégories A et A plus ?;86 %;35 %;50 %;20 %;2;Ce n'est pas représentatif de tous les agents.
+Quelle part des répondants exerce une fonction d'encadrement ?;35 %;65 %;20 %;86 %;2;Sur-représentation des managers.
+Quelle part des testeurs était débutante ?;60,5 %;43 %;80 %;20 %;5;La majorité utilisait déjà l'IA.
+Quelle part des testeurs estime être montée en compétence ?;20 %;60,5 %;35 %;90 %;3;Pendant la période d'évaluation.
+Quelle part des débutants se déclare mono-usage ?;43 %;80 %;20 %;65 %;2;Cela limite leur capacité à contrôler les résultats.
+Quelle part des testeurs recommanderait l'Assistant IA à un collègue ?;75 %;57 %;56 %;65 %;5;Testeurs des MEF et de la Justice.
+Quelle part des testeurs juge l'Assistant IA utile pour son métier ?;75 %;65 %;56 %;89 %;2;Chiffre phare de l'évaluation.
+Quelle part des testeurs utilise moins les IA non souveraines grâce à l'Assistant IA ?;35 %;57 %;56 %;75 %;4;Par exemple ChatGPT ou Perplexity.
+Quelle part juge que d'autres IA génératives répondent mieux à ses besoins ?;56 %;20 %;57 %;76 %;4;Les réponses de l'Assistant IA sont jugées parfois courtes.
+Quelle catégorie d'usage est majoritaire ?;Demander;Produire;Exprimer;Programmer;3;70,9 % des usages.
+Quelle part des usages consiste à demander une information ou un conseil ?;0,6 %;28,4 %;70,9 %;50 %;3;Catégorie Demander.
+Sur quel modèle repose la classification des usages ?;Faire, demander, exprimer, d'une étude Harvard-Duke et OpenAI;La matrice d'Eisenhower;Le modèle OSI;La méthode EBIOS;2;Classement par intention d'interaction.
+Quelle part des répondants des MEF utilise l'Assistant IA au moins une fois par semaine ?;50 %;41 %;66 %;9 %;2;Et 41 % au moins une fois par mois.
+Quelle part des répondants déclare un gain de temps ?;19 %;45 %;100 %;66 %;5;Le gain est variable.
+Parmi ceux qui gagnent du temps, combien gagnent moins d'une heure par semaine ?;51 %;4 %;45 %;66 %;2;45 % gagnent plusieurs heures par semaine.
+Quel gain moyen de temps l'IA apporte-t-elle pour la réponse à un courriel en focus group ?;5,4 minutes;20 minutes;1 heure;2,5 minutes;5;De 21 à 19 minutes.
+Quel gain moyen de temps l'IA apporte-t-elle pour la synthèse d'article ?;15 minutes;2,5 minutes;33 minutes;5,4 minutes;5;De 33 à 28 minutes.
+De combien la note des synthèses augmente-t-elle avec l'IA ?;1,28 point sur 20;5 points sur 20;0,95 point sur 20;Aucune hausse;2;De 14,15 à 15,43.
+De combien la note des courriels augmente-t-elle avec l'IA ?;0,95 point sur 20;Elle baisse;1,28 point sur 20;3 points sur 20;2;De 14,14 à 15,09.
+Pour quel type de tâche l'IA apporte-t-elle le plus de gain ?;Les tâches manuelles;Les tâches de synthèse;Les tâches de rédaction de courriels;Aucune;3;En temps comme en qualité.
+Quelle part des participants à la synthèse estime que l'IA leur aurait fait gagner du temps ?;33 %;89 %;61 %;73 %;3;Contre 73 % pour la tâche courriel.
+Les résultats des focus groups peuvent-ils être généralisés à tous les agents ?;Non, l'échantillon est restreint à environ 30 volontaires;Oui, pour toute l'Europe;Oui, pour les catégories C;Oui, sans réserve;2;Ils doivent être considérés avec recul.
+Quel est le premier frein à l'usage de l'Assistant IA ?;Le manque de confiance dans la fiabilité des réponses;La lenteur du réseau;L'impact environnemental;Le prix;2;Suivi de la méconnaissance des fonctionnalités et du besoin de formation.
+Combien de répondants ne déclarent aucun frein particulier ?;10 sur 1 139;155 sur 1 139;1 000 sur 1 139;Aucun;3;Minorité de répondants.
+Quel est le risque le plus cité par les agents des MEF ?;La perte de sens;La réduction du nombre de postes;La dégradation de l'image;Les erreurs potentielles;5;Cité par 76 % des agents.
+Quelle part des agents cite la fuite de données sensibles comme risque ?;25 %;76 %;60 %;53 %;4;Deuxième risque le plus cité.
+Quelle part des agents cite la réduction du nombre de postes ?;25 %;46 %;60 %;76 %;2;Cinquième risque le plus cité.
+Combien de dettes les chercheurs ont-ils identifiées ?;13, en 5 familles;3;20;5, en 13 familles;2;Coûts différés de l'adoption de l'IA.
+Qu'est-ce que la dette de supervision ?;La perte de données;La dépendance à un fournisseur;Le coût des licences;Le travail supplémentaire de contrôle et de validation des productions de l'IA;5;Une dette du travail réel.
+Qu'est-ce que la dette d'intensification ?;La transformation des gains de temps en hausse des attentes et densification des tâches;La baisse de qualité;L'augmentation des licences;La hausse de la consommation électrique;2;Les gains sont absorbés par plus de travail.
+Qu'est-ce que la dette cognitive ?;Une panne du modèle;L'affaiblissement de la compréhension et du jugement quand le raisonnement est délégué à l'IA;Une dette financière;Un défaut de mémoire de l'ordinateur;3;Elle touche les compétences.
