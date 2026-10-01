@@ -1,0 +1,53 @@
+TITRE : Audit SI Riddim
+
+[Intro]
+Écoute le rythme de la gouvernance et du contrôle,
+Pour que ton système d'information soit en plein envol.
+
+[Couplet 1]
+Le CHAI harmonise la méthode de l'État,
+Le schéma directeur guide le plan stratégique de deux à six ans de combat.
+La gouvernance régule et fixe les objectifs de l'organisation,
+Pendant que la fonction informatique gère la production avec passion.
+La MOA commande le projet et la MOE assure la technique,
+L'AMOA l'assiste pour que la gestion devienne automatique.
+Le business owner est responsable de la donnée et de l'application,
+Pour que la base de données maîtresse soit la seule référence en action.
+
+[Refrain]
+Alignement stratégique, sécurité et maîtrise des risques,
+Un SI performant, c'est un travail méthodique et intrinsèque.
+Gouvernance, production et projets dans l'harmonie,
+C'est le guide de l'audit pour une informatique réussie.
+
+[Couplet 2]
+La PSSI est le document de référence pour la sécurité,
+Validée par la direction pour toute l'organisation et sa pérennité.
+Les développeurs n'accèdent pas à la production, c'est la règle,
+L'exploitation ne touche pas au développement, pour que tout soit d'un seul niveau.
+Le PCA poursuit l'activité pendant que le sinistre fait rage,
+Le PRA reprend l'activité pour tourner enfin la page.
+L'infogérance est un contrat forfaitaire avec réversibilité,
+Mais le forfait horaire est déconseillé par la réglementation de l'État et sa qualité.
+
+[Refrain]
+Alignement stratégique, sécurité et maîtrise des risques,
+Un SI performant, c'est un travail méthodique et intrinsèque.
+Gouvernance, production et projets dans l'harmonie,
+C'est le guide de l'audit pour une informatique réussie.
+
+[Pont]
+ITIL pour la production, COBIT pour la gouvernance,
+CMMI pour la maturité, ISO deux mille sept cent un pour la défense.
+Le CAB évalue les changements pour maîtriser les risques,
+Et la matrice RACI répartit les rôles de façon précise et fixe.
+
+[Refrain final]
+Alignement stratégique, sécurité et maîtrise des risques,
+Un SI performant, c'est un travail méthodique et intrinsèque.
+Gouvernance, production et projets dans l'harmonie,
+C'est le guide de l'audit pour une informatique réussie.
+
+[Outro]
+Respecte les normes, l'urbanisation et le cadre de l'État,
+Pour un système d'information qui ne subit jamais de combat.

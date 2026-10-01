@@ -1,0 +1,53 @@
+TITRE : Gouvernance Reggae Riddim
+
+[Intro]
+Écoute le rythme de la gouvernance et du management
+Pour que ton système d'information soit vraiment performant
+
+[Couplet 1]
+La gouvernance évalue, dirige et surveille avec soin
+Le management planifie et exécute selon le besoin
+ISO 38500 fixe les principes pour les dirigeants
+Avec le triptyque EDM pour bien orienter les gens
+COBIT 2019 est le référentiel de l'ISACA
+Pour aligner la stratégie et ne jamais faire d'éclats
+Le schéma directeur est un plan de deux à six ans
+Pour que l'urbanisation du SI soit toujours cohérente
+
+[Refrain]
+Gouverner et gérer pour créer de la valeur
+Avec ITIL et COBIT pour un monde meilleur
+De la stratégie aux risques, garde le bon tempo
+La maîtrise de l'information est notre plus beau cadeau
+
+[Couplet 2]
+Dans ITIL 4 la valeur est une co-création
+Avec trente-quatre pratiques pour toute l'organisation
+Le SLA lie le fournisseur au client avec rigueur
+L'OLA lie les équipes et l'UC le sous-traitant en douceur
+Un incident est une interruption qui dégrade le service
+Un problème est la cause qu'on traite avec un exercice
+La gestion des changements utilise le CAB pour conseiller
+Mais l'autorité de changement doit toujours décider
+
+[Refrain]
+Gouverner et gérer pour créer de la valeur
+Avec ITIL et COBIT pour un monde meilleur
+De la stratégie aux risques, garde le bon tempo
+La maîtrise de l'information est notre plus beau cadeau
+
+[Pont]
+Le RTO est le délai de rétablissement attendu
+Le RPO est la perte de données qu'on n'a pas perdue
+La matrice RACI donne un seul Accountable par tâche
+Pour que la responsabilité ne soit jamais une tâche
+
+[Refrain final]
+Gouverner et gérer pour créer de la valeur
+Avec ITIL et COBIT pour un monde meilleur
+De la stratégie aux risques, garde le bon tempo
+La maîtrise de l'information est notre plus beau cadeau
+
+[Outro]
+Respecte la conformité et la sécurité du système
+C'est la règle d'or pour un succès sans problème
