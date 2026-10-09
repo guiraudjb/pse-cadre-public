@@ -38,7 +38,7 @@ La maîtrise de l'information est notre plus beau cadeau
 
 [Pont]
 Le RTO est le délai de rétablissement attendu
-Le RPO est la perte de données qu'on n'a pas perdue
+Le RPO, c'est la perte de données maximale admise
 La matrice RACI donne un seul Accountable par tâche
 Pour que la responsabilité ne soit jamais une tâche
 

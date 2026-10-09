@@ -38,7 +38,7 @@ C'est le guide de l'audit pour une informatique réussie.
 
 [Pont]
 ITIL pour la production, COBIT pour la gouvernance,
-CMMI pour la maturité, ISO deux mille sept cent un pour la défense.
+CMMI pour la maturité, ISO vingt-sept mille un pour la défense.
 Le CAB évalue les changements pour maîtriser les risques,
 Et la matrice RACI répartit les rôles de façon précise et fixe.
 

@@ -26,7 +26,7 @@ Rédiger ou synthétiser, c'est leur mission.
 Les focus groups montrent des gains de temps bien modestes,
 Deux virgule cinq minutes pour les courriels, c'est la poste.
 Cinq virgule quatre minutes pour une synthèse de document,
-Mais la qualité augmente de plus d'un point, vraiment.
+Mais la qualité augmente, d'environ un point, vraiment.
 L'échantillon est biaisé, quatre-vingt-six pour cent catégorie A,
 Et trente-cinq pour cent de managers dans la mêlée.
 
@@ -40,7 +40,7 @@ L'agent public trace son propre chemin.
 Soixante-dix-six pour cent déclarent un gain de temps,
 Mais la dette de supervision pèse sur les moments.
 L'erreur potentielle est le risque numéro un,
-Soixante-seize pour cent craignent ce faux semblant.
+Soixante-seize pour cent craignent l'erreur, ce faux semblant.
 
 [Refrain final]
 Assistant IA, gain de temps mais attention,

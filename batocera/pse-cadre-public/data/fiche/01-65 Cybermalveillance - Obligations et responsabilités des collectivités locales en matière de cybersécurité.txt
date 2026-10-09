@@ -8,7 +8,7 @@ LEXIQUE COMPLET.
 
       Le DPO désigne le délégué à la protection des données, une personne qui doit être désignée par toute collectivité locale ou établissement public pour exercer en toute indépendance.
 
-      Le RGS désigne le Référentiel Général de Sécurité, un ensemble de règles de sécurité édicté par le décret numéro deux mille dix-neuf cent douze du deux février deux mille dix qui s'applique aux téléservices.
+      Le RGS désigne le Référentiel Général de Sécurité, un ensemble de règles de sécurité édicté par le décret du deux février deux mille dix qui s'applique aux téléservices.
 
       L'ANSSI désigne l'Agence Nationale de Sécurité des Systèmes d'Information, l'organisme qui qualifie les produits de sécurité et les prestataires de confiance.
 
@@ -31,6 +31,7 @@ COURS DÉTAILLÉ.
 I. OBLIGATIONS LIÉES À LA PROTECTION DES DONNÉES PERSONNELLES.
 
    A. Cadre juridique et rôle du délégué à la protection des données.
+      Ce guide date de deux mille vingt-deux. Depuis, la directive NIS deux et sa transposition française ont fait entrer de nombreuses collectivités dans le champ des obligations de cybersécurité, et le règlement européen eIDAS deux a été adopté en deux mille vingt-quatre.
 
       Le cadre juridique repose sur la loi numéro soixante-dix-huit dix-sept du six janvier mille neuf cent soixante-dix-huit dite loi Informatique et Libertés et sur le règlement deux mille seize six cent soixante-dix-neuf du Parlement européen et du Conseil du vingt-sept avril deux mille seize nommé RGPD.
 
@@ -68,7 +69,7 @@ II. OBLIGATIONS RELATIVES AUX TÉLÉSERVICES ET À L'HÉBERGEMENT DE DONNÉES DE
 
       Les téléservices sont des guichets d'accueil numérique permettant aux usagers d'effectuer des démarches par voie électronique comme une demande de permis de construire ou une inscription à la cantine scolaire.
 
-      L'ensemble des téléservices offerts par les collectivités locales doit satisfaire aux exigences du Référentiel Général de Sécurité, aussi appelé RGS, édicté par le décret numéro deux mille dix-cent-douze du deux février deux mille dix.
+      L'ensemble des téléservices offerts par les collectivités locales doit satisfaire aux exigences du Référentiel Général de Sécurité, aussi appelé RGS, édicté par le décret du deux février deux mille dix.
 
       Le respect du RGS impose une démarche comprenant l'analyse des risques, la définition des objectifs de sécurité, la mise en œuvre de mesures de protection, l'homologation du système d'information et son suivi opérationnel.
 
@@ -162,7 +163,7 @@ V. RESPONSABILITÉ PÉNALE DES ÉLUS ET DES AGENTS.
 
       Le Code pénal réprime les atteintes les plus graves aux règles du RGPD.
 
-      L'article deux cent vingt-six-seize du Code pénal punit de cinq ans d'emprisonnement et de trois cent mille euros d'amende le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans mettre en œuvre les mesures destinées à garantir la sécurité des données.
+      L'article deux cent vingt-six-dix-sept du Code pénal punit de cinq ans d'emprisonnement et de trois cent mille euros d'amende le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans mettre en œuvre les mesures destinées à garantir la sécurité des données.
 
       Cette même disposition prévoit également des sanctions pour le fait de ne pas tenir de registre des traitements.
 
@@ -198,6 +199,6 @@ EXEMPLES CITÉS.
 
       La CNIL peut infliger des sanctions pécuniaires allant jusqu'à vingt millions d'euros ou quatre pour cent du chiffre d'affaires pour des manquements graves.
 
-      L'article deux cent vingt-six-seize du Code pénal prévoit une peine de cinq ans d'emprisonnement et trois cent mille euros d'amende pour un traitement de données sans mesures de sécurité.
+      L'article deux cent vingt-six-dix-sept du Code pénal prévoit une peine de cinq ans d'emprisonnement et trois cent mille euros d'amende pour un traitement de données sans mesures de sécurité.
 
       En février deux mille vingt-et-un, une cyberattaque en Floride a illustré le risque de piratage des systèmes de gestion d'un réseau d'épuration.
