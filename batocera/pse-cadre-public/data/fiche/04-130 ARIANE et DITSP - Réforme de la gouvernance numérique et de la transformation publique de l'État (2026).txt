@@ -1,0 +1,169 @@
+ARIANE ET DITSP, LA RÉFORME DE LA GOUVERNANCE NUMÉRIQUE ET DE LA TRANSFORMATION PUBLIQUE DE L'ÉTAT, ANNONCES DU 30 AVRIL 2026 ET PROJETS DE DÉCRET D'OCTOBRE 2026.
+
+LEXIQUE COMPLET.
+
+      La DINUM, direction interministérielle du numérique, est la direction des systèmes d'information de l'État, placée auprès du Premier ministre, appelée à devenir ARIANE.
+
+      ARIANE est l'Autorité nationale pour l'intelligence artificielle et le numérique de l'État, nom futur de la DINUM, parfois présentée comme Autorité référente pour l'intelligence artificielle et le numérique de l'État.
+
+      La DITP, direction interministérielle de la transformation publique, coordonne la transformation publique et l'amélioration des services rendus aux usagers.
+
+      La DITSP, direction interministérielle de la transformation et des services publics, est le nom futur de la DITP, également annoncée sous le nom de direction des services publics.
+
+      L'ANTS, Agence nationale des titres sécurisés, a subi en avril 2026 la cyberattaque qui a déclenché la réforme.
+
+      Un préfigurateur est un haut fonctionnaire chargé de préparer la création ou la transformation d'une structure avant d'en prendre la direction.
+
+      Un comité social d'administration, CSA, est l'instance de dialogue social consultée sur les projets de réorganisation.
+
+      Un directeur du numérique ministériel est le directeur d'administration centrale qui dirige le numérique d'un ministère, nommé en Conseil des ministres.
+
+      Un CTO, Chief Technology Officer, est le responsable des choix technologiques d'une organisation.
+
+      REACTIV est l'opération interministérielle de réponse aux violations de données confiée à l'ANSSI le 1er septembre 2026.
+
+COURS DÉTAILLÉ.
+
+I. LE DÉCLENCHEUR, LA CRISE CYBER DE L'ÉTAT.
+
+   A. Une série de cyberattaques contre les administrations.
+
+      Fin 2025, le ministère de l'Intérieur a subi des intrusions dans son système d'information, puis une usurpation d'identité numérique à l'Éducation nationale a conduit au vol de données personnelles d'élèves.
+
+      En avril 2026, l'Agence nationale des titres sécurisés a subi une intrusion touchant environ 11,7 millions de comptes de particuliers, avec des identifiants, noms, adresses électroniques et dates de naissance.
+
+      Selon le gouvernement, la France enregistrait depuis le début de 2026 en moyenne trois vols de données par jour.
+
+   B. Une gouvernance jugée défaillante.
+
+      Les observateurs dénoncent un délaissement de la politique numérique de l'État et un numérique public à la traîne en matière de standards de développement et de coordination.
+
+      Dès fin 2021, le Premier ministre Jean Castex avait demandé aux ministères des plans d'action cyber, avec un conseiller cybersécurité en cabinet, des tests, des audits et des comités de pilotage semestriels.
+
+      La feuille de route des efforts prioritaires de sécurité numérique de l'État 2026-2027, publiée début avril 2026 par l'ANSSI, reprend ces mesures en les rendant obligatoires.
+
+      Les ministères doivent formuler leur propre feuille de route cybersécurité d'ici la fin de l'année 2026.
+
+II. LES ANNONCES DU PREMIER MINISTRE DU 30 AVRIL 2026.
+
+   A. Une autorité numérique de l'État.
+
+      Le 30 avril 2026, au siège de l'ANTS, le Premier ministre Sébastien Lecornu a annoncé la fusion de la DINUM et de la DITP en une autorité numérique de l'État placée auprès de lui.
+
+      Cette autorité devait assurer la standardisation et la sécurisation des infrastructures numériques des ministères et opérer un socle numérique commun et homogène.
+
+      La fusion aurait été un retour en arrière, les deux directions ayant appartenu à une même entité jusqu'en 2012.
+
+   B. Des moyens financiers.
+
+      Deux cents millions d'euros issus de France 2030 financent les applications, les outils de détection, la cryptographie post-quantique et l'intelligence artificielle.
+
+      Les amendes prononcées par la CNIL doivent être affectées à un fonds de modernisation des infrastructures numériques de l'État, par une réforme proposée en loi de finances.
+
+      Cinq pour cent des budgets numériques de chaque ministère devront être consacrés à la cybersécurité dès 2027.
+
+   C. La place de l'ANSSI.
+
+      L'ANSSI reste en dehors de la réforme : le Premier ministre la compare à des pompiers et des policiers chargés de détecter et de réparer, et non de construire l'architecture numérique des ministères.
+
+      Elle conserve un rôle d'audit sans prescrire de solutions, pour ne pas être juge et partie, et reste rattachée au SGDSN, à l'intersection des numériques civil, militaire et du renseignement.
+
+      Elle pilote la feuille de route de sécurité numérique de l'État et l'opération REACTIV.
+
+III. DE LA FUSION À DEUX RÉFORMES DISTINCTES.
+
+   A. L'abandon de la fusion.
+
+      Le ministre de l'Action publique et des Comptes publics, David Amiel, a été chargé de mettre en œuvre la réorganisation, dont la fusion à proprement parler a été abandonnée.
+
+      L'exécutif a privilégié une spécialisation des deux directions : la DINUM se recentre sur son rôle d'architecte du numérique de l'État et transfère une partie de ses missions à la DITP.
+
+   B. Les préfigurateurs devenus directeurs.
+
+      Désignés préfigurateurs en mai 2026, Walter Arnaud et Pierre Bouillon ont été nommés en Conseil des ministres le 10 juin 2026 et ont pris leurs fonctions le 24 juin.
+
+      Walter Arnaud, ingénieur de l'armement, était adjoint au directeur de l'industrie de défense à la DGA, et succède à Stéphanie Schaer, directrice du numérique depuis 2022.
+
+      Pierre Bouillon, ancien directeur du programme France Services et ancien directeur de cabinet de la ministre du Numérique Clara Chappaz, succède à Thierry Lambert, à la tête de la DITP pendant près de sept ans.
+
+   C. Le calendrier.
+
+      Les projets de décret et d'organigramme ont été présentés en comité social d'administration les 14 et 15 octobre 2026.
+
+      ARIANE doit prendre officiellement ses fonctions le 1er janvier 2027.
+
+IV. ARIANE, LA NOUVELLE AUTORITÉ DU NUMÉRIQUE DE L'ÉTAT.
+
+   A. Un rôle de CTO de l'État.
+
+      Le directeur d'ARIANE devient l'équivalent d'un directeur technique national : définition des standards, gestion des infrastructures communes, cohérence des investissements et réduction des dépendances technologiques stratégiques.
+
+      Sa mission principale est de constituer un socle numérique interministériel unifié, alors que les systèmes d'information de l'État restent trop fragmentés.
+
+   B. La validation des nominations ministérielles.
+
+      Selon le projet de décret, le directeur d'ARIANE validera les nominations des responsables numériques ministériels pour garantir une cohérence globale de la gouvernance du numérique public.
+
+      Cette mesure est contestée par d'anciens directeurs du numérique, qui y voient une mise sous tutelle, la DGAFP ne validant pas, par comparaison, les DRH ministériels.
+
+      Les directeurs du numérique restent nommés en Conseil des ministres, après avis d'un comité présidé par le secrétaire général du Gouvernement.
+
+      Les ministères et leurs directions du numérique restent maîtres de leurs choix d'infrastructures, mais dans un cadre homogène.
+
+   C. Une organisation en secrétariat général.
+
+      ARIANE prendra la forme d'un secrétariat général composé de six sous-directions, qui remplacent les six départements de la DINUM.
+
+      Parmi elles figurent l'expertise technique, qui fixe les normes des projets numériques, et le réseau interministériel de l'État, chargé des infrastructures interministérielles.
+
+      Figurent aussi les projets numériques de l'État, comme FranceConnect ou La Suite numérique, la stratégie numérique à trois à dix ans, et la régulation, chargée des audits de projets et des politiques d'achat.
+
+      Deux instances consultatives l'entoureront : un conseil scientifique d'experts en intelligence artificielle, économie, cyber et droit, et un conseil éthique, nommés pour trois à cinq ans.
+
+V. LA DITSP, DIRECTION DE LA TRANSFORMATION ET DES SERVICES PUBLICS.
+
+   A. Un périmètre numérique élargi.
+
+      La DITSP reçoit cinquante-huit agents de la DINUM, issus de l'accompagnement des services numériques : design, accessibilité et services innovants, notamment le programme beta.gouv.
+
+      Avec les cent quatre-vingt-cinq agents de la DITP, elle comptera deux cent quarante-trois agents.
+
+      Elle peut conduire des projets d'exploitation de données et opérer des services numériques en lien avec ARIANE, et anime avec l'ANCT et ARIANE le dialogue avec les collectivités sur les services numériques.
+
+   B. La transformation publique et les opérateurs.
+
+      La DITSP coordonne l'action des ministères en matière de transformation publique, au service des usagers, des citoyens et, pour la première fois, des entreprises.
+
+      Son rôle sur les opérateurs est renforcé : elle est associée et donne son avis sur les objectifs de gestion, de performance et de qualité de service des contrats pluriannuels.
+
+      Elle continue d'animer la modernisation de la gestion publique avec la direction du Budget, la DGFiP et la DGAFP, ainsi que les audits et évaluations avec les corps d'inspection.
+
+   C. Son organisation.
+
+      Elle comprend quatre services : pilotage et territorialisation de la transformation, qualité et accès aux services publics, accompagnement au numérique et à l'innovation, et conseil interne.
+
+      Le service de conseil interne confirme l'agence de conseil interne de l'État créée en 2024.
+
+      Le projet de décret ne modifie pas le pilotage du réseau France Services, qui reste à l'ANCT.
+
+POINTS D'ATTENTION.
+
+      La fusion DINUM et DITP annoncée le 30 avril 2026 a été abandonnée au profit de deux réformes distinctes.
+
+      ARIANE valide les nominations des responsables numériques ministériels, pas celles des RSSI.
+
+      C'est ARIANE qui devient un secrétariat général à six sous-directions.
+
+      L'ANSSI reste hors de la réforme et rattachée au SGDSN.
+
+      Ces éléments proviennent de projets de décret rapportés par la presse en octobre 2026 et doivent être confirmés par les décrets publiés.
+
+EXEMPLES CITES.
+
+      La cyberattaque contre l'ANTS d'avril 2026.
+
+      Les cinq pour cent des budgets numériques consacrés à la cybersécurité dès 2027.
+
+      Le programme beta.gouv transféré à la DITSP.
+
+      FranceConnect et La Suite numérique, projets suivis par ARIANE.
