@@ -1,34 +1,34 @@
 # Inventaire des modules et des médias — pse-cadre-public
 
-Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (24 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 19/10/2026 à 07:27 par `scripts/inventaire_medias.py` (25 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
 | Contenu | Présents | Absents | Couverture |
 |---|---:|---:|---:|
-| Fiche | 24 | 0 | 100 % |
-| QCM | 24 | 0 | 100 % |
-| Flash | 24 | 0 | 100 % |
-| TP | 2 | 22 | 8 % |
-| Icône | 24 | 0 | 100 % |
-| Infographie locale | 24 | 0 | 100 % |
-| Infographie NotebookLM | 18 | 6 | 75 % |
-| Paroles | 24 | 0 | 100 % |
-| Chanson | 24 | 0 | 100 % |
-| Podcast local | 24 | 0 | 100 % |
-| Podcast NotebookLM | 18 | 6 | 75 % |
-| Micro-chronique | 1 | 23 | 4 % |
-| Narration fiche | 24 | 0 | 100 % |
-| Audio QCM/flash | 24 | 0 | 100 % |
+| Fiche | 25 | 0 | 100 % |
+| QCM | 25 | 0 | 100 % |
+| Flash | 25 | 0 | 100 % |
+| TP | 2 | 23 | 8 % |
+| Icône | 25 | 0 | 100 % |
+| Infographie locale | 25 | 0 | 100 % |
+| Infographie NotebookLM | 25 | 0 | 100 % |
+| Paroles | 25 | 0 | 100 % |
+| Chanson | 25 | 0 | 100 % |
+| Podcast local | 25 | 0 | 100 % |
+| Podcast NotebookLM | 25 | 0 | 100 % |
+| Micro-chronique | 1 | 24 | 4 % |
+| Narration fiche | 25 | 0 | 100 % |
+| Audio QCM/flash | 25 | 0 | 100 % |
 
 ## Par série
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| 01 Règlements européens | 10 | 10 | 10 | 10 | 0 | 10 | 10 | 9 | 10 | 10 | 10 | 9 | 0 | 10 | 10 |
+| 01 Règlements européens | 10 | 10 | 10 | 10 | 0 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 0 | 10 | 10 |
 | 02 Référentiels nationaux | 4 | 4 | 4 | 4 | 0 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 0 | 4 | 4 |
-| 04 Numérique de l'État : IA, Suite Numérique, gouvernance | 9 | 9 | 9 | 9 | 1 | 9 | 9 | 4 | 9 | 9 | 9 | 4 | 0 | 9 | 9 |
+| 04 Numérique de l'État : IA, Suite Numérique, gouvernance | 10 | 10 | 10 | 10 | 1 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 0 | 10 | 10 |
 
 ## Détail par module
 
@@ -43,7 +43,7 @@ Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (24 modules)
 | 01-50 RGPD - Règlement européen Protection des données personnelles | ✅ | 25 | 84 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 01-55 CNIL - Guide de la sécurité des données personnelles et bilan cybersécurité 2025 | ✅ | 41 | 27 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 01-60 DORA - Résilience opérationnelle numérique du secteur financier, notice ACPR et premier bilan 2025 | ✅ | 34 | 23 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
-| 01-65 Cybermalveillance - Obligations et responsabilités des collectivités locales en matière de cybersécurité | ✅ | 27 | 25 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
+| 01-65 Cybermalveillance - Obligations et responsabilités des collectivités locales en matière de cybersécurité | ✅ | 27 | 25 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 01-70 EUCC - Schéma européen de certification de cybersécurité fondé sur les critères communs | ✅ | 48 | 20 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 02-10 RGESN - Référentiel national Écoconception des services numériques | ✅ | 20 | 72 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 02-20 RGAA 4.1.2 - Référentiel national Accessibilité des administrations | ✅ | 38 | 74 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
@@ -53,8 +53,9 @@ Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (24 modules)
 | 04-20 La Suite Numérique L'écosystème souverain de l'État français | ✅ | 20 | 52 | 12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 04-50 Gouvernance et Résilience La Stratégie Cybersécurité 2026-2030 | ✅ | 20 | 56 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 04-60 Guide d'usage de l'IA pour les agents publics de l'État | ✅ | 46 | 35 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
-| 04-80 DITP - L'Assistant IA, bilan de l'expérimentation auprès des agents publics | ✅ | 38 | 19 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
-| 04-90 CHAI - Guide d'audit des systèmes d'information, gouvernance, ITIL et COBIT | ✅ | 33 | 22 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
-| 04-100 DINUM - Accompagnement et maîtrise des risques des grands projets numériques de l'État | ✅ | 28 | 14 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
-| 04-110 Cour des comptes - La conduite des grands projets numériques de l'État (2020) | ✅ | 30 | 14 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
-| 04-120 Lexique de la gouvernance des systèmes d'information, français et anglais | ✅ | 65 | 152 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
+| 04-80 DITP - L'Assistant IA, bilan de l'expérimentation auprès des agents publics | ✅ | 38 | 19 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 04-90 CHAI - Guide d'audit des systèmes d'information, gouvernance, ITIL et COBIT | ✅ | 33 | 22 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 04-100 DINUM - Accompagnement et maîtrise des risques des grands projets numériques de l'État | ✅ | 28 | 14 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 04-110 Cour des comptes - La conduite des grands projets numériques de l'État (2020) | ✅ | 30 | 14 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 04-120 Lexique de la gouvernance des systèmes d'information, français et anglais | ✅ | 65 | 152 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 04-130 ARIANE et DITSP - Réforme de la gouvernance numérique et de la transformation publique de l'État (2026) | ✅ | 46 | 14 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
