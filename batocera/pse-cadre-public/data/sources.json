@@ -1,0 +1,185 @@
+{
+ "00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026)": [
+  {
+   "fichier": "source/20260923_ANSSI_Rapport_incident_DGFIP.pdf",
+   "titre": "N° 3033/ANSSI/SDO/NP Rapport d’incident – Septembre 2026 Actes malveillants observés sur le système d’information de la",
+   "pages": 20,
+   "taille": 690267
+  }
+ ],
+ "01-10 CRA - Règlement européen Cybersécurité des produits numériques": [
+  {
+   "fichier": "source/01-10-CRA---Reglement-europeen-Cybersecurite-des-produits-numeriques.pdf",
+   "titre": "CRA - Règlement européen Cybersécurité des produits numériques",
+   "pages": 81,
+   "taille": 1834956
+  }
+ ],
+ "01-20 DATA ACT - Règlement européen Données et équité numérique": [
+  {
+   "fichier": "source/data-act-2023-2854.pdf",
+   "titre": "Règlement (UE) 2023/2854 du Parlement européen et du Conseil du 13 décembre 2023 concernant des règles harmonisées portant sur l'équité de l’accès aux données et de l’utilisation des données et modifiant le règlement (UE) 2017/2394 et la directive (UE) 2020/1828 (règlement sur les données)",
+   "pages": 71,
+   "taille": 1365248,
+   "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32023R2854"
+  }
+ ],
+ "01-30 DSA - Règlement européen Services numériques et intermédiaires": [
+  {
+   "fichier": "source/01-30-DSA---Reglement-europeen-Services-numeriques-et-intermediaires.pdf",
+   "titre": "DSA - Règlement européen Services numériques et intermédiaires",
+   "pages": 102,
+   "taille": 1748788
+  }
+ ],
+ "01-40 NIS 2 - Directive européenne Cybersécurité des entités critiques": [
+  {
+   "fichier": "source/01-40-NIS-2---Directive-europeenne-Cybersecurite-des-entites-critiques.pdf",
+   "titre": "NIS 2 - Directive européenne Cybersécurité des entités critiques",
+   "pages": 60,
+   "taille": 667756
+  }
+ ],
+ "01-45 Référentiel Cyber France - Mesures de gestion des risques NIS 2": [
+  {
+   "fichier": "source/recyf-suivi-v2.4-v2.5.pdf",
+   "titre": "Nis 2 – transposition nationale mesures de gestion des risques en matière de cybersecurité",
+   "pages": 48,
+   "taille": 1383450,
+   "url": "https://messervices.cyber.gouv.fr/documents-ressources/20260317_NIS_V2_Suivi"
+  }
+ ],
+ "01-50 RGPD - Règlement européen Protection des données personnelles": [
+  {
+   "fichier": "source/01-50-RGPD---Reglement-europeen-Protection-des-donnees-personnelles.pdf",
+   "titre": "RGPD - Règlement européen Protection des données personnelles",
+   "pages": 87,
+   "taille": 2325131
+  }
+ ],
+ "01-55 CNIL - Guide de la sécurité des données personnelles et bilan cybersécurité 2025": [
+  {
+   "fichier": "source/cnil_guide_securite_personnelle.pdf",
+   "titre": "Guide pratique RGPD - Sécurité des données personnelles (Version 2024*)",
+   "pages": 64,
+   "taille": 1056356
+  }
+ ],
+ "01-60 DORA - Résilience opérationnelle numérique du secteur financier, notice ACPR et premier bilan 2025": [
+  {
+   "fichier": "source/20241218_Notice_DORA_TIC.pdf",
+   "titre": "SECRÉTARIAT GÉNÉRAL Notice décrivant le cadre de gestion des risques liés aux",
+   "pages": 16,
+   "taille": 1068924
+  }
+ ],
+ "01-65 Cybermalveillance - Obligations et responsabilités des collectivités locales en matière de cybersécurité": [
+  {
+   "fichier": "source/220630_FranceRelance_Guide-1-1.pdf",
+   "titre": "Guide obligations et responsabilités des collectivités locales",
+   "pages": 16,
+   "taille": 4399554
+  }
+ ],
+ "01-70 EUCC - Schéma européen de certification de cybersécurité fondé sur les critères communs": [
+  {
+   "fichier": "source/anssi-cadre-certification-europeen.pdf",
+   "titre": "Le cadre de certification de cybersécurité européen — ANSSI",
+   "pages": 5,
+   "taille": 168792,
+   "url": "https://cyber.sites.beta.gouv.fr/reglementation/reglementation-identite-confiance-numerique/cadre-de-certification-de-cybersecurite-europeen/"
+  }
+ ],
+ "02-10 RGESN - Référentiel national Écoconception des services numériques": [
+  {
+   "fichier": "source/02-10-RGESN---Referentiel-national-Ecoconception-des-services-numeriques.pdf",
+   "titre": "RGESN - Référentiel national Écoconception des services numériques",
+   "pages": 131,
+   "taille": 4177384
+  }
+ ],
+ "02-20 RGAA 4.1.2 - Référentiel national Accessibilité des administrations": [
+  {
+   "fichier": "source/02-20-RGAA-4.1.2---Referentiel-national-Accessibilite-des-administrations.pdf",
+   "titre": "RGAA 4.1.2 - Référentiel national Accessibilité des administrations",
+   "pages": 131,
+   "taille": 3120197
+  }
+ ],
+ "02-30 RGI 2.0 - Référentiel national Interopérabilité": [
+  {
+   "fichier": "source/02-30-RGI-2.0---Referentiel-national-Interoperabilite.pdf",
+   "titre": "RGI 2.0 - Référentiel national Interopérabilité",
+   "pages": 84,
+   "taille": 3156876
+  }
+ ],
+ "02-40 RGS 2.0 - Référentiel national Sécurité": [
+  {
+   "fichier": "source/02-40-RGS-2.0---Referentiel-national-Securite.pdf",
+   "titre": "RGS 2.0 - Référentiel national Sécurité",
+   "pages": 25,
+   "taille": 577161
+  }
+ ],
+ "04-10 Accompagner et former les agents publics à l'IA": [
+  {
+   "fichier": "source/Fiche-operationnelle-3_Accompagner-et-former-les-agents-a-lIA_A.pdf",
+   "titre": "Proposition de définition",
+   "pages": 7,
+   "taille": 372935
+  }
+ ],
+ "04-20 La Suite Numérique L'écosystème souverain de l'État français": [],
+ "04-50 Gouvernance et Résilience La Stratégie Cybersécurité 2026-2030": [
+  {
+   "fichier": "source/SGDSN-SNC-2026-2030.pdf",
+   "titre": "Stratégie nationale de cybersécurité - 2026",
+   "pages": 36,
+   "taille": 1107237,
+   "url": "https://www.sgdsn.gouv.fr/files/files/Publications/20260129_SNC_0.pdf"
+  }
+ ],
+ "04-60 Guide d'usage de l'IA pour les agents publics de l'État": [
+  {
+   "fichier": "source/04-60-Guide-d-usage-de-l-IA-pour-les-agents-publics-de-l-Etat.pdf",
+   "titre": "Guide d'usage de l'IA pour les agents publics de l'État",
+   "pages": 58,
+   "taille": 3013070
+  }
+ ],
+ "04-80 DITP - L'Assistant IA, bilan de l'expérimentation auprès des agents publics": [
+  {
+   "fichier": "source/Synthese-evaluation-experimentation-Assistant-IA.pdf",
+   "titre": "Direction interministérielle de la transformation publique Expérimentation de l’Assistant IA",
+   "pages": 22,
+   "taille": 1151263
+  }
+ ],
+ "04-90 CHAI - Guide d'audit des systèmes d'information, gouvernance, ITIL et COBIT": [
+  {
+   "fichier": "source/guide-audit-si-chai-2014.pdf",
+   "titre": "GUIDE D’AUDIT DES SYSTEMES  D’INFORMATION",
+   "pages": 118,
+   "taille": 1852771
+  }
+ ],
+ "04-100 DINUM - Accompagnement et maîtrise des risques des grands projets numériques de l'État": [
+  {
+   "fichier": "source/dinum-accompagne.pdf",
+   "titre": "Comment la dinum accompagne et maîtrise les risques des grands",
+   "pages": 40,
+   "taille": 2058799
+  }
+ ],
+ "04-110 Cour des comptes - La conduite des grands projets numériques de l'État (2020)": [
+  {
+   "fichier": "source/cour-comptes-grands-projets-numeriques-2020.pdf",
+   "titre": "Rapport La conduite des grands projets numériques de l’État",
+   "pages": 206,
+   "taille": 4196700
+  }
+ ],
+ "04-120 Lexique de la gouvernance des systèmes d'information, français et anglais": [],
+ "04-130 ARIANE et DITSP - Réforme de la gouvernance numérique et de la transformation publique de l'État (2026)": []
+}
