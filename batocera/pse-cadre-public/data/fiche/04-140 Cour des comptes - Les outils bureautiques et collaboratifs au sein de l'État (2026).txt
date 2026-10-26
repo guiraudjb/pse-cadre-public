@@ -1,0 +1,245 @@
+LES OUTILS BUREAUTIQUES ET COLLABORATIFS AU SEIN DE L'ETAT.
+
+LEXIQUE COMPLET.
+
+      La Direction interministérielle du numérique est le service du Premier ministre créé en deux mille dix-neuf qui pilote la stratégie numérique de l'État et opère les services logiciels partagés.
+
+      La Direction ministérielle du numérique est la structure au sein de chaque ministère qui organise, pilote et déploie la politique numérique et les services aux agents.
+
+      Le Système d'information et de communication de l'État rassemble l'ensemble des infrastructures informatiques et des logiciels permettant de traiter les données publiques.
+
+      Le Comité interministériel du numérique est l'instance opérationnelle présidée par la directrice de la DINUM qui réunit les directeurs du numérique pour partager l'avancement des chantiers.
+
+      Le Comité d'orientation stratégique interministériel du numérique est l'instance présidée par la secrétaire générale du Gouvernement qui fixe la stratégie et les moyens budgétaires.
+
+      Le Référentiel général d'interopérabilité est le document réglementaire définissant les standards d'échange de données et préconisant les formats ouverts ODF et PDF.
+
+      Le Socle interministériel des logiciels libres est le catalogue de référence recensant plus de six cents logiciels libres recommandés pour l'administration publique.
+
+      SecNumCloud est la qualification de sécurité et de souveraineté délivrée par l'ANSSI garantissant la protection des données contre les lois extraterritoriales d'États tiers.
+
+      La doctrine Cloud au centre impose que les systèmes traitant des données sensibles soient hébergés sur un nuage interne à l'État ou un nuage commercial qualifié SecNumCloud.
+
+      La Suite est la suite numérique interministérielle de l'agent public développée par la DINUM et composée d'applications collaboratives souveraines et ouvertes.
+
+      ProConnect est le service d'authentification unifié géré par la DINUM qui permet à chaque agent public d'accéder à l'ensemble des applications de La Suite.
+
+      Tchap est la messagerie instantanée sécurisée et souveraine de l'État développée pour remplacer les applications commerciales grand public.
+
+      Visio est le service interministériel de visioconférence en ligne accessible par navigateur web et destiné à devenir l'outil unique de l'État d'ici deux mille vingt-sept.
+
+      FranceTransfert est l'application souveraine permettant l'envoi et la réception sécurisés de fichiers volumineux entre agents et usagers.
+
+      Messagerie est le service web de gestion des courriels professionnels, des contacts et des agendas en ligne développé par la DINUM.
+
+      Fichiers est l'espace de stockage et de partage de documents en ligne intégré à La Suite et fondé sur des logiciels libres.
+
+      Grist est l'outil combinant les capacités d'un tableur et d'une base de données relationnelle pour structurer les données et créer des applications internes.
+
+      Docs est l'éditeur de texte collaboratif en ligne axé sur la coédition en temps réel et la structuration du contenu.
+
+      Resana est la plateforme collaborative d'entreprise mise à disposition des ministères par la DINUM dont l'acquisition globale prend fin en deux mille vingt-six.
+
+      La Direction générale des finances publiques est l'administration fiscale ayant généralisé l'usage de LibreOffice et développé la plateforme collaborative Novae.
+
+      La Direction générale de la Gendarmerie nationale est l'administration pionnière ayant déployé LibreOffice et le système d'exploitation libre GendBuntu sur soixante-douze mille postes.
+
+      La Messagerie collaborative de l'État est le programme interministériel assurant l'infrastructure de messagerie souveraine sur la base du logiciel libre Thunderbird.
+
+      L'Environnement de travail numérique de l'agent est le programme de modernisation de l'éducation nationale fondé sur les logiciels libres comme Zimbra et Apps.education.
+
+      Bleu est l'entreprise privée créée par Capgemini et Orange visant à héberger les solutions de Microsoft dans un environnement cloud cherchant la qualification SecNumCloud.
+
+      Le Contrôleur budgétaire et comptable ministériel est l'autorité chargée de valider l'exécution financière et la conformité des achats publics au sein de chaque ministère.
+
+COURS DÉTAILLÉ.
+
+I. GOUVERNANCE ET LIBERTÉ D'ARBITRAGE DES MINISTÈRES DANS LE DOMAINE BUREAUTIQUE.
+
+   A. L'ORGANISATION RÉGLEMENTAIRE DU SYSTÈME D'INFORMATION DE L'ÉTAT ET LE RÔLE DE LA DINUM.
+
+      Le système d'information et de communication de l'État est régi par le décret numéro deux mille dix-neuf-mille quatre-vingt-huit du vingt-cinq octobre deux mille dix-neuf, modifié par les décrets d'avril deux mille vingt-deux, d'avril deux mille vingt-trois et de mars deux mille vingt-six. Ce texte stipule que la responsabilité globale du système incombe au Premier ministre, qui fixe les orientations stratégiques et les règles de sécurité numérique. La Direction interministérielle du numérique, placée sous l'autorité du Premier ministre et du ministre de la Fonction publique, est le service pilote de cette politique.
+
+      La DINUM gère le réseau interministériel de l'État et veille à la maîtrise des coûts des grandes infrastructures telles que le nuage informatique et les bases de données. Sa feuille de route du neuf mars deux mille vingt-trois lui donne pour priorité d'accompagner la réussite des projets informatiques publics et de préserver la souveraineté numérique par des outils mutualisés. Pour l'année deux mille vingt-six, l'action seize du programme budgétaire cent vingt-neuf alloue cinquante-sept virgule trois millions d'euros en fonctionnement et vingt-quatre virgule six millions d'euros en dépenses de personnel pour deux cent cinquante-cinq équivalents temps plein travaillés.
+
+      Au sein de la DINUM, le département Opérateur de produits interministériels construit et gère les services partagés. L'un de ses cinq pôles assure le développement et l'exploitation des applications de La Suite. La récente annonce gouvernementale du trente avril deux mille vingt-six visant à transformer la DINUM en une autorité de l'intelligence artificielle et du numérique ne remet pas en cause ces prérogatives opérationnelles.
+
+   B. L'AUTONOMIE DES DIRECTIONS MINISTÉRIELLES DU NUMÉRIQUE ET LES LIMITES DU PILOTAGE DÉCENTRALISÉ.
+
+      Chaque ministère dispose d'une direction ministérielle du numérique instituée en deux mille dix-neuf sous l'autorité des secrétaires généraux. Ces directions ont remplacé les anciennes directions des systèmes d'information afin d'intégrer la transformation des métiers administratifs par les technologies. L'organisation interne varie selon les ministères, comme aux affaires sociales où la DNUM comprend deux sous-directions et deux missions, ou à la Culture avec un service du numérique.
+
+      Certains ministères présentent une organisation fortement décentralisée en raison de leurs directions à réseau ou de leurs besoins métiers spécifiques. Au ministère de l'Économie et des Finances, la Direction générale des finances publiques et la Direction générale des douanes comptent à elles seules plus de cinq mille informaticiens non supervisés directement par le secrétariat général. Les ministères de l'Intérieur et des Armées gèrent également leurs choix informatiques de façon autonome.
+
+      Les directions ministérielles du numérique sont libres de choisir les outils bureautiques et collaboratifs répondant aux besoins de leurs agents. Les échanges entre les ministères et la DINUM sont restés épisodiques entre deux mille vingt et un et deux mille vingt-cinq, entraînant une grande diversité d'équipements. Ce pilotage décentralisé s'est traduit par une hétérogénéité des solutions adoptées au sein de l'administration.
+
+   C. LE RÔLE RESTREINT DES INSTANCES INTERMINISTÉRIELLES CINUM ET COSINUM.
+
+      Le pilotage interministériel s'appuie sur deux instances créées en deux mille dix-neuf dans le cadre de la stratégie TECH.GOUV. Le Comité interministériel du numérique réunit la directrice de la DINUM, le directeur général de l'ANSSI, les directeurs ministériels du numérique et des représentants des services d'achats. Entre deux mille vingt et un et avril deux mille vingt-six, le CINUM s'est réuni cinquante-quatre fois pour traiter de thématiques variées comme les ressources humaines, l'informatique en nuage ou l'intelligence artificielle.
+
+      L'examen des comptes-rendus du CINUM montre que les outils bureautiques et collaboratifs y ont été très peu abordés. Les discussions ont porté principalement sur la messagerie Tchap, le retrait d'applications anciennes comme Osmose, le Sac à dos numérique et la feuille de route de La Suite présentée en décembre deux mille vingt-cinq. Le CINUM n'a pas eu pour rôle de cadrer ou d'harmoniser les choix logiciels des ministères.
+
+      Le Comité d'orientation stratégique interministériel du numérique est présidé par la secrétaire générale du Gouvernement. Réuni sept fois entre deux mille vingt et un et deux mille vingt-cinq, le COSINUM valide les orientations stratégiques et financières préparées par le CINUM. Cette gouvernance souple n'a pas permis d'éviter la fragmentation du parc logiciel de l'État.
+
+II. DIRECTIVES NORMATIVES, SOUVERAINETÉ NUMÉRIQUE ET ENCADREMENT DES ACHATS PUBLICS.
+
+   A. LE CADRE HISTORIQUE D'INTEROPÉRABILITÉ RGI ET LA PROMOTION DES LOGICIELS LIBRES.
+
+      Le Référentiel général d'interopérabilité approuvé en deux mille quinze fixe les standards d'échange entre administrations et usagers. Son profil P3 recommandé préconise les formats ouverts ODF et PDF pour les travaux bureautiques afin d'éviter les barrières techniques liées aux formats propriétaires OOXML de Microsoft. Le règlement européen pour une Europe interopérable de deux mille vingt-quatre renforce cette exigence d'interopérabilité par conception pour l'horizon deux mille vingt-sept.
+
+      La circulaire du Premier ministre du dix-neuf septembre deux mille douze définit la politique d'usage des logiciels libres dans l'administration. Elle a instauré le Socle interministériel des logiciels libres qui référencie en deux mille vingt-six plus de six cents applications et s'appuie sur quatre cents agents référents. La circulaire rappelle que le logiciel libre garantit quatre libertés fondamentales et permet une réduction des coûts de licence ainsi qu'une maîtrise des mises à jour.
+
+      Le recours aux logiciels libres implique des dépenses de service consacrées à l'intégration, à la maintenance et au support. Malgré les travaux des groupes mutualisés Mimo et MimOG, les logiciels libres sont restés minoritaires au sein de l'État. La refonte du SILL engagée par la DINUM en deux mille vingt-six vise à transformer ce répertoire en un véritable outil d'aide aux décisions d'achat public.
+
+   B. LA DOCTRINE CLOUD AU CENTRE, L'INTERDICTION DE MICROSOFT trois cent soixante-cinq ET LE RÉGIME DES DÉROGATIONS.
+
+      La doctrine Cloud au centre formalisée en juillet deux mille vingt et un et révisée en mai deux mille vingt-trois impose que le traitement des données sensibles s'effectue sur un nuage interne à l'État ou un nuage commercial qualifié SecNumCloud. L'extraterritorialité du droit américain, à travers l'Executive Order douze mille trois cent trente-trois, la section sept cent deux du FISA et le CLOUD Act de deux mille dix-huit, fait peser des risques juridiques de saisie des données confidentielles hébergées par des acteurs soumis à la juridiction des États-Unis.
+
+      Dans une note du quinze septembre deux mille vingt et un, la DINUM a proscrit tout déploiement de la solution cloud Microsoft trois cent soixante-cinq dans les ministères. Les outils bureautiques et de messagerie manipulant des données sensibles, leur migration vers des serveurs hébergés sur Microsoft Azure est contraire aux impératifs de souveraineté. Seules des dérogations temporaires de douze mois ont été prévues pour les projets très avancés au cinq juillet deux mille vingt et un.
+
+      Malgré cette interdiction, les ministères sociaux et le ministère de la Culture ont obtenu des dérogations formelles du Premier ministre pour déployer Microsoft trois cent soixante-cinq. Ces dérogations ont été accordées en contrepartie de l'engagement d'une migration future vers une offre souveraine qualifiée dès sa mise à disposition. La Direction générale de l'aviation civile et la DILA utilisent également cette solution en raison d'usages historiques.
+
+   C. LA RÉGULATION DES OUTILS DE COMMUNICATION INTERPERSONNELLE ET DE VISIOCONFÉRENCE.
+
+      L'utilisation informelle de messageries instantanées grand public comme WhatsApp ou Telegram par les agents et les cabinets ministériels a révélé de graves lacunes de confidentialité. La circulaire du vingt-deux novembre deux mille vingt-trois a demandé aux membres du Gouvernement d'adopter l'application sécurisée Olvid certifiée par l'ANSSI. Cette mesure a connu un déploiement marginal en raison du maintien de l'incitation du reste de l'administration à utiliser l'outil souverain Tchap.
+
+      La circulaire du Premier ministre du vingt-cinq juillet deux mille vingt-cinq a finalement généralisé l'usage obligatoire de Tchap à l'ensemble de la sphère publique. La crise sanitaire de deux mille vingt avait entraîné une dispersion des outils de visioconférence avec le recours à Teams, Zoom, Webex ou GoToMeeting. Le ministère de l'Éducation nationale comptait à lui seul seize solutions différentes dans ses services déconcentrés.
+
+      En janvier deux mille vingt-six, la circulaire numéro six mille cinq cent dix-huit-SG du Premier ministre a imposé l'application Visio développée par la DINUM comme l'unique outil de visioconférence de l'État. Accessible via le service d'authentification ProConnect, Visio doit remplacer tous les autres outils commerciaux d'ici deux mille vingt-sept. Cette décision entraîne la fermeture programmée du service Webconférence de l'État et le remplacement des dispositifs physiques COMU en préfecture.
+
+   D. LE RENFORCEMENT DU CONTRÔLE DES ACHATS NUMÉRIQUES PAR LE DÉCRET DE MARS deux mille vingt-six.
+
+      À la suite de polémiques sur des marchés attribués à Microsoft par l'Éducation nationale et l'École polytechnique, une note interministérielle du vingt-deux avril deux mille vingt-cinq a rappelé l'application stricte de l'article trente et un de la loi SREN de mai deux mille vingt-quatre. Le texte a instauré un contrôle préalable systématique de la DINUM sur les achats numériques, avec blocage des commandes par les contrôleurs budgétaires en l'absence d'avis favorable.
+
+      Le décret numéro deux mille vingt-six-cent quatre-vingt-treize et l'arrêté du dix-huit mars deux mille vingt-six ont pérennisé et modernisé ce dispositif de contrôle. Le seuil des grands projets soumis à l'avis conforme de la DINUM est porté de neuf à quinze millions d'euros. Les ministères doivent également inventorier les systèmes d'information existants dont les évolutions annuelles dépassent cinq millions d'euros.
+
+      Le décret impose désormais un avis préalable de la DINUM pour tout marché de logiciels en mode SaaS ou de suite collaborative en nuage supérieur ou égal à deux millions d'euros par an. Parallèlement, la circulaire du cinq février deux mille vingt-six sur la commande publique fixe une doctrine priorisant l'achat de solutions privées sur étagère, puis le développement interne en dernier recours, tout en soutenant l'open source.
+
+III. CARTOGRAPHIE DES MODÈLES BUREAUTIQUES ET COLLABORATIFS ADOPTÉS PAR LES ADMINISTRATIONS.
+
+   A. LA PRÉDOMINANCE DE LA SUITE MICROSOFT OFFICE EN INSTALLATION LOCALE ON-PREMISES.
+
+      La suite Microsoft Office demeure le standard ultra-dominant de traitement de texte, tableur et présentation au sein de l'État. La quasi-totalité des ministères déploie ces logiciels directement sur les postes de travail ou sur des serveurs locaux partagés en configuration on-premises. Les acquisitions s'effectuent majoritairement via les marchés globaux de l'Union des groupements d'achats publics.
+
+      Certains ministères restreignent volontairement le nombre de licences payantes Microsoft Office afin de maîtriser leurs dépenses. Au ministère de l'Intérieur, seulement dix pour cent des deux cent quatre-vingt-dix mille postes de travail disposent de Microsoft Office, la suite libre LibreOffice étant installée sur quatre-vingt-treize virgule cinq pour cent des ordinateurs de la Police nationale et quatre-vingt-treize virgule cinq pour cent de l'administration territoriale.
+
+      Le ministère de la Transition écologique limite également ses licences Microsoft Office à dix mille pour un parc de vingt-cinq mille postes informatiques. La coexistence entre formats libres et propriétaires génère toutefois des difficultés d'interopérabilité sur les tableurs et les documents partagés. La pression des utilisateurs et des cabinets ministériels pousse fréquemment au maintien de licences Microsoft.
+
+   B. L'UTILISATION DÉROGATOIRE DE LA SOLUTION CLOUD MICROSOFT trois cent soixante-cinq ET SES LIMITES.
+
+      Les ministères sociaux ont généralisé la solution cloud Microsoft trois cent soixante-cinq entre deux mille vingt et un et deux mille vingt-quatre pour remédier au sous-investissement historique dans leur système d'information. Ce choix a été motivé par un impératif de cybersécurité et de continuité d'activité lors de la crise sanitaire. L'homologation de la plateforme court jusqu'à la fin de l'année deux mille vingt-six.
+
+      Le ministère de la Culture a déployé Microsoft trois cent soixante-cinq en novembre deux mille vingt et un pour des raisons de rationalisation et de sécurité de ses centres de données. Afin de limiter les risques juridiques, une partition des comptes a été mise en place, excluant du nuage sept mille sept cents postes jugés sensibles, dont le cabinet et les directeurs centraux, maintenus sur des serveurs internes.
+
+      La Direction générale de l'aviation civile recourt également à Microsoft trois cent soixante-cinq pour ses besoins de travail collaboratif et de haute disponibilité. La Direction de l'information légale et administrative utilise la solution pour élaborer le Journal officiel via l'outil STILA. Ces ministères envisagent une migration vers l'offre souveraine Bleu une fois sa qualification SecNumCloud obtenue.
+
+   C. LA STRATÉGIE PIONNIÈRE DE PASSAGE AUX LOGICIELS LIBRES PAR LA DGGN, LA DGFIP ET LE MINISTÈRE DE L'ÉDUCATION NATIONALE.
+
+      La Direction générale de la Gendarmerie nationale a fait le choix des logiciels libres dès le début des années deux mille en remplaçant OpenOffice par LibreOffice. Ce choix a été poussé jusqu'au système d'exploitation avec le déploiement de la distribution Linux GendBuntu sur soixante-douze mille ordinateurs portables. Seulement deux mille cinq cents postes Windows sont conservés pour des applications métiers spécifiques.
+
+      La Direction générale des finances publiques a progressivement abandonné Microsoft Office à la fin des années deux mille pour des motifs budgétaires et utilise LibreOffice comme suite principale. La DGFiP s'appuie sur la messagerie Thunderbird au sein du programme Messagerie collaborative de l'État et a développé la plateforme Novae pour la collaboration de ses agents.
+
+      Le ministère de l'Éducation nationale a lancé en deux mille vingt et un le programme Environnement de travail numérique de l'agent pour ses un virgule deux million de personnels. Le projet s'appuie sur la messagerie libre Zimbra hébergée sur une infrastructure interministérielle et sur la plateforme Apps.education. Pour la bureautique, le ministère combine Microsoft Office, LibreOffice et la solution en ligne Collabora Online.
+
+IV. BILAN BUDGÉTAIRE ET ÉVALUATION DE LA SATISFACTION DES AGENTS PUBLICS.
+
+   A. UN PARC DE huit cent soixante mille POSTES INFORMATIQUES MAL CONNU ET TRÈS CONCENTRÉ.
+
+      Le suivi du parc informatique des ministères présente des lacunes importantes, la plupart des administrations fournissant des chiffres approximatifs et arrondis. Le nombre moyen de postes informatiques dans les administrations centrales et services déconcentrés s'établit à un peu plus de huit cent soixante et un mille en deux mille vingt-cinq, affichant une quasi-stabilité par rapport aux huit cent quarante-huit mille postes décomptés en deux mille vingt et un.
+
+      Quatre ministères concentrent à eux seuls près de quatre-vingt-dix pour cent du parc informatique total de l'État. Il s'agit du ministère de l'Intérieur, du ministère des Armées, du ministère de l'Économie et des Finances et du ministère de la Justice.
+
+      Le ministère de l'Éducation nationale ne représente que trois pour cent des postes informatiques gérés, soit trente mille postes de travail en administration centrale et rectorats. Les huit cent cinquante mille enseignants ne sont pas dotés d'ordinateurs par l'administration mais reçoivent une prime d'équipement informatique de cent soixante-seize euros par an.
+
+   B. L'ANALYSE DES DÉPENSES GLOBALES S'ÉLEVANT À cent MILLIONS D'EUROS EN deux mille vingt-cinq.
+
+      L'État consacre environ cinq virgule cinq milliards d'euros par an à son système d'information global, dont quatre virgule quatre milliards d'euros d'achats comptabilisés dans Chorus et un virgule un milliard d'euros de masse salariale. En deux mille vingt-cinq, les dépenses spécifiques aux outils bureautiques et collaboratifs sont reconstituées à cent millions d'euros, représentant moins de deux pour cent du budget informatique total.
+
+      Les dépenses bureautiques ont augmenté de cinquante pour cent entre deux mille vingt et un et deux mille vingt-cinq. En deux mille vingt-cinq, elles se répartissent en soixante et un millions d'euros d'achats de licences logicielles, vingt-six millions d'euros de prestations informatiques et treize millions d'euros de masse salariale des équipes dédiées. Les quatre cinquièmes des achats de licences sont versés à l'éditeur Microsoft.
+
+      Le coût moyen annuel par poste informatique s'établit à quatre-vingt-sept euros sur la période de deux mille vingt et un à deux mille vingt-cinq. La hausse des dépenses s'explique par les développements de La Suite par la DINUM dont le budget est passé de trois virgule trois à douze virgule neuf millions d'euros, ainsi que par les montées de version logicielles au ministère de l'Économie et au ministère de l'Intérieur.
+
+   C. LES DISPARITÉS DE COÛTS UNITAIRES ET LE MODÈLE ÉCONOMIQUE VERTUEUX DU LOGICIEL LIBRE.
+
+      Les coûts moyens par poste informatique varient considérablement selon les choix technologiques et la taille des administrations. Cinq grands ministères présentent un coût inférieur ou égal à la moyenne de quatre-vingt-sept euros. Le ministère de l'Intérieur affiche le coût le plus bas avec vingt euros par poste et par an grâce à sa politique de logiciels libres.
+
+      À l'inverse, les ministères ayant opté pour la solution cloud Microsoft trois cent soixante-cinq enregistrent des coûts très supérieurs. Le ministère de la Culture dépense en moyenne trois cent soixante-dix-huit euros par poste de travail par an, en raison du coût élevé des licences sous abonnements et d'un effectif réduit de sept mille sept cents postes.
+
+      La Cour évalue qu'une généralisation des logiciels libres bureautiques on-premises sur l'ensemble du périmètre de l'État générerait une économie annuelle comprise entre trente millions et soixante-cinq millions d'euros. Sur les architectures cloud, l'adoption d'une solution libre qualifiée SecNumCloud éviterait un surcoût annuel atteignant cent trente millions d'euros par rapport à une généralisation des offres propriétaires.
+
+   D. L'ÉVALUATION DE LA SATISFACTION DES AGENTS ET L'IMPORTANCE DE L'ACCOMPAGNEMENT AU CHANGEMENT.
+
+      Le Baromètre numérique de l'agent mené par la DINUM jusqu'en deux mille vingt-trois montrait une note globale de satisfaction de cinq virgule neuf sur dix. Les enquêtes internes menées en deux mille vingt-cinq par les ministères indiquent une progression de la satisfaction, atteignant quatre-vingt-un pour cent à l'Éducation nationale, soixante-quinze pour cent à la Justice et soixante et onze pour cent à la DGFiP.
+
+      La satisfaction des utilisateurs ne dépend pas du caractère propriétaire ou libre des logiciels. Les agents du ministère de l'Intérieur et de la DGFiP utilisant LibreOffice expriment un taux de satisfaction de soixante-douze pour cent à quatre-vingt-sept pour cent, équivalent à celui des ministères dotés de la suite Microsoft Office ou de Microsoft trois cent soixante-cinq.
+
+      L'acceptation des outils numériques repose sur la qualité de l'accompagnement et des formations proposées par les directions du numérique. Les principaux obstacles à l'adoption des logiciels libres résident dans la résistance au changement et l'existence d'irritants techniques sur la gestion des macros ou l'incompatibilité des formats de fichiers.
+
+V. LA SUITE NUMÉRIQUE INTERMINISTÉRIELLE ET LA STRATÉGIE STRATÉGIQUE D'AVENIR.
+
+   A. GENÈSE, ARCHITECTURE ET BRIQUES FONCTIONNELLES DE LA SUITE PORTÉE PAR LA DINUM.
+
+      Développée depuis deux mille vingt-trois pour remplacer le Sac à dos numérique de l'agent public, La Suite est la plateforme interministérielle d'outils collaboratifs souverains. Elle est accessible via le portail unique ProConnect qui enregistrait neuf cent trente mille connexions mensuelles à la fin de l'année deux mille vingt-cinq. La Suite vise à offrir un environnement ergonomique et sécurisé immunisé contre les droits extra-européens.
+
+      Le cœur de suite regroupe huit applications principales développées sur des bases libres. Il comprend la messagerie instantanée Tchap avec trois cent soixante-huit mille utilisateurs actifs, l'outil de visioconférence Visio, le service de transfert de fichiers volumineux FranceTransfert, le webmail Messagerie, l'espace de stockage Fichiers, le traitement de texte Docs, le gestionnaire de données Grist et la plateforme collaborative Resana.
+
+      Le développement de La Suite a représenté un coût de quarante millions d'euros pour la DINUM depuis deux mille vingt et un, avec une progression annuelle moyenne de quarante pour cent. L'architecture repose sur les nuages internes de l'État Nubo et Pi ou sur des hébergeurs qualifiés SecNumCloud. Les outils du cœur de suite ont vocation à être généralisés et interfacés avec les logiciels bureautiques.
+
+   B. LES LIMITES DU MODÈLE DE DÉVELOPPEMENT AGILE PAR FREELANCES ET LA RELATION AVEC LES ENTREPRISES DU SECTEUR.
+
+      La DINUM a développé La Suite en mode produit au sein de l'incubateur beta.gouv.fr en faisant appel à des informaticiens freelances. Ce modèle d'organisation adapté au lancement de startups d'État montre ses limites pour l'édition de logiciels professionnels à grande échelle, qui exige un support technique robuste et une maintenance pérenne.
+
+      Les entreprises françaises du numérique et le Conseil national du logiciel libre ont critiqué la démarche d'internalisation de la DINUM, l'accusant de faire une concurrence injustifiée aux éditeurs privés. Par comparaison, le gouvernement fédéral allemand confie le développement de sa suite libre ZenDiS à des entreprises privées du secteur du numérique.
+
+      La DINUM a engagé une ouverture de ses interfaces de programmation et publie l'intégralité de son code source. La circulaire du cinq février deux mille vingt-six invite la DINUM à privilégier l'achat de solutions existantes sur le marché et à renforcer ses partenariats avec les entreprises spécialisées dans le logiciel libre.
+
+   C. LA TRAJECTOIRE DE BASCULE VERS UNE BUREAUTIQUE LIBRE EN MODE CLOUD ET LES GAINS BUDGÉTAIRES PROJETÉS.
+
+      L'évolution des usages bureautiques s'oriente vers le travail collaboratif en ligne et l'intégration de l'intelligence artificielle en mode cloud. Alors que la majorité des ministères envisage de migrer vers l'offre cloud de Microsoft portée par le consortium Bleu, la Cour préconise d'orienter l'État vers une suite bureautique libre en nuage souverain.
+
+      Une suite bureautique libre hébergée sur un cloud qualifié SecNumCloud est évaluée par la DINUM à environ cent euros par poste et par an. Ce montant se compare très favorablement au coût annuel de deux cent cinquante euros par poste constaté pour la solution propriétaire Microsoft trois cent soixante-cinq.
+
+      La bascule de l'ensemble des huit cent soixante mille postes de travail des ministères vers une solution bureautique libre en mode cloud permettrait d'éviter une dépense supplémentaire de cent trente millions d'euros par an. Cette transition exige un plan pluriannuel de migration de trois à quatre ans intégrant la refonte des applications métiers et la formation des agents.
+
+   D. LES QUATRE RECOMMANDATIONS DE LA COUR DES COMPTES POUR L'HORIZON deux mille vingt-sept.
+
+      La première recommandation demande d'associer plus fortement, dès deux mille vingt-sept, les ministères à la conception de la feuille de route de La Suite et à sa gouvernance interministérielle sous l'autorité du Premier ministre.
+
+      La deuxième recommandation préconise d'intégrer, dès deux mille vingt-sept, l'ensemble des outils bureautiques et collaboratifs dans le périmètre de la gouvernance interministérielle pilotée par la DINUM.
+
+      La troisième recommandation préconise de faire évoluer, dès deux mille vingt-sept, le modèle de développement de La Suite pour s'appuyer davantage sur des entreprises du numérique disposant d'une expertise reconnue en matière de logiciels libres.
+
+      La quatrième recommandation invite à engager, dès deux mille vingt-sept, la convergence vers des outils bureautiques et collaboratifs interministériels libres en mode cloud et à prévoir un plan pluriannuel de migration sur trois à quatre ans au maximum pour orienter les stratégies des ministères et de leurs opérateurs.
+
+POINTS D'ATTENTION.
+
+      L'absence d'outil comptable analytique unifié au sein de l'État empêche une connaissance exacte et consolidée des dépenses informatiques globales.
+
+      L'utilisation de la solution cloud Microsoft trois cent soixante-cinq expose les données des ministères aux lois extraterritoriales américaines telles que le CLOUD Act et la section sept cent deux du FISA.
+
+      La cohabitation de la suite Microsoft Office et de la suite libre LibreOffice génère des irritants techniques et des incompatibilités de fichiers au quotidien.
+
+      Le développement de La Suite par la DINUM reposant sur des développeurs freelances n'est pas adapté à l'édition logicielle professionnelle et au support utilisateur à grande échelle.
+
+      Les entreprises privées du numérique reprochent à la DINUM d'exercer une concurrence injustifiée au lieu de financer l'amélioration des logiciels libres existants sur le marché.
+
+      Le consortium Bleu fondé par Capgemini et Orange ne bénéficie pas encore de la qualification SecNumCloud délivrée par l'ANSSI.
+
+      L'hébergement des données sur Microsoft trois cent soixante-cinq au ministère de la Culture a nécessité l'exclusion dérogatoire de sept mille sept cents comptes d'utilisateurs jugés sensibles.
+
+EXEMPLES CITES.
+
+      Le ministère de l'Intérieur affiche un coût moyen de vingt euros par poste informatique par an grâce au déploiement massif de LibreOffice.
+
+      Le ministère de la Culture enregistre un coût moyen de trois cent soixante-dix-huit euros par poste informatique par an en raison de son utilisation de Microsoft trois cent soixante-cinq.
+
+      La Direction générale de la Gendarmerie nationale équipe soixante-douze mille ordinateurs portables avec son propre système d'exploitation libre GendBuntu.
+
+      La Direction générale des finances publiques utilise la messagerie libre Thunderbird et a développé la plateforme collaborative Novae.
+
+      Le ministère de l'Éducation nationale déploie le programme ETNA reposant sur la messagerie Zimbra pour un virgule deux million d'agents.
+
+      L'École polytechnique a dû renoncer en mai deux mille vingt-six à son projet de migration vers la solution cloud Microsoft trois cent soixante-cinq sous la pression gouvernementale.
+
+      Le gouvernement fédéral allemand confie le développement de sa suite numérique libre ZenDiS aux entreprises privées de sa filière numérique.
+
+      L'application Visio développée par la DINUM remplace l'ensemble des solutions de visioconférence commerciales et les systèmes COMU dans les préfectures.
