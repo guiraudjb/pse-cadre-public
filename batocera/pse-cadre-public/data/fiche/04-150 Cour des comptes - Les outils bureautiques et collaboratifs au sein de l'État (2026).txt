@@ -1,0 +1,255 @@
+ANALYSE DES OUTILS BUREAUTIQUES ET COLLABORATIFS AU SEIN DE L'ÉTAT FRANÇAIS.
+
+LEXIQUE COMPLET.
+
+      La Cour des comptes désigne l'institution qui a réalisé ce rapport public thématique pour faire un état des lieux des usages et du coût des outils bureautiques et collaboratifs par les ministères.
+
+      La DINUM désigne la direction interministérielle du numérique qui développe La Suite, une suite numérique de l'agent public basée sur des logiciels libres.
+
+      La Suite désigne l'ensemble des applications de la DINUM, incluant des modules comme Tchap, Visio, France Transfert, Messagerie et Fichiers, qui visent à être généralisés au sein des administrations.
+
+      Le cloud désigne l'infrastructure informatique permettant l'usage de solutions comme Microsoft trois cent soixante-cinq, dont l'usage est encadré par la circulaire du trente et un mai deux mille vingt-trois.
+
+      SecNumCloud désigne le référentiel d'exigences de l'ANSSI qui garantit un niveau élevé de sécurité et de fiabilité pour les services cloud de l'État.
+
+      L'ANSSI désigne l'autorité qui a créé la qualification SecNumCloud pour protéger les systèmes d'information de l'État.
+
+      Les logiciels libres désignent des solutions informatiques qui constituent un gage d'indépendance et d'économies budgétaires, avec un potentiel d'économies estimé entre trente M euros et soixante-cinq M euros par an.
+
+      La DGGN désigne la direction générale de la gendarmerie nationale qui fait partie du ministère de l'Intérieur.
+
+      La DGFiP désigne la direction générale des finances publiques qui est une administration rattachée au ministère de l'Économie et des finances.
+
+      Bleu désigne une entreprise française détenue par Capgemini et Orange qui propose des solutions cloud de l'éditeur Microsoft dans un environnement visant la qualification SecNumCloud.
+
+      Le périmètre de l'étude désigne les administrations centrales et les services déconcentrés des ministères, représentant environ huit cent soixante mille postes de travail.
+
+COURS DÉTAILLÉ.
+
+I. CONTEXTE ET PÉRIMÈTRE DE L'ÉTUDE.
+
+   A. Objectifs du rapport et origine de la demande.
+
+      Ce rapport thématique de la Cour des comptes a été réalisé suite à une demande déposée sur la plateforme citoyenne de l'institution.
+
+      L'étude a pour mission de dresser un état des lieux précis des usages et du coût des outils bureautiques et collaboratifs utilisés par les ministères.
+
+      L'analyse s'inscrit dans un contexte où la maîtrise des dépenses publiques et la souveraineté numérique constituent des impératifs majeurs pour l'action de l'État.
+
+   B. Définition des outils et enjeux de souveraineté.
+
+      Les suites bureautiques comprennent les logiciels de traitement de texte, les tableurs et les supports de présentation.
+
+      Les outils collaboratifs englobent les messageries électroniques ou instantanées, la visioconférence ainsi que le partage de documents.
+
+      La souveraineté numérique impose de limiter le recours à un cloud commercial pour les données sensibles, sauf s'il est qualifié SecNumCloud par l'ANSSI ou bénéficie d'une qualification européenne équivalente.
+
+      L'enjeu est de garantir que ces systèmes soient immunisés contre tout accès non autorisé par les autorités publiques d'un État tiers.
+
+   C. Périmètre d'application et limites de l'analyse.
+
+      Le périmètre de l'étude se concentre sur les administrations centrales et les services déconcentrés des ministères.
+
+      Cette analyse couvre environ huit cent soixante mille postes de travail au sein de l'État.
+
+      Le rapport ne prend pas en compte les opérateurs de l'État, les autres administrations publiques comme les hôpitaux ou les collectivités territoriales, ni les organismes de sécurité sociale.
+
+      Les enjeux spécifiques liés à la cybersécurité ne sont pas abordés dans ce document, la Cour ayant déjà rendu un rapport dédié en juin deux mille vingt-cinq.
+
+II. ÉTAT DES LIEUX DES USAGES BUREAUTIQUES.
+
+   A. Prédominance de la suite Microsoft Office.
+
+      Malgré une large liberté de choix, la plupart des ministères utilisent massivement la suite Microsoft Office.
+
+      Certaines administrations comme les ministères des affaires sociales, de la culture ou de la direction générale de l'aviation civile ont généralisé l'usage de Microsoft trois cent soixante-cinq.
+
+      Cette version cloud de l'éditeur américain est mise à disposition de l'État sur les infrastructures techniques comme les ordinateurs individuels ou les serveurs partagés.
+
+      La majorité des ministères disent souhaiter continuer à utiliser la suite Microsoft Office et envisagent de migrer sur les infrastructures cloud Bleu, lorsque les logiciels de Microsoft pourront y être exploités sous la qualification souveraine SecNumCloud.
+
+      Le coût lié aux licences logicielles est important puisque soixante et un M euros sont consacrés en deux mille vingt-cinq aux licences logicielles bureautique et collaborative, dont les 4/5 sont en faveur de Microsoft.
+
+   B. Diversité des solutions et recours aux logiciels libres.
+
+      Le marché des outils collaboratifs n'est pas dominé par une solution unique et une trentaine d'outils différents ont été recensés dans les ministères.
+
+      La DINUM développe une suite numérique de l'agent public appelée La Suite, qui repose majoritairement sur des logiciels libres.
+
+      Les modules de La Suite comme Tchap, Visio, France Transfert, Messagerie ou Fichiers sont destinés à cohabiter avec les outils classiques.
+
+      Certains ministères comme l'Éducation nationale, l'Intérieur ou la Transition écologique privilégient l'usage de logiciels libres.
+
+      L'utilisation systématique de logiciels libres on-premises pourrait permettre des économies annuelles estimées entre trente M euros et soixante-cinq M euros.
+
+   C. Cas particuliers des administrations sans licences payantes.
+
+      Deux administrations ont choisi de renoncer totalement aux logiciels bureautiques d'éditeurs sous licence payante.
+
+      Il s'agit de la direction générale de la gendarmerie nationale et de la direction générale des finances publiques.
+
+      Le ministère de l'Intérieur limite fortement le nombre de licences Microsoft Office grâce à sa politique de logiciels libres.
+
+      Pour ses près de deux cent quatre-vingt-dix mille postes de travail, le ministère de l'Intérieur afficherait un coût moyen de seulement vingt euros par utilisateur.
+
+III. ÉVOLUTION DES OUTILS COLLABORATIFS ET RÔLE DE LA DINUM.
+
+   A. Développement de la suite numérique La Suite.
+
+      La DINUM a engagé une démarche de rationalisation en développant des outils communs regroupés sous l'appellation La Suite.
+
+      La plupart des applications de cet ensemble ont été développées par cette direction sur la base de logiciels libres respectant les exigences de souveraineté et d'interopérabilité.
+
+      Ces outils sont conçus pour être des solutions collaboratives destinées à cohabiter avec les outils bureautiques classiques.
+
+      L'objectif est que ces modules deviennent des outils de travail interministériels capables de s'intégrer avec les autres systèmes.
+
+   B. Modèle de développement par les startups d'État.
+
+      Les marchés utilisés par la DINUM pour le développement de La Suite reposent sur la mise à disposition d'informaticiens freelances.
+
+      Ce modèle de startup d'État permet d'allouer rapidement des ressources à un projet et de les ajuster de manière souple selon les évolutions.
+
+      Toutefois, ce mode de fonctionnement n'est pas adapté à l'édition logicielle professionnelle qui nécessite une vision du produit sur plusieurs années et une feuille de route technique robuste.
+
+      Le coût lié aux investigations de la DINUM pour La Suite a été d'environ quarante M euros au total depuis deux mille vingt et un.
+
+      Cette dépense est en progression continue avec une hausse de quarante pour cent en moyenne par an pour répondre aux nouveaux développements.
+
+   C. Maturation et généralisation des outils de la DINUM.
+
+      Après une période de tâtonnements où ils étaient peu connus, les outils développés par la DINUM ont gagné en maturité.
+
+      Certains modules comme la messagerie instantanée ou la visioconférence ont été récemment imposés à l'ensemble des administrations.
+
+      L'utilisation de ces outils progresse désormais dans le cadre d'une démarche de souveraineté et d'une logique de mutualisation.
+
+      Le cœur de suite comprend des outils tels que Tchap, Visio, France Transfert, Messagerie et Fichiers.
+
+      La DINUM a lancé le Club La Suite pour associer plus étroitement les ministères à l'expression des besoins et au suivi des développements.
+
+IV. ANALYSE DES COÛTS ET DES DÉPENSES.
+
+   A. Progression globale des dépenses et répartition par nature.
+
+      En deux mille vingt-cinq, l'État aurait dépensé cent M euros pour les outils bureautiques et collaboratifs sur un périmètre de huit cent soixante mille postes de travail.
+
+      Ce montant global a connu une forte progression sur les cinq dernières années avec une augmentation de cinquante pour cent.
+
+      Cette hausse des dépenses est principalement portée par la dynamique des investissements dans les licences logicielles.
+
+      La répartition des coûts en deux mille vingt-cinq montre que soixante et un M euros sont consacrés aux licences logicielles bureautique et collaborative, dont les 4/5 sont en faveur de Microsoft.
+
+      Les autres dépenses se répartissent entre vingt-six M euros pour l'achat de prestations et treize M euros pour la masse salariale des équipes numériques.
+
+   B. Disparités de coûts entre les ministères.
+
+      Le coût annuel moyen par utilisateur pour l'ensemble des huit cent soixante mille postes informatiques est estimé à quatre-vingt-sept euros.
+
+      Le ministère de l'intérieur affiche un coût moyen de seulement vingt euros par utilisateur grâce à sa politique de logiciels libres.
+
+      À l'inverse, le ministère de la culture présente un coût moyen beaucoup plus élevé de trois cent soixante-dix-huit euros par poste informatique.
+
+      Les dépenses varient fortement selon les choix technologiques, la taille des administrations et les logiciels utilisés.
+
+      La Cour des comptes note que le suivi administratif et financier de ces dépenses reste lacunaire à cause d'une comptabilité analytique défaillante.
+
+   C. Coûts liés au développement de La Suite.
+
+      Le coût des investigations menées par la DINUM pour le développement de La Suite s'élève à environ quarante M euros depuis deux mille vingt et un.
+
+      Ces dépenses sont en progression continue avec une hausse moyenne de quarante pour cent par an pour la DINUM.
+
+      Cette augmentation s'explique par la nécessité de réaliser de nouveaux développements pour ajouter de nouvelles applications.
+
+      Le modèle actuel repose sur l'utilisation d'informaticiens freelances pour permettre une allocation rapide des ressources.
+
+      Toutefois, ce modèle de développement n'est pas adapté à une vision de produit sur plusieurs années ou à l'édition logicielle professionnelle.
+
+V. ENJEUX DE SOUVERAINETÉ ET DE STRATÉGIE NUMÉRIQUE.
+
+   A. Limites du modèle actuel et dépendance aux éditeurs.
+
+      La gouvernance numérique de l'État repose historiquement sur une forte autonomie des ministères, ce qui a permis une grande liberté dans le choix des solutions logicielles.
+
+      Malgré cette liberté, la majorité des ministères utilisent massivement la suite Microsoft Office, créant une dépendance vis-à-vis de cet éditeur américain.
+
+      Certaines administrations comme les ministères des affaires sociales, de la culture ou de la direction générale de l'aviation civile ont déjà généralisé l'usage de Microsoft trois cent soixante-cinq.
+
+      Cette situation est contraire aux exigences de souveraineté numérique et d'indépendance vis-à-vis des éditeurs de logiciels.
+
+   B. Potentiel d'économies via les logiciels libres.
+
+      L'utilisation plus systématique de logiciels libres bureautiques en mode on-premises pourrait générer des économies annuelles estimées entre trente M euros et soixante-cinq M euros pour l'ensemble des ministères.
+
+      Le modèle des logiciels libres est considéré comme plus vertueux économiquement et constitue un gage d'indépendance pour les administrations publiques.
+
+      La DINUM développe actuellement La Suite, une suite numérique de l'agent public basée sur des logiciels libres respectant les exigences de souveraineté.
+
+      Pour renforcer cette stratégie, la Cour des comptes préconise de faire évoluer le modèle de développement de La Suite en s'appuyant davantage sur les entreprises du numérique spécialisées dans le logiciel libre.
+
+   C. Transition vers le cloud et exigences SecNumCloud.
+
+      La circulaire Cloud du trente et un mai deux mille vingt-trois limite le recours à un cloud commercial pour les données sensibles aux prestataires qualifiés SecNumCloud par l'ANSSI.
+
+      Le recours à un cloud commercial doit également garantir l'immunité contre tout accès non autorisé par les autorités publiques d'un État tiers.
+
+      Les ministères envisagent de migrer vers des infrastructures cloud comme Bleu, une solution française proposant des services Microsoft sous qualification SecNumCloud.
+
+      Toutefois, l'État devrait éviter une dépense supplémentaire pouvant atteindre cent trente M euros par an sur le seul périmètre de ses administrations centrales et services déconcentrés en optant pour ce modèle.
+
+      La stratégie recommandée est de travailler à l'émergence d'une solution bureautique libre en mode cloud ou qualifiée SecNumCloud comme alternative souveraine.
+
+VI. RECOMMANDATIONS DE LA COUR DES COMPTES.
+
+   A. Renforcement de la gouvernance interministérielle.
+
+      La Cour des comptes préconise d'associer plus fortement les ministères à la conception de la feuille de route de La Suite dès deux mille vingt-sept.
+
+      Cette démarche vise à impliquer davantage les administrations dans l'expression de leurs besoins et dans le suivi de la gouvernance interministérielle pilotée par la DINUM.
+
+      Il est également recommandé d'intégrer les outils bureautiques et collaboratifs dans le périmètre de cette gouvernance interministérielle dès deux mille vingt-sept.
+
+      Cette évolution doit permettre d'orienter de manière cohérente les stratégies numériques des ministères et de leurs opérateurs.
+
+   B. Évolution du modèle de développement et des partenariats.
+
+      Le modèle de développement de La Suite doit évoluer dès deux mille vingt-sept pour s'appuyer davantage sur des entreprises du numérique.
+
+      Ces partenaires doivent disposer d'une expertise reconnue en matière de logiciels libres pour garantir la robustesse technique des outils.
+
+      Cette recommandation vise à dépasser le modèle actuel basé sur l'utilisation d'informaticiens freelances pour assurer une vision de produit à long terme.
+
+   C. Convergence vers des outils libres et migration cloud.
+
+      L'État doit engager dès deux mille vingt-sept une convergence vers des outils bureautiques et collaboratifs interministériels libres.
+
+      La Cour des comptes suggère de prévoir un plan pluriannuel de migration sur une durée de trois à quatre ans au maximum.
+
+      L'objectif est de tendre vers une solution bureautique libre en mode cloud ou qualifiée SecNumCloud pour garantir la souveraineté numérique.
+
+      Une telle stratégie permettrait de réaliser des économies budgétaires estimées entre trente M euros et soixante-cinq M euros par an par rapport aux solutions propriétaires.
+
+POINTS D'ATTENTION.
+
+      Il ne faut pas confondre le nombre d'agents de l'État avec le nombre de postes de travail informatiques. Sur les deux virgule cinquante-sept millions d'agents de la fonction publique de l'État, huit cent soixante mille postes de travail sont concernés par le périmètre de cette étude.
+
+      La liberté de choix des ministères en matière de logiciels ne signifie pas une absence de contraintes. Le recours au cloud commercial est limité par la circulaire du trente et un mai deux mille vingt-trois qui impose une qualification SecNumCloud pour les données sensibles.
+
+      L'usage de la suite Microsoft Office n'est pas uniforme car certains ministères privilégient les logiciels libres. Le ministère de l'intérieur et le ministère de l'éducation nationale sont des exemples de structures utilisant davantage de solutions libres.
+
+      Le modèle de développement de La Suite par la DINUM repose sur des informaticiens freelances. Ce mode de fonctionnement permet une grande souplesse mais n'est pas adapté à une stratégie d'édition logicielle professionnelle sur le long terme.
+
+      Il est important de nuancer la perception du coût des outils bureautiques. Bien qu'en forte progression, la dépense de cent M euros reste modeste par rapport au budget numérique total de l'État estimé à cinq virgule cinq Md euros.
+
+EXEMPLES CITÉS.
+
+      Le ministère de l'intérieur affiche un coût moyen de seulement vingt euros par utilisateur grâce à sa politique de logiciels libres. À l'opposé, le ministère de la culture présente un coût moyen de trois cent soixante-dix-huit euros par poste informatique.
+
+      Les dépenses liées aux outils bureautiques et collaboratifs ont augmenté de cinquante pour cent au cours des cinq dernières années. En deux mille vingt-cinq, le montant total pour les huit cent soixante mille postes de travail est estimé à cent M euros.
+
+      La répartition des huit cent soixante mille postes informatiques montre une forte concentration dans certains ministères. Le ministère de la justice détient trente-quatre pour cent des postes, suivi par les armées avec vingt-trois pour cent et l'économie et les finances avec dix-huit pour cent.
+
+      Le coût de développement de La Suite par la DINUM a atteint environ quarante M euros depuis deux mille vingt et un. Cette dépense est en progression continue avec une hausse moyenne de quarante pour cent par an.
+
+      L'utilisation systématique de logiciels libres pourrait générer des économies annuelles comprises entre trente M euros et soixante-cinq M euros. Ce gain est estimé par la Cour des comptes en se basant sur les dépenses des ministères de l'économie et de l'intérieur.
